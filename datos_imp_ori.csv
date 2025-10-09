@@ -1,0 +1,181 @@
+﻿id;descripcion_nandina;categoria;subcategoria;anio_2024;anio_2023;anio_2022;anio_2021;anio_2020;anio_2019
+prim_0001;Diesel;Combustible;Carburante;1732,42;1821,10;2090,14;1163,10;548,59;878,36
+prim_0002;Gasolinas sin tetraetilo de plomo con un indice de antidetonante inferior a 87;Combustible;Carburante;879,35;1026,89;839,99;418,94;618,46;569,43
+prim_0003;Aceites lubricantes para motores a diesel;Lubricantes;Aceites para motor;129,46;190,68;172,58;156,16;121,03;99,86
+prim_0004;Aceites crudos de petroleo o de mineral bituminoso;Derivados del petróleo ;Sector energetico;105,97;110,60;119,15;109,61;112,79;102,31
+prim_0005;Vehiculos para transporte de mercancias con carga maxima inferior o igual a 4,537 t;Tranporte en general;Camiones;99,29;195,79;144,66;105,93;93,06;148,74
+prim_0006;Aceites lubricantes para motores a gasolina;Lubricantes;Aceites para motor;93,82;100,13;122,50;113,02;96,37;92,88
+prim_0007;Preparaciones compuestas cuyo g.a. es inferior o igual al 0.5% para la elaboracion de bebidas;Productos alimenticios;Aditivos y preparaciones;85,59;73,84;71,76;63,74;51,37;75,27
+prim_0008;Barras de hierro o acero sin alear y con muescas;Productos metalicos;Materiales estructurales;80,04;132,92;212,68;268,83;140,51;221,45
+prim_0009;Neumaticos radiales para automoviles de turismo;Sector automotriz;Partes y accesorios;64,65;77,33;80,37;51,15;31,66;41,21
+prim_0010;vehiculos de turismo para transporte de personas;Tranporte en general;Vehiculos;62,21;139,32;112,72;93,47;53,53;59,87
+prim_0011;Preparaciones tensoactivas, preparaciones para lavar y prepraciones de limpieza;Productos quimicos;Limpieza;57,97;58,29;58,96;48,51;47,91;52,72
+prim_0012;Motocicletas;Transporte en general;Motocicletas;56,50;70,03;70,61;72,31;40,70;43,56
+prim_0013;Aparatos de telecomunicacion por corriente portadora o telecomunicacion digital;Electronica;Dispositivos de red;53,39;51,11;46,00;45,00;49,59;21,03
+prim_0014;Herbicidas, inhibidores de germinacion y regulados de crecimiento de las plantas;Productos quimicos;Fitosanitarios;53,20;63,70;80,13;47,76;48,27;61,15
+prim_0015;Partes de turboreactores, turbopropulsores y demas turbinas de gas;Equipos mecanicos;Motores y propulsion;49,84;52,28;48,76;50,41;48,63;46,70
+prim_0016;Cerveza de malta;Productos alimenticios;Bebidas alcoholicas;47,72;35,42;22,96;22,19;15,12;11,77
+prim_0017;Polipropileno;Materiales plasticos;Termoplasticos;46,51;42,84;63,66;53,82;29,07;36,40
+prim_0018;Gasolinas sin tetraetilo de plomo con un indice de antidetonante superior o igual a 90 pero inferior a 95;Combustible;Carburante;46,37;56,46;65,01;61,02;51,71;479,12
+prim_0019;Harina de trigo;Productos alimenticios;Cereales y derivados;45,96;43,49;66,56;92,89;127,35;111,06
+prim_0020;Insecticidas presentados en envases;Productos quimicos;Control de plagas;44,87;53,44;49,94;40,87;37,93;45,20
+prim_0021;Maquinas autopropulsadas cuya seperestructura pueda girar 360 grados;Transporte y maquinaria pesada;Excavadoras;44,49;55,95;80,64;43,77;30,81;53,54
+prim_0022;Neumaticos para autobuses o caminones;Automotriz;Partes y accesorios;43,65;56,15;67,42;48,49;38,39;47,26
+prim_0023;Polietileno de densidad superior o igual a 0.94;Materiales plasticos;Plasticos;43,54;51,63;57,77;43,89;31,04;44,52
+prim_0024;Tractores de carretera para semirremolques;Transporte y maquinaria pesada;Tractores;36,22;52,43;71,79;52,47;36,13;22,69
+prim_0025;Tereftalato de etileno con un indice de viscosidad superior o igual a 78 ml/g;Materiales plasticos;Termoplasticos;35,11;34,26;45,86;25,65;22,07;27,03
+prim_0026;Cebada malteada en grano sin tostar;Productos alimenticios;Cereales y derivados;32,63;31,13;26,89;29,78;31,88;15,17
+prim_0027;Cocinas de combustible gaseoso, o de gas y otros combustibles;Electrodomesticos;Cocinas;31,94;31,86;42,57;43,00;49,04;64,28
+prim_0028;Polietileno de densidad inferior a 0.94;Materiales plasticos;Plasticos;31,58;29,73;38,19;28,87;21,86;23,77
+prim_0029;Reactores nucleares;Tecnologia;Energia nuclear;29,81;13,70;17,08;21,56;28,00;31,08
+prim_0030;Pasta quimica de madera semiblanqueada o blanqueada;Materia prima;Papeles;29,80;33,77;28,30;23,78;18,92;16,96
+prim_0031;Antibioticos para uso humano;Salud y Medicamentos;Antibioticos;29,52;48,19;37,87;35,46;30,17;35,74
+prim_0032;Fungicidas presentados en envases;Productos quimicos;Fitosanitarios;29,29;51,31;50,41;55,63;46,65;55,58
+prim_0033;Placas, laminas, hojas y tiras de polimeros de etileno no celular y sin refuerzo;Materia prima;Plasticos;28,77;30,98;27,78;20,85;21,64;22,08
+prim_0034;Maquinas centrifugadoras y secadoras centrifugas;Maquinas industriales;Centrifugadoras;28,24;25,63;24,17;18,47;26,10;13,91
+prim_0035;Conductores electricos de cobre para tension inferior o igual a 80 v;Electronica;Conductores electricos;27,77;25,98;24,60;19,10;21,20;18,04
+prim_0036;Preparaciones de belleza, maquillaje y para el cuidado de la piel excepto medicamentos;Productos cosmeticos;Belleza y cuidado de piel;27,11;29,97;25,37;19,03;16,19;19,07
+prim_0037;Hornos para tostacion, fusion u otros tratamientos termicos de los minerales metaliferos o de los metales;Maquinas industriales;Metalurgia;26,98;51,70;53,97;23,47;31,05;22,78
+prim_0038;Tubos de entubacion y tubos de perforacion sin soldadura del tipo de los utilizados para la extraccion de petroleo o gas;Maquinas industriales;Industria petrolera;26,95;36,14;21,64;19,87;25,78;32,51
+prim_0039;Vehiculos camperos 4x4 de cilindrada superior a 3.000 cm3;Transporte en general;Todoterrenos;26,51;38,24;34,02;35,79;22,07;22,76
+prim_0040;Preparaciones del tipo de las utilizadas para la alimentacion de los animales;Productos alimenticios;Alimentos para animales;26,27;28,67;25,62;24,64;25,02;22,18
+prim_0041;Perfumes y aguas de tocador;Productos cosmeticos;Fragancias;25,76;28,38;23,51;19,84;15,20;24,41
+prim_0042;Billetes de banco;Medios de pago ;Billetes;25,32;26,78;27,12;22,77;21,76;32,51
+prim_0043;Pañales para bebes de pasta de papel, guata de celulosa o napa de fibras de celulosa;Higiene personal;Pañales;23,26;26,67;35,97;34,05;41,24;51,50
+prim_0044;Vitaminas y productos similares para uso humano;Salud y Medicamentos;Suplementos nutricionales;23,07;21,10;22,50;18,31;19,17;21,20
+prim_0045;Hojas de papel;Productos de oficina;Papeles;22,85;24,32;21,17;18,08;19,08;17,60
+prim_0046;Policloruro de vinilo;Materia prima;Plasticos;22,43;22,39;38,51;38,51;13,09;32,06
+prim_0047;Maquinas autopropulsadas cargadoras y palas cargadoras de carga frontal;Transporte y maquinaria pesada;Equipos de carga;22,33;24,48;26,39;18,48;13,07;18,14
+prim_0048;Alimentos para perros o gatos;Productos alimenticios;Alimentos para animales;22,29;21,57;23,43;21,92;21,95;35,06
+prim_0049;Laminados planos de hierro o acero sin alear pintados, barnizados o revestidos de plastico;Productos metalicos;Laminados;22,04;21,60;37,90;16,28;15,13;23,38
+prim_0050;Dihidrogenoortofosfato de amonio;Productos quimicos;Fertilizantes;22,00;21,79;26,11;8,14;11,26;13,20
+prim_0051;Chocolates y demas prodcutos alimenticios que contengan cacao;Productos alimenticios;Chocolates;21,91;37,97;35,84;26,48;18,34;25,49
+prim_0052;Vacunas para uso en medicina humana;Salud y Medicamentos;Vacunas;21,80;14,78;19,78;20,17;17,46;21,47
+prim_0053;Bicicletas y demas velocipedos sin motor;Transporte en general;Bicicletas;21,51;0,00;20,32;18,47;17,43;14,60
+prim_0054;Medicamentos para uso humano;Salud y Medicamentos;Medicamentos en general;21,35;21,00;21,57;22,18;26,49;37,89
+prim_0055;Transformadores de dielectrico líquidos de potencia superior a 10.000 kva;Maquinas industriales;Transformadores;21,19;10,95;24,17;15,34;11,98;21,91
+prim_0056;Vacunas para uso en medicina veterinaria;Salud y Medicamentos;Medicina veterinaria;21,06;16,11;16,17;16,56;17,04;15,48
+prim_0057;Manzanas frescas;Productos alimenticios;Fruta;20,80;28,42;37,41;35,48;33,46;22,92
+prim_0058;Poliestireno expandible;Materiales plasticos;Plasticos;20,65;20,88;32,88;23,56;12,48;21,30
+prim_0059;Unidades de proceso digitales;Electronica;Procesadores;19,98;20,03;23,80;13,28;14,70;17,11
+prim_0060;Tableros de particulas de madera;Productos forestales;Materiales para muebles;19,70;22,87;23,28;20,65;18,73;20,13
+prim_0061;Telefonos inteligentes;Electronica;Telefonos inteligentes;19,70;29,99;20,96;8,03;15,24;0,07
+prim_0062;Computadoras portatiles;Electronica;Computadoras;18,55;24,31;24,23;15,87;11,26;18,56
+prim_0063;Productos manufacturados de plastico;Materiales plasticos;Productos varios de plastico;18,24;20,92;22,69;21,19;19,75;21,33
+prim_0064;Preparaciones para la higiene bucal o dental;Higiene personal;Higiene bucal;18,08;11,72;17,65;19,68;23,45;19,78
+prim_0065;Helicopteros de peso en vacio superior a 2.000 kg;Tranporte en general;Aeronaves de despegue vertical ;17,85;13,58;17,05;18,00;15,36;13,45
+prim_0066;Maquinas autopropulsadas de sondeo o perforacion;Transporte y maquinaria pesada;Equipos de perforacion ;17,79;3,58;22,17;20,00;19,01;14,63
+prim_0067;Perfiles de hierro o acero sin alear;Productos metalicos;Materiales estructurales;17,61;21,40;21,53;18,28;17,38;20,55
+prim_0068;Articulos para molinos;Maquinas industriales;Equipos y repuestos;17,60;19,39;19,06;14,28;15,70;12,12
+prim_0069;Gallos y gallinas vivos de peso inferior o igual a 185 g, de la especie domesticos;Animales vivos;Aves domesticas;17,11;15,55;19,65;17,52;14,53;0,00
+prim_0070;Polimeros acrilicos en formas primarias;Materiales plasticos;Acrilicos;17,05;18,80;12,03;11,60;14,40;18,14
+prim_0071;Preparaciones para la alimentación infantil;Productos alimenticios;Alimentos para infantes;16,78;20,89;20,44;20,00;19,80;17,05
+prim_0072;Maquinas para clasificar, cribar, separar o lavar, tierra, piedra u otra materias mineral solida;Maquinas industriales;Equipos de procesamiento;16,75;4,51;20,72;9,88;20,35;34,45
+prim_0073;Vehiculos electricos;Transporte en general;Vehiculos electricos;16,69;9,55;20,66;13,98;11,09;9,86
+prim_0074;Nitrato de amonio;Productos quimicos;Fertilizantes;16,60;17,39;19,35;10,30;17,68;15,63
+prim_0075;Tractores;Tranporte y maquinaria pesada;Maquinas agricolas;16,50;50,69;39,02;25,70;13,04;13,51
+prim_0076;Productos confiteros como bombones, caramelos, confites y pastillas;Productos alimenticios;Productos de confiteria;16,15;19,46;19,11;12,03;14,63;11,10
+prim_0077;Compuestos odoriferos;Productos quimicos;Compuestos odoriferos;16,08;14,63;19,56;12,74;11,98;11,66
+prim_0078;Calzados de tenis, baloncesto, gimnasia, entrenamiento y similares;Vestimenta y calzados;Calzados deportivos;15,62;22,65;21,03;18,97;19,20;22,70
+prim_0079;Aceites lubricantes para otros usos;Productos quimicos;Lubricantes;15,56;16,30;17,63;15,28;12,34;10,03
+prim_0080;Mascarillas de proteccion;Equipos de proteccion personal;Mascarillas;15,54;14,85;11,94;17,75;43,63;33,64
+prim_0081;Tejidos teñidos de punto o de fibras sinteticas;Textiles;Tejidos de punto;15,36;21,93;26,08;19,47;11,64;21,18
+prim_0082;Placas, laminas, hojas y tiras de polimeros, de propileno sin refuerzo;Materiales plasticos;Plasticos;15,30;16,26;16,10;12,65;11,75;10,74
+prim_0083;Partes de hornos industriales o de laboratorio incluidos los incineradores, que no sean electricos;Maquinas industriales;Equipos y repuestos;15,00;14,80;17,76;17,73;12,17;19,40
+prim_0084;Maquinas para el acondicionamiento de aire de inferior o igual a 30000 btu/hora;Electrodomesticos;Equipos de climatizacion;14,98;10,71;13,70;15,45;12,12;7,52
+prim_0085;Las demas maquinas de sondeo o perforacion;Transporte y maquinaria pesada;Equipos de perforacion ;14,95;12,14;17,24;14,69;13,45;10,02
+prim_0086;Calzados con suela y parte superior de caucho o plastico;Vestimenta y calzados;Calzados varios;14,94;24,01;24,81;15,63;18,60;20,79
+prim_0087;Tubos de acero soldados de seccion circular;Productos alimenticios;Materiales estructurales;14,76;14,66;23,94;15,26;16,03;18,79
+prim_0088;Depositos, barriles y recipientes similares de aluminio de capacidad inferior o igual a 300 L;Envases y recipientes;Recipientes metalicos;14,67;21,04;16,95;18,48;12,34;13,68
+prim_0089;Preparaciones aglutinantes para nucleos de fundicion;Productos quimicos;Aglutinantes para fundicion;14,56;15,00;16,51;11,80;11,83;7,71
+prim_0090;Champues;Higiene personal;Productos capilares;14,49;12,68;16,49;8,62;16,71;19,48
+prim_0091;Preparaciones a base de extractos, esencias o concentrados de cafe;Productos alimenticios;Café y derivados;14,35;19,73;15,00;18,63;11,74;15,05
+prim_0092;Aparatos para filtrar lubricantes o carburantes de motores de gasolina o diesel;Sector automotriz;Sistemas de filtrado;14,31;16,16;17,69;13,21;11,68;11,88
+prim_0093;Refrigeradores y frigoríficos;Electrodomesticos;Refrigeradores;14,11;15,33;24,49;22,32;15,45;17,12
+prim_0094;Tapones, tapas, capsulas y demas dispositivos de cierre de plastico;Envases y recipientes;Dispositivos de cierre;14,06;14,38;15,73;13,18;11,64;14,51
+prim_0095;Cigarrillos que contengan tabaco rubio;Productos de tabaco;Cigarrilos;14,02;14,62;15,66;11,21;16,50;14,39
+prim_0096;Condimentos y sazonadores;Productos alimenticios;Condimentos;13,97;12,80;15,64;16,63;11,48;14,58
+prim_0097;Los demas trigos;Productos alimenticios;Cereales y derivados;13,95;6,35;15,53;11,51;11,29;19,02
+prim_0098;Hidrogenoortofosfato de diamonio;Productos quimicos;Fertilizantes;13,90;9,10;8,40;10,63;9,70;7,06
+prim_0099;Tapones y tapas roscadas, capsulas para botellas, precintos y demas accesorios para envases de metal comun;Envases y recipientes;Dispositivos de cierre;13,89;11,99;15,34;7,64;11,36;9,05
+prim_0100;Betun de petroleo;Derivados del petróleo ;Betunes y asfaltos;106,04;63,56;88,45;55,47;35,82;48,79
+prim_0101;Modulos de generadores electricos de corriente alterna;Maquinas industriales;Generadores;71,86;59,66;63,08;57,40;37,14;13,30
+prim_0102;Cosechadoras;Transporte y maquinaria pesada;Maquinas agricolas;45,36;16,66;21,65;27,93;35,14;40,90
+prim_0103;Perfiles de aleaciones de aluminio;Productos metalicos;Materiales estructurales;38,43;36,10;28,45;24,05;14,16;47,04
+prim_0104;Aviones y demas aeronaves mayores a 15 T;Transporte en general;Aeronaves pesadas;32,46;23,68;29,03;35,78;64,80;86,86
+prim_0105;Mezclas bituminosas a base de asfalto;Derivados del petróleo ;Construccion vial;32,28;30,46;28,25;29,00;37,05;34,39
+prim_0106;Aparatos receptores de television en colores;Electronica;Televisores;27,45;25,60;30,00;32,50;36,42;70,30
+prim_0107;Partes de telefonos, telefonos inteligentes, redes inalambricas, aparatos de emision, transmision o recepcion de tv;Electronica;Componentes de telecomunicaciones y electronica;25,80;27,00;32,58;30,00;30,44;21,67
+prim_0108;Las demas vacunas para la medicina veterinaria;Salud y Medicamentos;Medicina veterinaria;25,50;33,54;39,63;34,10;28,70;22,25
+prim_0109;Maquinas pulverizadoras para agricultura u horticultura;Maquinas industriales;Maquinas agricolas;24,06;11,16;14,85;14,32;14,74;13,45
+prim_0110;Productos laminados planos cincados de hierro o de acero sin alear;Productos metalicos;Laminados;23,64;17,15;24,63;21,90;14,15;24,37
+prim_0111;Malta (de cebada u otros cereales) sin tostar;Productos alimenticios;Cereales y derivados;21,30;17,52;14,20;10,00;12,29;9,26
+prim_0112;Sembradoras, plantadoras y trasplantadoras usadas para la siembra directa;Transporte y maquinaria pesada;Maquinas agricolas;19,74;16,63;15,00;17,56;12,28;12,58
+prim_0113;Productos laminados planos de hierro o acero sin alear y revestidos de aleaciones de aluminio y zinc;Productos metalicos;Laminados;19,69;21,89;20,47;20,00;12,20;20,97
+prim_0114;Placas y baldosas para pavimentacion o revestimiento;Materiales de construccion;Placas;11,25;15,00;20,60;15,40;11,83;17,29
+prim_0115;Torres y castilletes de hierro o acero;Materiales de construccion;Estructuras metalicas;19,53;17,87;15,66;12,00;11,67;8,42
+prim_0116;Las demas preparaciones para la alimentacion infantil acondicionadas para la venta al por menor;Productos alimenticios;Alimentos para infantes;19,07;10,48;14,62;25,70;11,13;11,20
+prim_0117;Instrumentos y aparatos de medicina, cirugia, oftalmologia, odontologia y veterinaria;Equipos medicos;Instrumentos y equipos por especialidad;17,19;7,65;12,80;12,03;27,87;15,55
+prim_0118;Alambrones de hierro o acero sin alear de seccion circular con diametro inferior a 14 mm;Productos metalicos;Alambrones;16,03;11,81;16,35;12,74;11,22;10,00
+prim_0119;Reactivos de diagnostico o de laboratorio;Productos de laboratorio;Reactivos de diagnostico;15,61;13,45;19,10;18,97;14,50;10,00
+prim_0120;Productos laminados planos de hierro o acero sin alear, cincados electroliticamente;Productos metalicos;Laminados;27,38;25,01;18,99;15,28;13,45;12,02
+prim_0121;Tubos y perfiles huecos soldados de seccion cuadrada o rectangular;Productos metalicos;Materiales estructurales;24,15;15,29;13,56;17,75;21,56;25,70
+prim_0122;Los demás aparatos para uso medico, quirurgico o veterinario;Equipos medicos;Instrumentos y equipos por especialidad;20,32;25,45;19,66;24,74;22,40;20,00
+prim_0123;Articulos de plastico para uso domestico y articulos de higiene o de tocador;Materiales plasticos;Productos varios de plastico;20,20;29,43;25,72;22,77;27,89;25,63
+prim_0124;Alambre de cobre refinado con seccion transversal superior a 6 mm;Productos metalicos;Alambres;20,65;20,88;32,88;23,56;12,48;21,30
+prim_0125;Fibras sinteticas discontinuas, cardadas, peinadas para la hilatura, acrilica o modacrilica;Textiles;Fibras sinteticas;20,55;15,38;17,86;13,70;11,19;11,62
+prim_0126;Las demas turbinas de gas de potencia superior a 5000 kw;Maquinas industriales;Generadores;16,20;12,04;15,54;14,85;11,94;9,78
+prim_0127;Las demas,armas (por ejemplo:armas largas y pistolas de muelle (resortes),aire comprimido o gas,porras),excepto las de la partida no 93.07;Armas y dispositivos de defensa;Armas neumaticas, mecanicas y contundentes;16,35;17,33;13,44;12,01;12,68;13,66
+prim_0128;Grupos electrogenos de energia eolica;Tecnologia;Energia eolica;25,36;26,66;21,65;27,93;19,14;20,90
+prim_0129;Aparatos de ozonoterapia, oxigenoterapia o aerosolterapia, aparatos respiratorios de reanimacion y demas aparatos de terapia respiratoria;Equipos medicos;Dispositivos terapéuticos respiratorios;18,34;16,01;18,54;14,50;14,61;17,40
+prim_0130;Las demás vajillas y demas articulos de plastico para el servicio de mesa o de cocina;Materiales plasticos;Productos varios de plastico;12,64;13,86;19,30;15,87;14,08;16,68
+prim_0131;Compresas y tampones higienicos de pasta de papel, papel, guata de celulosa o napa de fibras de celulosa;Higiene personal;Compresas y tampones higienicos;15,49;15,41;14,72;19,41;16,54;12,32
+prim_0132;Abonos minerales o quimicos con nitrogeno, fosforo y potasio;Productos quimicos;Fertilizantes;112,36;89,29;126,96;98,65;85,58;140,53
+prim_0133;Ascensores y montacargas;Maquinas industriales;Equipos de elevacion vertical;19,33;7,02;11,40;9,02;59,74;6,50
+prim_0134;Mezclas y pastas para la preparacion de productos de panaderia, pasteleria o galletria;Productos alimenticios;Mezclas y pastas para panaderia;18,99;26,04;24,94;22,68;26,94;28,26
+prim_0135;Generadores de corriente alterna de potencia superior a 750 kva;Maquinas industriales;Generadores;17,23;8,12;17,69;13,21;16,16;19,73
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
