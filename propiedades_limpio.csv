@@ -1,0 +1,1285 @@
+﻿id,tipo,estado,oferta,precio,moneda,nro_ambientes,nro_banios,zona,ciudad,area_m2,latitud,longitud
+CAS00001,casa,disponible,alquiler,2500.0,dolar,4,6,Aranjuez,La Paz,450.0,-16.556362,-68.109787
+DEP00001,departamento,disponible,alquiler,650.0,dolar,3,3,Calacoto,La Paz,160.0,-16.541677,-68.083839
+TER00001,terreno,disponible,venta,85500.0,dolar,0,0,Mallasilla,La Paz,310.0,-16.566319,-68.100128
+CAS00002,casa,disponible,venta,280000.0,dolar,4,5,Mallasa,La Paz,350.0,-16.58375,-68.078125
+PAR00001,parqueo,disponible,venta,9000.0,dolar,0,0,San Jorge,La Paz,10.0,-16.513435,-68.120384
+CAS00003,casa,disponible,alquiler,2500.0,dolar,5,4,Obrajes,La Paz,260.0,-16.524572,-68.113152
+CAS00004,casa,disponible,venta,768000.0,dolar,5,6,Auquisamaña,La Paz,475.0,-16.548054,-68.069832
+DEP00002,departamento,disponible,alquiler,570.0,dolar,2,3,Calacoto,La Paz,150.0,-16.539167,-68.074059
+CAS00005,casa,disponible,venta,350000.0,dolar,4,5,Río Abajo,La Paz,393.0,-16.594164,-68.071121
+DEP00003,departamento,disponible,venta,155000.0,dolar,3,3,Achumani,La Paz,103.0,-16.519627,-68.06356
+CAS00006,casa,disponible,venta,460000.0,dolar,3,3,Achumani,La Paz,547.0,-16.517569,-68.062363
+DEP00004,departamento,disponible,alquiler,1500.0,dolar,3,5,Achumani,La Paz,220.0,-16.529913,-68.073952
+OFI00001,oficina,disponible,venta,220000.0,dolar,5,3,Sopocachi,La Paz,221.0,-16.512682,-68.12532
+LOC00001,local comercial,disponible,venta,224000.0,dolar,2,4,Achumani,La Paz,168.0,-16.518681,-68.056099
+CAS00007,casa,disponible,venta,160000.0,dolar,5,5,Achumani,La Paz,367.0,-16.51189,-68.065796
+DEP00005,departamento,disponible,alquiler,550.0,dolar,3,4,Calacoto,La Paz,157.0,-16.538263,-68.079208
+DEP00006,departamento,disponible,venta,136400.0,dolar,3,3,Achumani,La Paz,125.0,-16.513908,-68.05912
+OFI00002,oficina,disponible,alquiler,980.0,dolar,1,1,San Jorge,La Paz,157.0,-16.509956,-68.124435
+CAS00008,casa,disponible,alquiler,1300.0,dolar,3,4,Auquisamaña,La Paz,320.0,-16.548332,-68.069252
+DEP00007,departamento,disponible,alquiler,570.0,dolar,2,2,Calacoto,La Paz,120.0,-16.539497,-68.078262
+CAS00009,casa,disponible,alquiler,500.0,dolar,2,2,Achumani,La Paz,120.0,-16.510698,-68.058052
+DEP00008,departamento,disponible,alquiler,2200.0,dolar,4,5,Achumani,La Paz,241.0,-16.526087,-68.065689
+LOC00002,local comercial,disponible,alquiler,2100.0,dolar,1,3,Calacoto,La Paz,196.0,-16.54501,-68.084526
+DEP00009,departamento,disponible,venta,172000.0,dolar,4,3,Sopocachi,La Paz,155.0,-16.51082,-68.126396
+OFI00003,oficina,disponible,alquiler,430.0,dolar,1,1,San Jorge,La Paz,60.0,-16.51193,-68.121948
+CAS00010,casa,disponible,alquiler,700.0,dolar,1,1,Achumani,La Paz,20.0,-16.53018,-68.069916
+CAS00011,casa,disponible,alquiler,2000.0,dolar,4,6,Irpavi,La Paz,430.0,-16.521395,-68.087128
+DEP00010,departamento,disponible,venta,135000.0,dolar,2,3,San Miguel,La Paz,115.0,-16.542953,-68.079849
+DEP00011,departamento,disponible,venta,107900.0,dolar,2,2,Cota Cota,La Paz,102.0,-16.541842,-68.066032
+OFI00004,oficina,disponible,venta,184000.0,dolar,5,2,Centro,La Paz,122.0,-16.500656,-68.133301
+DEP00012,departamento,disponible,alquiler,350.0,dolar,1,1,Calacoto,La Paz,64.0,-16.538921,-68.07328
+CAS00012,casa,disponible,alquiler,1200.0,dolar,3,6,Achumani,La Paz,400.0,-16.521067,-68.064873
+DEP00013,departamento,disponible,alquiler,1500.0,dolar,3,5,Calacoto,La Paz,235.0,-16.54044,-68.088104
+DEP00014,departamento,disponible,alquiler,1800.0,dolar,3,4,Calacoto,La Paz,260.0,-16.541471,-68.087105
+CAS00013,casa,disponible,alquiler,1100.0,dolar,3,4,Achumani,La Paz,230.0,-16.523331,-68.065109
+CAS00014,casa,disponible,venta,125000.0,dolar,3,3,Río Abajo,La Paz,220.0,-16.602203,-68.065567
+CAS00015,casa,disponible,venta,695000.0,dolar,7,6,Achumani,La Paz,791.0,-16.518805,-68.063904
+TER00002,terreno,disponible,venta,265000.0,dolar,0,0,Irpavi,La Paz,2000.0,-16.502714,-68.080948
+CAS00016,casa,disponible,venta,190000.0,dolar,3,3,Koani,La Paz,240.0,-16.527349,-68.078781
+CAS00017,casa,disponible,venta,510000.0,dolar,5,4,Achumani,La Paz,383.0,-16.536989,-68.081161
+DEP00015,departamento,disponible,alquiler,850.0,dolar,2,2,Calacoto,La Paz,106.0,-16.537645,-68.078308
+DEP00016,departamento,disponible,venta,98000.0,dolar,2,2,Sopocachi,La Paz,89.0,-16.516087,-68.129997
+DEP00017,departamento,disponible,venta,105000.0,dolar,1,1,La Florida,La Paz,65.0,-16.548426,-68.087814
+CAS00018,casa,disponible,venta,1000000.0,dolar,5,9,Río Abajo,La Paz,993.0,-16.60766,-68.070366
+DEP00018,departamento,disponible,venta,135000.0,dolar,3,3,Miraflores,La Paz,118.0,-16.488476,-68.125191
+LOC00003,local comercial,disponible,venta,213000.0,dolar,2,4,Achumani,La Paz,165.0,-16.518517,-68.055687
+DEP00019,departamento,disponible,alquiler,500.0,dolar,1,1,Los Pinos,La Paz,48.0,-16.538921,-68.076202
+OFI00005,oficina,disponible,alquiler,2500.0,dolar,12,6,Obrajes,La Paz,300.0,-16.529707,-68.101433
+DEP00020,departamento,disponible,venta,200000.0,dolar,3,4,Obrajes,La Paz,131.0,-16.528753,-68.102844
+DEP00021,departamento,disponible,venta,44444.0,dolar,1,1,Chasquipampa,La Paz,33.0,-16.537891,-68.039955
+TER00003,terreno,disponible,venta,62000.0,dolar,0,0,Seguencoma,La Paz,300.0,-16.548979,-68.09787
+DEP00022,departamento,disponible,venta,59500.0,dolar,2,1,Pampahasi,La Paz,70.0,-16.48971,-68.096176
+CAS00019,casa,disponible,venta,470000.0,dolar,4,6,Achumani,La Paz,536.0,-16.523247,-68.068283
+CAS00020,casa,disponible,venta,980000.0,dolar,4,6,San Alberto,La Paz,591.0,-16.529499,-68.091774
+DEP00023,departamento,disponible,venta,110000.0,dolar,2,2,Achumani,La Paz,93.0,-16.516253,-68.063477
+DEP00024,departamento,disponible,venta,125000.0,dolar,2,2,Irpavi,La Paz,85.0,-16.529705,-68.087044
+DEP00025,departamento,disponible,alquiler,419.0,dolar,2,2,San Jorge,La Paz,116.0,-16.514585,-68.119461
+DEP00026,departamento,disponible,alquiler,380.0,dolar,3,3,San Miguel,La Paz,122.0,-16.540249,-68.079994
+DEP00027,departamento,disponible,alquiler,750.0,dolar,3,4,Calacoto,La Paz,153.0,-16.539621,-68.084335
+DEP00028,departamento,disponible,venta,120000.0,dolar,2,3,Obrajes,La Paz,95.0,-16.525839,-68.108131
+DEP00029,departamento,disponible,venta,434000.0,dolar,4,5,Calacoto,La Paz,365.0,-16.539722,-68.082428
+CAS00021,casa,disponible,venta,595000.0,dolar,4,7,Calacoto,La Paz,526.0,-16.538263,-68.076462
+DEP00030,departamento,disponible,alquiler,900.0,dolar,3,3,Calacoto,La Paz,110.0,-16.540319,-68.086159
+DEP00031,departamento,disponible,alquiler,460.0,dolar,2,3,Calacoto,La Paz,88.0,-16.537727,-68.074402
+DEP00032,departamento,disponible,venta,192300.0,dolar,3,4,Calacoto,La Paz,177.0,-16.543858,-68.083328
+DEP00033,departamento,disponible,alquiler,570.0,dolar,3,4,Los Pinos,La Paz,120.0,-16.54431,-68.073204
+DEP00034,departamento,disponible,alquiler,600.0,dolar,2,2,San Miguel,La Paz,98.0,-16.544024,-68.077873
+TER00004,terreno,disponible,venta,76169.0,dolar,0,0,Irpavi,La Paz,1000.0,-16.503023,-68.089081
+DEP00035,departamento,disponible,venta,44444.0,dolar,1,1,El Pedregal,La Paz,333.0,-16.547882,-68.051529
+LOC00004,local comercial,disponible,venta,40824.0,dolar,1,1,Achumani,La Paz,46.0,-16.519587,-68.053566
+DEP00036,departamento,disponible,anticretico,85000.0,dolar,3,3,Centro,La Paz,155.0,-16.48745,-68.140129
+EDI00001,edificio,disponible,venta,3500000.0,dolar,10,10,Centro,La Paz,2510.0,-16.496975,-68.135017
+CAS00022,casa,disponible,alquiler,1150.0,dolar,4,6,Mallasilla,La Paz,450.0,-16.56739,-68.103432
+DEP00037,departamento,disponible,alquiler,600.0,dolar,2,2,San Jorge,La Paz,80.0,-16.51226,-68.122375
+DEP00038,departamento,disponible,alquiler,790.0,dolar,3,3,Calacoto,La Paz,110.0,-16.540319,-68.083755
+DEP00039,departamento,disponible,venta,245000.0,dolar,3,4,Achumani,La Paz,153.0,-16.523638,-68.068024
+DEP00040,departamento,disponible,venta,72500.0,dolar,3,2,Seguencoma,La Paz,103.0,-16.537479,-68.097122
+CAS00023,casa,disponible,alquiler,1500.0,dolar,4,8,Achumani,La Paz,450.0,-16.509586,-68.055412
+DEP00041,departamento,disponible,alquiler,950.0,dolar,3,3,Calacoto,La Paz,231.0,-16.540937,-68.087143
+DEP00042,departamento,disponible,venta,85000.0,dolar,2,1,Achumani,La Paz,60.0,-16.523413,-68.054382
+CAS00024,casa,disponible,venta,800000.0,dolar,6,7,Cota Cota,La Paz,770.0,-16.539701,-68.057274
+DEP00043,departamento,disponible,venta,499000.0,dolar,4,5,Obrajes,La Paz,312.0,-16.525263,-68.112938
+DEP00044,departamento,disponible,alquiler,500.0,dolar,3,3,Sopocachi,La Paz,105.0,-16.511799,-68.126427
+CAS00025,casa,disponible,venta,490000.0,dolar,4,5,Río Abajo,La Paz,520.0,-16.621616,-68.056526
+DEP00045,departamento,disponible,venta,250000.0,dolar,4,4,Achumani,La Paz,220.0,-16.516705,-68.060944
+TER00005,terreno,disponible,venta,77000.0,dolar,0,0,Achumani,La Paz,352.0,-16.520285,-68.051888
+CAS00026,casa,disponible,alquiler,4000.0,dolar,5,2,San Miguel,La Paz,409.0,-16.542604,-68.077896
+DEP00046,departamento,disponible,venta,128000.0,dolar,3,3,Bella Vista,La Paz,131.0,-16.534395,-68.09446
+DEP00047,departamento,disponible,venta,55555.0,dolar,1,1,Centro,La Paz,55.0,-16.4858,-68.137001
+DEP00048,departamento,disponible,venta,112600.0,dolar,2,2,Los Pinos,La Paz,82.0,-16.543591,-68.071548
+OFI00006,oficina,disponible,alquiler,800.0,dolar,5,2,San Miguel,La Paz,120.0,-16.541225,-68.079292
+CAS00027,casa,disponible,venta,320000.0,dolar,7,5,Achumani,La Paz,524.0,-16.521355,-68.059059
+CAS00028,casa,disponible,alquiler,2400.0,dolar,6,4,Achumani,La Paz,520.0,-16.530653,-68.074036
+DEP00049,departamento,disponible,venta,122500.0,dolar,2,2,San Miguel,La Paz,95.0,-16.545258,-68.078819
+CAS00029,casa,disponible,venta,130000.0,dolar,3,2,Los Pinos,La Paz,103.0,-16.542992,-68.074318
+DEP00050,departamento,disponible,alquiler,325.0,dolar,1,1,San Miguel,La Paz,46.0,-16.544518,-68.078903
+CAS00030,casa,disponible,alquiler,1600.0,dolar,3,6,Achumani,La Paz,421.0,-16.512035,-68.059189
+CAS00031,casa,disponible,venta,650000.0,dolar,4,7,Auquisamaña,La Paz,554.0,-16.549206,-68.074097
+DEP00051,departamento,disponible,anticretico,35000.0,dolar,3,2,Irpavi,La Paz,92.0,-16.50477,-68.083435
+CAS00032,casa,disponible,venta,620000.0,dolar,9,7,Sopocachi,La Paz,455.0,-16.514194,-68.133347
+DEP00052,departamento,disponible,venta,135000.0,dolar,2,2,Achumani,La Paz,95.0,-16.514606,-68.059273
+TER00006,terreno,disponible,venta,431000.0,dolar,0,0,Sopocachi,La Paz,344.0,-16.513639,-68.129417
+DEP00053,departamento,disponible,alquiler,500.0,dolar,3,4,Calacoto,La Paz,155.0,-16.538509,-68.073799
+CAS00033,casa,disponible,venta,499000.0,dolar,6,8,Calacoto,La Paz,405.0,-16.539249,-68.074059
+DEP00054,departamento,disponible,venta,98500.0,dolar,2,1,Irpavi,La Paz,112.0,-16.526249,-68.086182
+TER00007,terreno,disponible,venta,95000.0,dolar,0,0,Calacoto,La Paz,300.0,-16.539333,-68.073975
+DEP00055,departamento,disponible,venta,265000.0,dolar,4,5,San Miguel,La Paz,264.0,-16.543468,-68.078346
+DEP00056,departamento,disponible,venta,285000.0,dolar,3,3,Obrajes,La Paz,232.0,-16.523947,-68.110794
+DEP00057,departamento,disponible,alquiler,480.0,dolar,1,1,San Jorge,La Paz,35.0,-16.513803,-68.121765
+CAS00034,casa,disponible,alquiler,1800.0,dolar,4,6,Achumani,La Paz,450.0,-16.510059,-68.053673
+DEP00058,departamento,disponible,alquiler,1150.0,dolar,3,4,Calacoto,La Paz,153.0,-16.540731,-68.087448
+DEP00059,departamento,disponible,venta,33333.0,dolar,1,1,Cota Cota,La Paz,33.0,-16.541842,-68.06826
+CAS00035,casa,disponible,alquiler,1800.0,dolar,4,5,Achumani,La Paz,530.0,-16.50934,-68.054207
+OFI00007,oficina,disponible,alquiler,3835.0,dolar,5,2,Calacoto,La Paz,451.0,-16.541143,-68.084953
+CAS00036,casa,disponible,alquiler,1400.0,dolar,3,2,Calacoto,La Paz,150.0,-16.54213,-68.087013
+DEP00060,departamento,disponible,venta,277000.0,dolar,4,6,Calacoto,La Paz,216.0,-16.540525,-68.088478
+DEP00061,departamento,disponible,alquiler,550.0,dolar,2,3,San Jorge,La Paz,142.0,-16.511848,-68.122208
+DEP00062,departamento,disponible,venta,125000.0,dolar,3,3,Obrajes,La Paz,116.0,-16.524029,-68.111137
+DEP00063,departamento,disponible,alquiler,650.0,dolar,3,4,Obrajes,La Paz,130.0,-16.528616,-68.101952
+CAS00037,casa,disponible,anticretico,165000.0,dolar,4,5,Calacoto,La Paz,400.0,-16.537172,-68.077621
+DEP00064,departamento,disponible,venta,114400.0,dolar,2,2,Achumani,La Paz,148.0,-16.513887,-68.059166
+OFI00008,oficina,disponible,venta,205000.0,dolar,5,2,San Miguel,La Paz,138.0,-16.542131,-68.079163
+DEP00065,departamento,disponible,venta,115000.0,dolar,2,3,Achumani,La Paz,100.0,-16.507954,-68.054138
+DEP00066,departamento,disponible,alquiler,350.0,dolar,1,1,San Jorge,La Paz,79.0,-16.510654,-68.122742
+OFI00009,oficina,disponible,alquiler,1500.0,dolar,16,7,Irpavi,La Paz,430.0,-16.525879,-68.086182
+DEP00067,departamento,disponible,alquiler,1200.0,dolar,3,5,Calacoto,La Paz,211.0,-16.541471,-68.084808
+OFI00010,oficina,disponible,venta,300000.0,dolar,10,5,Obrajes,La Paz,298.0,-16.527472,-68.106056
+DEP00068,departamento,disponible,venta,140000.0,dolar,3,3,Seguencoma,La Paz,140.0,-16.544146,-68.095856
+CAS00038,casa,disponible,venta,650000.0,dolar,4,6,Auquisamaña,La Paz,469.0,-16.548136,-68.069206
+CAS00039,casa,disponible,venta,820000.0,dolar,4,5,Auquisamaña,La Paz,513.0,-16.548796,-68.063499
+DEP00069,departamento,disponible,alquiler,370.0,dolar,2,2,San Jorge,La Paz,75.0,-16.512342,-68.122208
+EDI00002,edificio,disponible,venta,4700000.0,dolar,44,26,Sopocachi,La Paz,6000.0,-16.513618,-68.128456
+CAS00040,casa,disponible,venta,550000.0,dolar,4,4,Obrajes,La Paz,430.0,-16.52693,-68.102036
+DEP00070,departamento,disponible,alquiler,1200.0,dolar,2,2,Calacoto,La Paz,106.0,-16.541471,-68.088692
+CAS00041,casa,disponible,venta,770000.0,dolar,12,12,Miraflores,La Paz,997.0,-16.488312,-68.122551
+DEP00071,departamento,disponible,venta,98100.0,dolar,2,2,Achumani,La Paz,72.0,-16.50894,-68.05143
+DEP00072,departamento,disponible,anticretico,20000.0,dolar,1,1,Irpavi,La Paz,50.0,-16.515511,-68.086098
+DEP00073,departamento,disponible,venta,165000.0,dolar,3,3,Sopocachi,La Paz,109.0,-16.515759,-68.126648
+CAS00042,casa,disponible,alquiler,1600.0,dolar,5,6,Achumani,La Paz,500.0,-16.511932,-68.056374
+DEP00074,departamento,disponible,venta,135700.0,dolar,3,4,Achumani,La Paz,119.0,-16.509113,-68.051331
+CAS00043,casa,disponible,venta,750000.0,dolar,5,6,Achumani,La Paz,467.0,-16.519554,-68.064049
+LOC00005,local comercial,disponible,alquiler,300.0,dolar,1,1,Obrajes,La Paz,30.0,-16.525675,-68.109764
+DEP00075,departamento,disponible,venta,139000.0,dolar,3,3,Achumani,La Paz,127.0,-16.529749,-68.074547
+DEP00076,departamento,disponible,alquiler,400.0,dolar,1,2,Calacoto,La Paz,80.0,-16.540731,-68.084267
+DEP00077,departamento,disponible,alquiler,510.0,dolar,3,4,Achumani,La Paz,149.0,-16.524647,-68.067574
+DEP00078,departamento,disponible,anticretico,35000.0,dolar,3,3,Irpavi,La Paz,92.0,-16.505152,-68.084114
+CAS00044,casa,disponible,venta,250000.0,dolar,3,4,Cota Cota,La Paz,259.0,-16.540165,-68.071465
+CAS00045,casa,disponible,alquiler,1500.0,dolar,4,6,Achumani,La Paz,470.0,-16.534149,-68.074173
+DEP00079,departamento,disponible,alquiler,470.0,dolar,2,3,Calacoto,La Paz,88.0,-16.539249,-68.090439
+DEP00080,departamento,disponible,alquiler,1200.0,dolar,3,4,Achumani,La Paz,160.0,-16.527836,-68.070305
+DEP00081,departamento,disponible,venta,98200.0,dolar,3,2,Achumani,La Paz,110.0,-16.524698,-68.055344
+TER00008,terreno,disponible,venta,155000.0,dolar,0,0,Río Abajo,La Paz,1287.0,-16.607428,-68.07061
+DEP00082,departamento,disponible,venta,55555.0,dolar,1,1,Centro,La Paz,55.0,-16.485556,-68.1409
+OFI00011,oficina,disponible,venta,50000.0,dolar,2,1,San Miguel,La Paz,43.0,-16.540588,-68.07943
+CAS00046,casa,disponible,venta,890000.0,dolar,8,11,Obrajes,La Paz,1019.0,-16.524975,-68.10849
+LOC00006,local comercial,disponible,alquiler,4000.0,dolar,2,5,San Miguel,La Paz,409.0,-16.543324,-68.077789
+CAS00047,casa,disponible,alquiler,1500.0,dolar,4,4,Achumani,La Paz,530.0,-16.518805,-68.065842
+DEP00083,departamento,disponible,alquiler,350.0,dolar,3,3,Calacoto,La Paz,130.0,-16.538591,-68.074394
+CAS00048,casa,disponible,venta,918267.0,dolar,22,16,Centro,La Paz,754.0,-16.495802,-68.133797
+OFI00012,oficina,disponible,alquiler,1200.0,dolar,3,5,Calacoto,La Paz,240.0,-16.539333,-68.082123
+CAS00049,casa,disponible,venta,350000.0,dolar,3,3,Achumani,La Paz,325.0,-16.510771,-68.058167
+DEP00084,departamento,disponible,venta,72500.0,dolar,1,1,Irpavi,La Paz,50.0,-16.529211,-68.085495
+TER00009,terreno,disponible,venta,59000.0,dolar,0,0,Achumani,La Paz,305.0,-16.50502,-68.056183
+DEP00085,departamento,disponible,venta,155000.0,dolar,3,3,San Jorge,La Paz,121.0,-16.511017,-68.123558
+LOC00007,local comercial,disponible,venta,697.0,dolar,1,2,San Miguel,La Paz,22.0,-16.543262,-68.078003
+CAS00050,casa,disponible,anticretico,90000.0,dolar,3,5,Achumani,La Paz,333.0,-16.514606,-68.058929
+OFI00013,oficina,disponible,alquiler,25000.0,dolar,12,4,San Jorge,La Paz,268.0,-16.507219,-68.126373
+LOC00008,local comercial,disponible,venta,42552.0,dolar,1,1,Achumani,La Paz,48.0,-16.522951,-68.057465
+DEP00086,departamento,disponible,alquiler,480.0,dolar,1,1,San Miguel,La Paz,34.0,-16.544455,-68.079758
+DEP00087,departamento,disponible,venta,215000.0,dolar,3,5,Sopocachi,La Paz,198.0,-16.512754,-68.123688
+CAS00051,casa,disponible,alquiler,1600.0,dolar,3,4,Achumani,La Paz,300.0,-16.528555,-68.069054
+DEP00088,departamento,disponible,venta,155000.0,dolar,2,3,Los Pinos,La Paz,106.0,-16.54501,-68.07045
+CAS00052,casa,disponible,alquiler,2200.0,dolar,4,6,Irpavi,La Paz,410.0,-16.525673,-68.087128
+EDI00003,edificio,disponible,venta,4770000.0,dolar,25,12,Miraflores,La Paz,3270.0,-16.494236,-68.121117
+DEP00089,departamento,disponible,venta,260000.0,dolar,3,5,Auquisamaña,La Paz,202.0,-16.547087,-68.076591
+DEP00090,departamento,disponible,alquiler,850.0,dolar,2,3,Los Pinos,La Paz,127.0,-16.539703,-68.076202
+DEP00091,departamento,disponible,alquiler,480.0,dolar,1,1,Calacoto,La Paz,45.0,-16.538366,-68.076202
+OFI00014,oficina,disponible,venta,180000.0,dolar,8,3,San Miguel,La Paz,178.0,-16.541759,-68.078781
+DEP00092,departamento,disponible,alquiler,2500.0,dolar,4,5,Auquisamaña,La Paz,350.0,-16.547354,-68.07383
+DEP00093,departamento,disponible,venta,115000.0,dolar,2,2,Irpavi,La Paz,95.0,-16.502035,-68.083138
+DEP00094,departamento,disponible,venta,222000.0,dolar,3,4,Obrajes,La Paz,130.0,-16.524893,-68.111649
+DEP00095,departamento,disponible,venta,106000.0,dolar,2,2,Achumani,La Paz,83.0,-16.516335,-68.063904
+CAS00053,casa,disponible,alquiler,2000.0,dolar,4,5,Achumani,La Paz,460.0,-16.531712,-68.063744
+DEP00096,departamento,disponible,alquiler,1500.0,dolar,3,5,Auquisamaña,La Paz,205.0,-16.548466,-68.075752
+TER00010,terreno,disponible,venta,1350000.0,dolar,0,0,San Miguel,La Paz,630.0,-16.542953,-68.078217
+OFI00015,oficina,disponible,alquiler,5000.0,dolar,3,4,San Miguel,La Paz,580.0,-16.543036,-68.079376
+OFI00016,oficina,disponible,alquiler,4600.0,dolar,3,2,Sopocachi,La Paz,72.0,-16.51156,-68.128113
+DEP00097,departamento,disponible,alquiler,300.0,dolar,3,3,Irpavi,La Paz,130.0,-16.521065,-68.087555
+CAS00054,casa,disponible,alquiler,2500.0,dolar,4,7,Achumani,La Paz,361.0,-16.533831,-68.070122
+OFI00017,oficina,disponible,alquiler,330.0,dolar,3,2,San Jorge,La Paz,70.0,-16.511602,-68.122459
+LOC00009,local comercial,disponible,venta,42552.0,dolar,1,1,Achumani,La Paz,48.0,-16.518887,-68.056953
+CAS00055,casa,disponible,venta,130747.0,dolar,3,4,Achocalla,La Paz,430.0,-16.588949,-68.146523
+DEP00098,departamento,disponible,venta,230000.0,dolar,3,5,Obrajes,La Paz,248.0,-16.528152,-68.105728
+CAS00056,casa,disponible,alquiler,800.0,dolar,3,4,Cota Cota,La Paz,280.0,-16.539448,-68.057892
+DEP00099,departamento,disponible,venta,82000.0,dolar,3,3,Achumani,La Paz,91.0,-16.518599,-68.06105
+CAS00057,casa,disponible,alquiler,600.0,dolar,4,6,Achumani,La Paz,260.0,-16.515594,-68.056099
+DEP00100,departamento,disponible,venta,312500.0,dolar,3,4,Obrajes,La Paz,180.0,-16.525017,-68.112511
+DEP00101,departamento,disponible,venta,203000.0,dolar,3,4,Obrajes,La Paz,114.0,-16.525593,-68.112335
+CAS00058,casa,disponible,venta,400000.0,dolar,4,4,Achumani,La Paz,351.0,-16.514236,-68.059189
+DEP00102,departamento,disponible,venta,200000.0,dolar,3,2,Sopocachi,La Paz,87.0,-16.507931,-68.128159
+LOC00010,local comercial,disponible,alquiler,14000.0,dolar,2,1,Achumani,La Paz,186.0,-16.534428,-68.075462
+DEP00103,departamento,disponible,venta,185000.0,dolar,4,3,Sopocachi,La Paz,167.0,-16.5137,-68.130516
+LOC00011,local comercial,disponible,alquiler,450.0,dolar,1,2,Calacoto,La Paz,79.0,-16.541183,-68.088341
+TER00011,terreno,disponible,venta,65000.0,dolar,0,0,Irpavi,La Paz,450.0,-16.501232,-68.075623
+OFI00018,oficina,disponible,venta,52000.0,dolar,1,1,Calacoto,La Paz,71.0,-16.540649,-68.084702
+CAS00059,casa,disponible,venta,332000.0,dolar,3,3,Río Abajo,La Paz,320.0,-16.61084,-68.070152
+CAS00060,casa,disponible,alquiler,2500.0,dolar,5,4,Obrajes,La Paz,260.0,-16.524214,-68.111694
+DEP00104,departamento,disponible,venta,83900.0,dolar,2,2,Irpavi,La Paz,70.0,-16.529881,-68.088654
+OFI00019,oficina,disponible,alquiler,1400.0,dolar,2,2,San Jorge,La Paz,214.0,-16.510635,-68.124611
+DEP00105,departamento,disponible,venta,93000.0,dolar,3,2,Alto Obrajes,La Paz,118.0,-16.522814,-68.106262
+LOC00012,local comercial,disponible,alquiler,900.0,dolar,1,2,Achumani,La Paz,77.0,-16.518229,-68.063477
+CAS00061,casa,disponible,venta,330000.0,dolar,3,3,Irpavi,La Paz,311.0,-16.516045,-68.086098
+CAS00062,casa,disponible,alquiler,1200.0,dolar,8,3,Miraflores,La Paz,330.0,-16.49366,-68.121887
+TER00012,terreno,disponible,venta,160000.0,dolar,0,0,Obrajes,La Paz,224.0,-16.523041,-68.109589
+CAS00063,casa,disponible,venta,850000.0,dolar,4,5,La Florida,La Paz,1000.0,-16.549154,-68.086777
+DEP00106,departamento,disponible,venta,110000.0,dolar,3,2,Achumani,La Paz,124.0,-16.523672,-68.051407
+TER00013,terreno,disponible,venta,737360.0,dolar,0,0,Achumani,La Paz,1418.0,-16.518742,-68.058823
+TER00014,terreno,disponible,venta,93800.0,dolar,0,0,Río Abajo,La Paz,852.0,-16.635227,-68.047943
+CAS00064,casa,disponible,alquiler,2200.0,dolar,5,3,Calacoto,La Paz,188.0,-16.543694,-68.085983
+OFI00020,oficina,disponible,alquiler,3900.0,dolar,15,8,Calacoto,La Paz,545.0,-16.5429,-68.084435
+OFI00021,oficina,disponible,alquiler,1000.0,dolar,4,3,Calacoto,La Paz,143.0,-16.539888,-68.081863
+OFI00022,oficina,disponible,alquiler,440.0,dolar,4,1,Calacoto,La Paz,97.0,-16.545504,-68.083839
+LOC00013,local comercial,disponible,venta,249000.0,dolar,2,4,Achumani,La Paz,215.0,-16.524399,-68.067772
+DEP00107,departamento,disponible,alquiler,500.0,dolar,3,3,Calacoto,La Paz,140.0,-16.538673,-68.078346
+DEP00108,departamento,disponible,alquiler,800.0,dolar,3,5,Achumani,La Paz,460.0,-16.526539,-68.069656
+DEP00109,departamento,disponible,venta,175000.0,dolar,3,3,La Florida,La Paz,150.0,-16.550434,-68.087502
+LOC00014,local comercial,disponible,venta,450000.0,dolar,3,5,Centro,La Paz,343.0,-16.500801,-68.132935
+OFI00023,oficina,disponible,alquiler,750.0,dolar,6,4,Sopocachi,La Paz,145.0,-16.508516,-68.126907
+DEP00110,departamento,disponible,venta,125000.0,dolar,3,4,Achumani,La Paz,152.0,-16.520451,-68.0597
+CAS00065,casa,disponible,venta,622000.0,dolar,7,6,Obrajes,La Paz,557.0,-16.528555,-68.103493
+CAS00066,casa,disponible,venta,490000.0,dolar,8,7,Achumani,La Paz,573.0,-16.534355,-68.070091
+OFI00024,oficina,disponible,alquiler,630.0,dolar,5,2,Los Pinos,La Paz,104.0,-16.540813,-68.07634
+DEP00111,departamento,disponible,alquiler,1300.0,dolar,3,5,Calacoto,La Paz,254.0,-16.540073,-68.083923
+CAS00067,casa,disponible,venta,1200000.0,dolar,7,8,San Pedro,La Paz,900.0,-16.504402,-68.1315
+CAS00068,casa,disponible,venta,600000.0,dolar,4,7,Aranjuez,La Paz,500.0,-16.557823,-68.11219
+CAS00069,casa,disponible,venta,950000.0,dolar,6,5,Calacoto,La Paz,600.0,-16.541719,-68.089935
+DEP00112,departamento,disponible,venta,108000.0,dolar,2,2,Irpavi,La Paz,80.0,-16.515553,-68.08799
+CAS00070,casa,disponible,venta,335000.0,dolar,4,5,Calacoto,La Paz,272.0,-16.543776,-68.084442
+DEP00113,departamento,disponible,alquiler,550.0,dolar,3,3,Calacoto,La Paz,150.0,-16.538097,-68.07637
+CAS00071,casa,disponible,venta,850000.0,dolar,4,8,Achocalla,La Paz,1020.0,-16.572857,-68.131714
+CAS00072,casa,disponible,alquiler,1250.0,dolar,8,4,Calacoto,La Paz,220.0,-16.542788,-68.086418
+DEP00114,departamento,disponible,alquiler,550.0,dolar,3,3,Obrajes,La Paz,116.0,-16.525181,-68.108902
+CAS00073,casa,disponible,alquiler,1400.0,dolar,4,5,Calacoto,La Paz,320.0,-16.536926,-68.073586
+DEP00115,departamento,disponible,alquiler,800.0,dolar,3,4,Achumani,La Paz,141.0,-16.537399,-68.079788
+CAS00074,casa,disponible,alquiler,700.0,dolar,3,4,Chasquipampa,La Paz,250.0,-16.530407,-68.055664
+DEP00116,departamento,disponible,venta,145000.0,dolar,3,3,Alto Irpavi,La Paz,144.0,-16.520018,-68.081352
+CAS00075,casa,disponible,venta,550000.0,dolar,4,6,Achumani,La Paz,305.0,-16.530119,-68.068367
+LOC00015,local comercial,disponible,alquiler,1800.0,dolar,1,4,Centro,La Paz,70.0,-16.495838,-68.135292
+TER00015,terreno,disponible,venta,125000.0,dolar,0,0,Auquisamaña,La Paz,580.0,-16.552496,-68.06665
+OFI00025,oficina,disponible,venta,180000.0,dolar,5,2,San Miguel,La Paz,120.0,-16.541204,-68.079308
+EDI00004,edificio,disponible,venta,275000.0,dolar,11,10,El Pedregal,La Paz,443.0,-16.545792,-68.053482
+DEP00117,departamento,disponible,venta,113000.0,dolar,3,4,Achumani,La Paz,145.0,-16.522425,-68.059616
+DEP00118,departamento,disponible,venta,146000.0,dolar,3,2,Achumani,La Paz,146.0,-16.519381,-68.0597
+DEP00119,departamento,disponible,alquiler,550.0,dolar,1,1,San Miguel,La Paz,70.0,-16.539909,-68.080666
+CAS00076,casa,disponible,alquiler,2400.0,dolar,4,4,Achumani,La Paz,320.0,-16.530693,-68.075111
+CAS00077,casa,disponible,venta,850000.0,dolar,4,7,Achumani,La Paz,526.0,-16.510565,-68.053787
+DEP00120,departamento,disponible,venta,74000.0,dolar,2,1,Irpavi,La Paz,73.0,-16.506006,-68.081314
+TER00016,terreno,disponible,venta,760000.0,dolar,0,0,Auquisamaña,La Paz,800.0,-16.548136,-68.077042
+CAS00078,casa,disponible,alquiler,1300.0,dolar,4,4,Calacoto,La Paz,220.0,-16.542048,-68.089851
+TER00017,terreno,disponible,venta,190000.0,dolar,0,0,Cota Cota,La Paz,400.0,-16.540134,-68.065903
+CAS00079,casa,disponible,alquiler,2500.0,dolar,4,6,Achumani,La Paz,590.0,-16.524729,-68.055923
+DEP00121,departamento,disponible,alquiler,862.0,dolar,2,3,Calacoto,La Paz,110.0,-16.539497,-68.073883
+DEP00122,departamento,disponible,venta,157000.0,dolar,3,3,Alto Irpavi,La Paz,162.0,-16.530857,-68.085922
+OFI00026,oficina,disponible,alquiler,320.0,dolar,5,2,San Jorge,La Paz,63.0,-16.510696,-68.123085
+GAL00001,galpon,disponible,alquiler,1300.0,dolar,3,4,Sopocachi,La Paz,330.0,-16.518978,-68.128952
+DEP00123,departamento,disponible,venta,164050.0,dolar,3,3,San Miguel,La Paz,162.19,-16.545282,-68.078362
+DEP00124,departamento,disponible,alquiler,380.0,dolar,2,2,Calacoto,La Paz,160.0,-16.541636,-68.090195
+OFI00027,oficina,disponible,alquiler,2000.0,dolar,8,4,Calacoto,La Paz,450.0,-16.540319,-68.088303
+DEP00125,departamento,disponible,venta,125000.0,dolar,3,4,Seguencoma,La Paz,127.0,-16.538713,-68.097893
+DEP00126,departamento,disponible,venta,85000.0,dolar,2,2,Cota Cota,La Paz,98.0,-16.542171,-68.060188
+OFI00028,oficina,disponible,alquiler,500.0,dolar,1,1,San Jorge,La Paz,55.0,-16.509729,-68.123375
+CAS00080,casa,disponible,alquiler,1500.0,dolar,4,4,Achumani,La Paz,219.0,-16.534027,-68.076523
+CAS00081,casa,disponible,venta,855000.0,dolar,5,2,La Florida,La Paz,303.0,-16.547171,-68.09024
+TER00018,terreno,disponible,venta,77280.0,dolar,0,0,Río Abajo,La Paz,1288.0,-16.64386,-68.046127
+DEP00127,departamento,disponible,venta,550000.0,dolar,5,8,San Miguel,La Paz,480.0,-16.545382,-68.080154
+DEP00128,departamento,disponible,venta,200000.0,dolar,4,5,Achumani,La Paz,168.0,-16.534849,-68.075493
+DEP00129,departamento,disponible,alquiler,650.0,dolar,2,3,San Miguel,La Paz,130.0,-16.543478,-68.079796
+DEP00130,departamento,disponible,venta,298000.0,dolar,6,6,Obrajes,La Paz,342.0,-16.524586,-68.111626
+DEP00131,departamento,disponible,venta,170000.0,dolar,3,4,Achumani,La Paz,165.0,-16.519709,-68.064079
+DEP00132,departamento,disponible,alquiler,850.0,dolar,3,3,Calacoto,La Paz,110.0,-16.540094,-68.084465
+DEP00133,departamento,disponible,alquiler,1400.0,dolar,4,4,Calacoto,La Paz,228.0,-16.537687,-68.076035
+DEP00134,departamento,disponible,alquiler,1500.0,dolar,3,4,Calacoto,La Paz,235.0,-16.539785,-68.087662
+TER00019,terreno,disponible,venta,93800.0,dolar,0,0,Río Abajo,La Paz,852.0,-16.625666,-68.053818
+DEP00135,departamento,disponible,venta,128500.0,dolar,2,2,La Florida,La Paz,103.0,-16.54859,-68.088074
+DEP00136,departamento,disponible,venta,139000.0,dolar,2,2,Calacoto,La Paz,91.0,-16.538921,-68.074402
+OFI00029,oficina,disponible,alquiler,500.0,dolar,1,1,San Miguel,La Paz,60.0,-16.543776,-68.079163
+CAS00083,casa,disponible,venta,250000.0,dolar,4,3,Sopocachi,La Paz,329.0,-16.514935,-68.129997
+DEP00137,departamento,disponible,alquiler,1500.0,dolar,4,6,Calacoto,La Paz,300.0,-16.538757,-68.07457
+DEP00138,departamento,disponible,alquiler,818.0,dolar,2,2,San Miguel,La Paz,100.0,-16.542896,-68.081673
+DEP00139,departamento,disponible,alquiler,1700.0,dolar,4,5,Achumani,La Paz,290.0,-16.517899,-68.062706
+CAS00084,casa,disponible,anticretico,180000.0,dolar,5,5,Irpavi,La Paz,488.0,-16.525345,-68.08567
+DEP00140,departamento,disponible,venta,180000.0,dolar,3,3,Los Pinos,La Paz,162.0,-16.540813,-68.075516
+DEP00141,departamento,disponible,venta,298000.0,dolar,6,4,Obrajes,La Paz,342.0,-16.524405,-68.113602
+CAS00085,casa,disponible,venta,235000.0,dolar,4,3,Koani,La Paz,260.0,-16.529272,-68.078903
+EDI00005,edificio,disponible,venta,1150000.0,dolar,10,10,San Pedro,La Paz,1000.0,-16.50218,-68.144974
+CAS00086,casa,disponible,venta,850000.0,dolar,10,11,San Miguel,La Paz,240.0,-16.542126,-68.079552
+TER00020,terreno,disponible,venta,550000.0,dolar,0,0,San Jorge,La Paz,579.0,-16.514914,-68.120552
+DEP00142,departamento,disponible,venta,260000.0,dolar,3,5,Calacoto,La Paz,201.0,-16.540731,-68.083672
+CAS00087,casa,disponible,alquiler,2500.0,dolar,4,4,Auquisamaña,La Paz,300.0,-16.549452,-68.075493
+TER00021,terreno,disponible,venta,95000.0,dolar,0,0,Achumani,La Paz,352.0,-16.526157,-68.061417
+DEP00143,departamento,disponible,alquiler,700.0,dolar,2,2,Auquisamaña,La Paz,85.0,-16.547003,-68.076584
+OFI00030,oficina,disponible,venta,113000.0,dolar,5,2,San Jorge,La Paz,85.0,-16.51193,-68.122292
+CAS00088,casa,disponible,venta,380000.0,dolar,3,4,Achumani,La Paz,300.0,-16.528339,-68.06897
+DEP00144,departamento,disponible,venta,135000.0,dolar,3,3,Alto Irpavi,La Paz,131.0,-16.523556,-68.079681
+CAS00089,casa,disponible,venta,670000.0,dolar,4,5,Achumani,La Paz,361.0,-16.535795,-68.07077
+OFI00031,oficina,disponible,venta,219000.0,dolar,10,3,Sopocachi,La Paz,221.0,-16.512888,-68.125183
+CAS00090,casa,disponible,venta,850000.0,dolar,5,6,Cota Cota,La Paz,715.0,-16.5382,-68.054268
+CAS00091,casa,disponible,venta,390000.0,dolar,4,6,Mallasilla,La Paz,325.0,-16.569096,-68.105339
+DEP00145,departamento,disponible,anticretico,70000.0,dolar,2,2,Calacoto,La Paz,126.0,-16.539743,-68.082382
+DEP00146,departamento,disponible,alquiler,800.0,dolar,3,3,Calacoto,La Paz,170.0,-16.541389,-68.084869
+DEP00147,departamento,disponible,venta,115000.0,dolar,2,2,Los Pinos,La Paz,87.0,-16.539085,-68.075684
+DEP00148,departamento,disponible,venta,218000.0,dolar,3,4,Achumani,La Paz,223.0,-16.517496,-68.061409
+CAS00092,casa,disponible,venta,450001.0,dolar,4,6,Auquisamaña,La Paz,350.0,-16.548218,-68.075943
+DEP00149,departamento,disponible,alquiler,600.0,dolar,1,1,San Miguel,La Paz,51.0,-16.543283,-68.078049
+OFI00032,oficina,disponible,alquiler,250.0,dolar,5,2,San Miguel,La Paz,60.0,-16.541965,-68.080925
+DEP00150,departamento,disponible,venta,450000.0,dolar,3,4,La Florida,La Paz,202.0,-16.547335,-68.087555
+DEP00151,departamento,disponible,venta,115000.0,dolar,3,3,Achumani,La Paz,115.0,-16.522179,-68.062279
+DEP00152,departamento,disponible,venta,286000.0,dolar,3,4,Los Pinos,La Paz,257.0,-16.541513,-68.075951
+DEP00153,departamento,disponible,venta,105000.0,dolar,3,4,Achumani,La Paz,151.0,-16.518517,-68.058716
+DEP00154,departamento,disponible,alquiler,2500.0,dolar,2,4,Auquisamaña,La Paz,240.0,-16.548418,-68.07576
+DEP00155,departamento,disponible,venta,235000.0,dolar,3,4,Sopocachi,La Paz,174.0,-16.515263,-68.130272
+CAS00093,casa,disponible,alquiler,1200.0,dolar,4,5,San Miguel,La Paz,313.0,-16.5446,-68.077538
+DEP00156,departamento,disponible,venta,170000.0,dolar,3,2,Miraflores,La Paz,205.0,-16.49399,-68.121498
+DEP00157,departamento,disponible,venta,135000.0,dolar,3,3,Obrajes,La Paz,116.0,-16.525921,-68.108299
+DEP00158,departamento,disponible,alquiler,500.0,dolar,1,1,San Miguel,La Paz,37.0,-16.543776,-68.077103
+CAS00094,casa,disponible,venta,620000.0,dolar,5,5,Cota Cota,La Paz,550.0,-16.541842,-68.067535
+OFI00033,oficina,disponible,alquiler,380.0,dolar,1,1,San Miguel,La Paz,40.0,-16.542562,-68.080055
+OFI00034,oficina,disponible,venta,285000.0,dolar,8,3,Calacoto,La Paz,172.0,-16.541595,-68.088005
+TER00022,terreno,disponible,venta,65000.0,dolar,0,0,Achocalla,La Paz,1500.0,-16.570801,-68.117981
+LOC00016,local comercial,disponible,alquiler,3500.0,dolar,4,5,Miraflores,La Paz,700.0,-16.503611,-68.123734
+DEP00159,departamento,disponible,alquiler,500.0,dolar,1,1,Calacoto,La Paz,50.0,-16.541143,-68.083496
+OFI00035,oficina,disponible,alquiler,1500.0,dolar,5,3,Sopocachi,La Paz,190.0,-16.511362,-68.124565
+DEP00160,departamento,disponible,alquiler,400.0,dolar,2,2,Achumani,La Paz,88.0,-16.532463,-68.073433
+CAS00095,casa,disponible,alquiler,2000.0,dolar,5,7,Achumani,La Paz,560.0,-16.495169,-68.052109
+EDI00006,edificio,disponible,venta,2250000.0,dolar,20,15,San Jorge,La Paz,1250.0,-16.513371,-68.120255
+OFI00036,oficina,disponible,alquiler,250.0,dolar,1,1,San Miguel,La Paz,60.0,-16.542213,-68.080025
+CAS00096,casa,disponible,venta,920000.0,dolar,3,5,Calacoto,La Paz,300.0,-16.541883,-68.087532
+OFI00037,oficina,disponible,venta,220000.0,dolar,3,3,Sopocachi,La Paz,190.0,-16.513384,-68.131889
+CAS00097,casa,disponible,venta,650000.0,dolar,4,6,La Florida,La Paz,540.0,-16.551964,-68.084778
+DEP00161,departamento,disponible,alquiler,480.0,dolar,2,3,Calacoto,La Paz,104.0,-16.538088,-68.07737
+LOC00017,local comercial,disponible,venta,175500.0,dolar,2,2,Achumani,La Paz,130.0,-16.52623,-68.07122
+OFI00038,oficina,disponible,alquiler,800.0,dolar,5,2,San Miguel,La Paz,120.0,-16.541277,-68.079636
+EDI00007,edificio,disponible,venta,4700000.0,dolar,44,26,Sopocachi,La Paz,6000.0,-16.514935,-68.130943
+EDI00008,edificio,disponible,venta,2900000.0,dolar,20,20,San Jorge,La Paz,1295.0,-16.513977,-68.121902
+CAS00098,casa,disponible,venta,797000.0,dolar,4,5,La Florida,La Paz,1000.0,-16.54966,-68.087234
+DEP00162,departamento,disponible,venta,490000.0,dolar,3,5,Calacoto,La Paz,280.0,-16.538757,-68.079033
+DEP00163,departamento,disponible,venta,140000.0,dolar,2,2,Los Pinos,La Paz,91.0,-16.540997,-68.073097
+OFI00039,oficina,disponible,alquiler,1000.0,dolar,4,3,Calacoto,La Paz,143.0,-16.540073,-68.081955
+LOC00018,local comercial,disponible,alquiler,3500.0,dolar,1,4,Calacoto,La Paz,337.0,-16.539497,-68.086243
+DEP00164,departamento,disponible,venta,115000.0,dolar,3,3,El Pedregal,La Paz,108.0,-16.546944,-68.055435
+DEP00165,departamento,disponible,alquiler,1500.0,dolar,3,4,Auquisamaña,La Paz,202.0,-16.547169,-68.076653
+DEP00166,departamento,disponible,venta,135000.0,dolar,3,4,Irpavi,La Paz,142.0,-16.530281,-68.086357
+DEP00167,departamento,disponible,venta,145800.0,dolar,2,2,Achumani,La Paz,129.0,-16.534952,-68.070946
+DEP00168,departamento,disponible,venta,225000.0,dolar,3,4,Sopocachi,La Paz,174.0,-16.51263,-68.12294
+CAS00099,casa,disponible,venta,670000.0,dolar,4,6,Achumani,La Paz,361.0,-16.535795,-68.070755
+DEP00169,departamento,disponible,venta,191000.0,dolar,3,3,Achumani,La Paz,170.0,-16.53454,-68.070755
+DEP00170,departamento,disponible,venta,74000.0,dolar,2,1,Irpavi,La Paz,73.0,-16.504709,-68.081055
+OFI00040,oficina,disponible,alquiler,2435.0,dolar,10,6,Calacoto,La Paz,370.0,-16.540167,-68.086288
+OFI00041,oficina,disponible,venta,95000.0,dolar,5,2,San Jorge,La Paz,91.0,-16.503515,-68.130516
+DEP00171,departamento,disponible,alquiler,574.0,dolar,3,4,Obrajes,La Paz,154.0,-16.527237,-68.105988
+CAS00100,casa,disponible,venta,185000.0,dolar,3,3,Río Abajo,La Paz,230.0,-16.627228,-68.063545
+CAS00101,casa,disponible,alquiler,2600.0,dolar,4,4,Mallasilla,La Paz,650.0,-16.568665,-68.1045
+CAS00102,casa,disponible,venta,550000.0,dolar,4,3,La Florida,La Paz,523.0,-16.551798,-68.083611
+GAL00002,galpon,disponible,alquiler,1800.0,dolar,5,5,Achumani,La Paz,790.0,-16.518536,-68.055969
+CAS00103,casa,disponible,alquiler,1800.0,dolar,4,4,Calacoto,La Paz,400.0,-16.538469,-68.073799
+OFI00042,oficina,disponible,venta,180000.0,dolar,5,2,San Miguel,La Paz,120.0,-16.541292,-68.079643
+OFI00043,oficina,disponible,venta,106000.0,dolar,4,2,Sopocachi,La Paz,64.0,-16.511068,-68.12442
+LOC00019,local comercial,disponible,venta,261120.0,dolar,1,4,Achumani,La Paz,168.0,-16.519463,-68.062515
+LOC00020,local comercial,disponible,alquiler,3200.0,dolar,2,4,Miraflores,La Paz,260.0,-16.49975,-68.121712
+DEP00172,departamento,disponible,alquiler,1200.0,dolar,3,4,Achumani,La Paz,220.0,-16.508379,-68.059334
+CAS00104,casa,disponible,venta,2000000.0,dolar,41,17,Centro,La Paz,1600.0,-16.495432,-68.133606
+DEP00173,departamento,disponible,venta,290000.0,dolar,4,4,Auquisamaña,La Paz,202.0,-16.548958,-68.074547
+OFI00044,oficina,disponible,venta,141750.0,dolar,5,2,Achumani,La Paz,105.0,-16.523413,-68.068413
+CAS00105,casa,disponible,venta,398000.0,dolar,4,5,Mallasilla,La Paz,572.0,-16.568459,-68.103554
+DEP00174,departamento,disponible,venta,149000.0,dolar,3,2,Irpavi,La Paz,140.0,-16.51368,-68.085991
+DEP00175,departamento,disponible,alquiler,1500.0,dolar,5,6,Achumani,La Paz,346.0,-16.521603,-68.065323
+DEP00176,departamento,disponible,alquiler,430.0,dolar,1,2,San Jorge,La Paz,55.0,-16.51083,-68.123619
+CAS00106,casa,disponible,venta,135000.0,dolar,3,4,Achumani,La Paz,139.0,-16.531359,-68.056221
+OFI00045,oficina,disponible,alquiler,500.0,dolar,1,1,Obrajes,La Paz,20.0,-16.526085,-68.109375
+DEP00177,departamento,disponible,venta,210000.0,dolar,3,4,Achumani,La Paz,205.0,-16.526806,-68.06353
+DEP00178,departamento,disponible,venta,125000.0,dolar,3,4,Seguencoma,La Paz,126.0,-16.540771,-68.095749
+CAS00107,casa,disponible,venta,140000.0,dolar,2,3,Aranjuez,La Paz,133.0,-16.556137,-68.10804
+DEP00179,departamento,disponible,alquiler,3200.0,dolar,3,3,Achumani,La Paz,160.0,-16.52516,-68.067726
+LOC00021,local comercial,disponible,alquiler,200.0,dolar,1,1,San Miguel,La Paz,40.0,-16.542707,-68.079597
+TER00023,terreno,disponible,venta,94500.0,dolar,0,0,Río Abajo,La Paz,900.0,-16.62289,-68.056168
+LOC00022,local comercial,disponible,alquiler,330.0,dolar,1,1,Calacoto,La Paz,47.0,-16.539333,-68.082726
+OFI00046,oficina,disponible,alquiler,400.0,dolar,2,1,San Miguel,La Paz,60.0,-16.542007,-68.080711
+DEP00180,departamento,disponible,venta,178600.0,dolar,3,3,Achumani,La Paz,159.0,-16.535013,-68.070824
+CAS00108,casa,disponible,venta,380000.0,dolar,3,4,San Pedro,La Paz,230.0,-16.493587,-68.137711
+DEP00181,departamento,disponible,venta,140000.0,dolar,2,2,Obrajes,La Paz,121.0,-16.527979,-68.106239
+CAS00109,casa,disponible,venta,850000.0,dolar,5,6,Cota Cota,La Paz,715.0,-16.539238,-68.057709
+OFI00047,oficina,disponible,alquiler,1000.0,dolar,5,3,Centro,La Paz,216.0,-16.499937,-68.133926
+LOC00023,local comercial,disponible,venta,135000.0,dolar,2,3,Irpavi,La Paz,140.0,-16.514935,-68.086487
+DEP00182,departamento,disponible,alquiler,800.0,dolar,3,4,Calacoto,La Paz,175.0,-16.536659,-68.076134
+DEP00183,departamento,disponible,venta,108570.0,dolar,3,4,Achumani,La Paz,120.0,-16.518681,-68.056526
+OFI00048,oficina,disponible,alquiler,900.0,dolar,6,2,San Miguel,La Paz,104.0,-16.545168,-68.077744
+DEP00184,departamento,alquilado,alquiler,450.0,dolar,2,1,Achumani,La Paz,115.0,-16.529913,-68.068367
+DEP00185,departamento,alquilado,alquiler,750.0,dolar,3,4,Achumani,La Paz,132.0,-16.525408,-68.068863
+DEP00186,departamento,vendido,venta,315000.0,dolar,3,3,Calacoto,La Paz,188.0,-16.541428,-68.087479
+DEP00187,departamento,vendido,venta,89000.0,dolar,2,2,Sopocachi,La Paz,65.0,-16.509228,-68.127304
+DEP00188,departamento,vendido,venta,128000.0,dolar,2,2,Calacoto,La Paz,100.0,-16.54063,-68.089394
+DEP00189,departamento,vendido,venta,183000.0,dolar,3,3,Calacoto,La Paz,153.0,-16.540674,-68.089584
+DEP00190,departamento,vendido,venta,101000.0,dolar,3,3,Mallasilla,La Paz,124.0,-16.565109,-68.104034
+DEP00191,departamento,vendido,venta,158000.0,dolar,3,3,Irpavi,La Paz,184.0,-16.527315,-68.086975
+DEP00192,departamento,vendido,venta,114000.0,dolar,3,3,Mallasilla,La Paz,144.0,-16.56909,-68.105347
+CAS00110,casa,vendido,venta,310000.0,dolar,4,4,Achumani,La Paz,270.0,-16.519325,-68.062523
+CAS00111,casa,vendido,venta,450000.0,dolar,4,4,Irpavi,La Paz,420.0,-16.506409,-68.085144
+DEP00193,departamento,disponible,alquiler,500.0,dolar,1,1,La Florida,La Paz,60.0,-16.549742,-68.087814
+DEP00194,departamento,disponible,alquiler,350.0,dolar,1,2,San Jorge,La Paz,100.0,-16.510366,-68.121521
+OFI00049,oficina,disponible,venta,284580.0,dolar,1,3,Calacoto,La Paz,153.0,-16.539497,-68.085258
+CAS00112,casa,disponible,venta,800000.0,dolar,6,9,Mallasilla,La Paz,857.0,-16.563049,-68.097359
+DEP00195,departamento,disponible,venta,222000.0,dolar,3,4,Obrajes,La Paz,130.0,-16.526485,-68.110718
+DEP00196,departamento,disponible,alquiler,1800.0,dolar,3,4,Calacoto,La Paz,400.0,-16.543036,-68.085129
+CAS00113,casa,disponible,alquiler,1600.0,dolar,5,6,Achumani,La Paz,500.0,-16.510616,-68.05545
+OFI00050,oficina,disponible,alquiler,2500.0,dolar,10,2,Calacoto,La Paz,362.0,-16.540422,-68.087769
+DEP00197,departamento,disponible,alquiler,400.0,dolar,3,3,Irpavi,La Paz,110.0,-16.513844,-68.086975
+DEP00198,departamento,disponible,alquiler,800.0,dolar,3,4,Calacoto,La Paz,153.0,-16.539373,-68.088539
+CAS00114,casa,disponible,venta,599000.0,dolar,6,6,Sopocachi,La Paz,580.0,-16.508137,-68.12851
+DEP00199,departamento,disponible,venta,135000.0,dolar,2,3,Calacoto,La Paz,100.0,-16.540455,-68.080719
+DEP00200,departamento,disponible,alquiler,650.0,dolar,3,3,San Jorge,La Paz,170.0,-16.510532,-68.122894
+TER00024,terreno,disponible,venta,240000.0,dolar,0,0,La Florida,La Paz,600.0,-16.54764,-68.084312
+DEP00201,departamento,disponible,alquiler,900.0,dolar,3,4,Calacoto,La Paz,150.0,-16.544003,-68.084595
+DEP00202,departamento,disponible,alquiler,850.0,dolar,4,4,Calacoto,La Paz,228.0,-16.53886,-68.078819
+DEP00203,departamento,disponible,alquiler,790.0,dolar,3,4,Calacoto,La Paz,180.0,-16.540497,-68.085526
+DEP00204,departamento,disponible,alquiler,600.0,dolar,2,3,Auquisamaña,La Paz,110.0,-16.546511,-68.068642
+DEP00205,departamento,disponible,venta,75500.0,dolar,2,1,Irpavi,La Paz,73.0,-16.503803,-68.080818
+TER00025,terreno,disponible,venta,200000.0,dolar,0,0,Ovejuyo,La Paz,1836.0,-16.537357,-68.032234
+CAS00115,casa,disponible,alquiler,3200.0,dolar,3,4,Calacoto,La Paz,525.0,-16.543076,-68.083328
+DEP00206,departamento,disponible,venta,499000.0,dolar,4,5,Obrajes,La Paz,244.0,-16.527752,-68.110878
+CAS00116,casa,disponible,venta,750000.0,dolar,5,6,Aranjuez,La Paz,619.0,-16.550194,-68.092102
+DEP00207,departamento,disponible,alquiler,800.0,dolar,3,4,Calacoto,La Paz,259.0,-16.538097,-68.078712
+OFI00051,oficina,disponible,alquiler,4200.0,dolar,18,4,Sopocachi,La Paz,630.0,-16.51222,-68.124161
+DEP00208,departamento,disponible,venta,150000.0,dolar,3,4,Achumani,La Paz,145.0,-16.511974,-68.059624
+DEP00209,departamento,disponible,venta,310000.0,dolar,4,5,Achumani,La Paz,256.0,-16.516603,-68.061012
+LOC00024,local comercial,disponible,alquiler,250.0,dolar,1,1,Achumani,La Paz,30.0,-16.518927,-68.064293
+CAS00117,casa,disponible,alquiler,1600.0,dolar,4,4,La Florida,La Paz,330.0,-16.549988,-68.090302
+OFI00052,oficina,disponible,alquiler,2380.0,dolar,40,5,Calacoto,La Paz,500.0,-16.542295,-68.085815
+DEP00210,departamento,disponible,alquiler,350.0,dolar,1,1,Calacoto,La Paz,60.0,-16.540113,-68.084396
+OFI00053,oficina,disponible,venta,220000.0,dolar,10,3,Sopocachi,La Paz,221.0,-16.512054,-68.125748
+DEP00211,departamento,disponible,venta,175000.0,dolar,3,3,Achumani,La Paz,100.0,-16.529871,-68.076714
+DEP00212,departamento,disponible,venta,56666.0,dolar,1,1,Aranjuez,La Paz,444.0,-16.561586,-68.095757
+OFI00054,oficina,disponible,venta,97000.0,dolar,3,1,Calacoto,La Paz,73.0,-16.53978,-68.085426
+CAS00118,casa,disponible,alquiler,1400.0,dolar,3,2,Calacoto,La Paz,200.0,-16.541431,-68.084869
+EDI00009,edificio,disponible,venta,386000.0,dolar,3,2,Chasquipampa,La Paz,605.0,-16.538656,-68.043648
+CAS00119,casa,disponible,alquiler,1200.0,dolar,3,3,Calacoto,La Paz,200.0,-16.542068,-68.085739
+CAS00120,casa,disponible,alquiler,3500.0,dolar,4,6,Aranjuez,La Paz,500.0,-16.560896,-68.090263
+DEP00213,departamento,disponible,venta,107900.0,dolar,2,2,Cota Cota,La Paz,102.0,-16.540689,-68.0662
+DEP00214,departamento,disponible,alquiler,295.0,dolar,1,2,Obrajes,La Paz,50.0,-16.528625,-68.101692
+DEP00215,departamento,disponible,alquiler,2100.0,dolar,2,3,Calacoto,La Paz,240.0,-16.545792,-68.081177
+CAS00121,casa,disponible,alquiler,2000.0,dolar,6,4,Calacoto,La Paz,400.0,-16.543036,-68.089417
+DEP00216,departamento,disponible,alquiler,320.0,dolar,2,2,Achumani,La Paz,90.0,-16.518599,-68.063225
+DEP00217,departamento,disponible,alquiler,3000.0,dolar,4,5,La Florida,La Paz,480.0,-16.547911,-68.083977
+TER00026,terreno,disponible,venta,3000000.0,dolar,0,0,Calacoto,La Paz,1500.0,-16.539106,-68.082619
+CAS00122,casa,disponible,alquiler,2501.0,dolar,4,4,Calacoto,La Paz,450.0,-16.544352,-68.085709
+DEP00218,departamento,disponible,alquiler,750.0,dolar,3,5,Calacoto,La Paz,153.0,-16.538879,-68.086502
+DEP00219,departamento,disponible,venta,550000.0,dolar,3,4,Calacoto,La Paz,304.0,-16.539991,-68.084442
+DEP00220,departamento,disponible,venta,300000.0,dolar,3,4,Irpavi,La Paz,310.0,-16.525818,-68.087364
+TER00027,terreno,disponible,venta,312000.0,dolar,0,0,Calacoto,La Paz,755.0,-16.539825,-68.080925
+CAS00123,casa,disponible,venta,295000.0,dolar,3,4,Achumani,La Paz,223.0,-16.525623,-68.066277
+OFI00055,oficina,disponible,alquiler,580.0,dolar,1,2,Calacoto,La Paz,110.0,-16.541389,-68.087074
+DEP00221,departamento,disponible,venta,86000.0,dolar,3,5,Alto Irpavi,La Paz,160.0,-16.509464,-68.083603
+CAS00124,casa,disponible,alquiler,1800.0,dolar,6,5,San Miguel,La Paz,398.0,-16.545464,-68.078133
+OFI00056,oficina,disponible,venta,604500.0,dolar,1,3,Calacoto,La Paz,325.0,-16.539846,-68.086052
+CAS00125,casa,disponible,venta,700000.0,dolar,3,3,Calacoto,La Paz,378.0,-16.544064,-68.084053
+DEP00222,departamento,disponible,alquiler,850.0,dolar,3,3,Achumani,La Paz,160.0,-16.529501,-68.072487
+DEP00223,departamento,disponible,alquiler,270.0,dolar,1,1,Sopocachi,La Paz,35.0,-16.511623,-68.129173
+CAS00126,casa,vendido,venta,450000.0,dolar,3,5,La Florida,La Paz,350.0,-16.546574,-68.081566
+CAS00127,casa,disponible,venta,465000.0,dolar,3,5,Obrajes,La Paz,540.0,-16.523371,-68.109421
+DEP00224,departamento,disponible,venta,65000.0,dolar,3,2,Chuquiaguillo,La Paz,105.0,-16.45973,-68.106438
+OFI00057,oficina,disponible,alquiler,1400.0,dolar,2,2,San Jorge,La Paz,214.0,-16.512354,-68.122856
+DEP00225,departamento,disponible,alquiler,250.0,dolar,1,1,Obrajes,La Paz,40.0,-16.524769,-68.112206
+DEP00226,departamento,disponible,alquiler,950.0,dolar,4,5,Calacoto,La Paz,207.0,-16.545443,-68.085258
+OFI00058,oficina,disponible,alquiler,387.0,dolar,2,1,Centro,La Paz,33.0,-16.498055,-68.135437
+DEP00227,departamento,disponible,alquiler,700.0,dolar,4,4,Los Pinos,La Paz,275.0,-16.545956,-68.074661
+DEP00228,departamento,disponible,venta,280000.0,dolar,4,5,San Miguel,La Paz,264.0,-16.544897,-68.07756
+DEP00229,departamento,disponible,alquiler,350.0,dolar,2,2,San Jorge,La Paz,100.0,-16.510183,-68.123398
+DEP00230,departamento,disponible,alquiler,600.0,dolar,3,4,Achumani,La Paz,220.0,-16.533861,-68.071373
+CAS00128,casa,disponible,venta,850000.0,dolar,4,6,San Alberto,La Paz,515.0,-16.530424,-68.091843
+DEP00231,departamento,disponible,alquiler,255.0,dolar,3,1,Seguencoma,La Paz,110.0,-16.533619,-68.10553
+DEP00232,departamento,disponible,venta,135000.0,dolar,3,3,Miraflores,La Paz,118.0,-16.489916,-68.125488
+DEP00233,departamento,disponible,alquiler,650.0,dolar,3,4,Obrajes,La Paz,130.0,-16.527628,-68.105682
+CAS00129,casa,disponible,venta,760000.0,dolar,4,4,San Alberto,La Paz,632.0,-16.533552,-68.091515
+CAS00130,casa,disponible,venta,245000.0,dolar,5,4,Mallasilla,La Paz,330.0,-16.565208,-68.103943
+DEP00234,departamento,disponible,venta,260000.0,dolar,3,4,Calacoto,La Paz,210.0,-16.539743,-68.083092
+DEP00235,departamento,disponible,alquiler,700.0,dolar,3,4,Calacoto,La Paz,198.0,-16.540977,-68.087791
+OFI00059,oficina,disponible,venta,50384.0,dolar,2,1,Sopocachi,La Paz,42.0,-16.51156,-68.124245
+CAS00131,casa,disponible,venta,120000.0,dolar,4,2,Achocalla,La Paz,850.0,-16.576632,-68.152962
+DEP00236,departamento,disponible,alquiler,550.0,dolar,2,3,Calacoto,La Paz,150.0,-16.539743,-68.07431
+CAS00132,casa,disponible,alquiler,11000.0,dolar,3,4,Achumani,La Paz,300.0,-16.519175,-68.065285
+CAS00133,casa,disponible,alquiler,7000.0,dolar,5,7,Calacoto,La Paz,1200.0,-16.539909,-68.080154
+DEP00237,departamento,disponible,alquiler,380.0,dolar,2,2,San Miguel,La Paz,60.0,-16.542295,-68.079506
+DEP00238,departamento,disponible,alquiler,3000.0,dolar,3,4,Calacoto,La Paz,300.0,-16.540485,-68.082726
+DEP00239,departamento,disponible,alquiler,900.0,dolar,3,3,Calacoto,La Paz,210.0,-16.539158,-68.080971
+DEP00240,departamento,disponible,alquiler,370.0,dolar,1,1,Calacoto,La Paz,45.0,-16.541471,-68.088478
+DEP00241,departamento,disponible,alquiler,850.0,dolar,4,4,Calacoto,La Paz,236.0,-16.540773,-68.087196
+TER00028,terreno,disponible,venta,315000.0,dolar,0,0,Ovejuyo,La Paz,3636.0,-16.537685,-68.032539
+DEP00242,departamento,disponible,venta,65100.0,dolar,1,1,Achumani,La Paz,70.0,-16.514566,-68.060219
+DEP00243,departamento,alquilado,alquiler,500.0,dolar,3,4,San Jorge,La Paz,185.0,-16.511396,-68.122017
+TER00029,terreno,disponible,venta,20000.0,dolar,0,0,Río Abajo,La Paz,495.0,-16.676958,-68.023567
+OFI00060,oficina,disponible,alquiler,1000.0,dolar,4,1,Calacoto,La Paz,140.0,-16.539537,-68.08551
+TER00030,terreno,vendido,venta,80000.0,dolar,0,0,Achumani,La Paz,576.0,-16.512503,-68.061966
+CAS00134,casa,disponible,alquiler,1600.0,dolar,4,4,Calacoto,La Paz,450.0,-16.538858,-68.079147
+DEP00244,departamento,disponible,alquiler,325.0,dolar,1,1,San Miguel,La Paz,46.0,-16.543766,-68.079796
+EDI00010,edificio,disponible,venta,2500000.0,dolar,50,55,San Pedro,La Paz,2488.0,-16.500843,-68.136047
+LOC00025,local comercial,disponible,alquiler,2500.0,dolar,2,4,Sopocachi,La Paz,300.0,-16.508804,-68.127052
+CAS00135,casa,disponible,venta,600000.0,dolar,3,5,Sopocachi,La Paz,350.0,-16.508125,-68.128494
+TER00031,terreno,disponible,venta,95000.0,dolar,0,0,Achumani,La Paz,352.0,-16.526684,-68.06118
+CAS00136,casa,disponible,alquiler,2300.0,dolar,5,6,Achumani,La Paz,330.0,-16.510328,-68.05439
+TER00032,terreno,disponible,venta,423000.0,dolar,0,0,La Florida,La Paz,846.0,-16.552868,-68.083992
+DEP00245,departamento,disponible,venta,245000.0,dolar,3,4,Achumani,La Paz,153.0,-16.523392,-68.067879
+OFI00061,oficina,disponible,venta,64900.0,dolar,4,1,San Jorge,La Paz,76.0,-16.510347,-68.123749
+OFI00062,oficina,disponible,alquiler,4800.0,dolar,36,6,Centro,La Paz,1200.0,-16.496256,-68.132271
+DEP00246,departamento,disponible,alquiler,480.0,dolar,3,3,San Jorge,La Paz,175.0,-16.510078,-68.123878
+DEP00247,departamento,disponible,venta,65000.0,dolar,1,1,Obrajes,La Paz,50.0,-16.527155,-68.101524
+OFI00063,oficina,disponible,alquiler,260.0,dolar,1,1,Calacoto,La Paz,35.0,-16.538591,-68.075943
+TER00033,terreno,disponible,venta,355000.0,dolar,0,0,Mallasilla,La Paz,708.0,-16.569035,-68.104935
+CAS00137,casa,disponible,alquiler,2000.0,dolar,3,5,La Florida,La Paz,280.0,-16.54789,-68.088905
+TER00034,terreno,vendido,venta,1925000.0,dolar,0,0,Cota Cota,La Paz,5500.0,-16.54575,-68.059547
+OFI00064,oficina,disponible,alquiler,2100.0,dolar,2,2,Calacoto,La Paz,150.0,-16.538776,-68.084312
+DEP00248,departamento,disponible,alquiler,200.0,dolar,1,1,Obrajes,La Paz,38.0,-16.524008,-68.112015
+CAS00138,casa,disponible,alquiler,400.0,dolar,2,2,San Miguel,La Paz,80.0,-16.544592,-68.080246
+DEP00249,departamento,disponible,venta,114400.0,dolar,2,2,Achumani,La Paz,89.0,-16.514112,-68.060089
+DEP00250,departamento,alquilado,alquiler,450.0,dolar,1,3,San Jorge,La Paz,117.0,-16.507355,-68.125984
+CAS00139,casa,disponible,venta,412000.0,dolar,4,5,Achumani,La Paz,396.0,-16.527363,-68.069496
+OFI00065,oficina,disponible,alquiler,1000.0,dolar,5,2,Calacoto,La Paz,179.0,-16.541677,-68.083542
+DEP00251,departamento,disponible,alquiler,430.0,dolar,1,1,Calacoto,La Paz,80.0,-16.540607,-68.083717
+DEP00252,departamento,disponible,alquiler,290.0,dolar,3,3,Achumani,La Paz,91.0,-16.518414,-68.0597
+DEP00253,departamento,disponible,alquiler,800.0,dolar,3,4,Calacoto,La Paz,175.0,-16.538839,-68.081123
+DEP00254,departamento,disponible,venta,149000.0,dolar,3,2,Irpavi,La Paz,140.0,-16.513968,-68.087555
+EDI00011,edificio,disponible,venta,770000.0,dolar,12,12,Miraflores,La Paz,997.0,-16.485687,-68.123772
+DEP00255,departamento,disponible,alquiler,700.0,dolar,3,3,Achumani,La Paz,245.0,-16.524771,-68.066696
+DEP00256,departamento,disponible,alquiler,250.0,dolar,1,1,Calacoto,La Paz,40.0,-16.544764,-68.084099
+DEP00257,departamento,disponible,alquiler,1200.0,dolar,3,4,Calacoto,La Paz,200.0,-16.539249,-68.078445
+DEP00258,departamento,disponible,alquiler,800.0,dolar,3,3,Calacoto,La Paz,140.0,-16.540855,-68.090149
+CAS00140,casa,disponible,venta,550000.0,dolar,4,5,Achumani,La Paz,320.0,-16.522757,-68.057907
+DEP00259,departamento,disponible,alquiler,570.0,dolar,2,3,Los Pinos,La Paz,150.0,-16.541101,-68.07457
+CAS00141,casa,disponible,alquiler,3500.0,dolar,4,6,Aranjuez,La Paz,580.0,-16.55772,-68.094505
+CAS00142,casa,alquilado,alquiler,1800.0,dolar,6,6,Achumani,La Paz,560.0,-16.529009,-68.0709
+CAS00143,casa,disponible,alquiler,1100.0,dolar,4,5,Achumani,La Paz,300.0,-16.526087,-68.06588
+OFI00066,oficina,disponible,alquiler,1400.0,dolar,4,2,Seguencoma,La Paz,297.0,-16.544043,-68.096359
+OFI00067,oficina,disponible,alquiler,500.0,dolar,1,1,Obrajes,La Paz,42.0,-16.526169,-68.108276
+DEP00260,departamento,disponible,alquiler,550.0,dolar,3,4,Calacoto,La Paz,157.0,-16.537975,-68.080261
+CAS00144,casa,disponible,alquiler,650.0,dolar,3,3,Calacoto,La Paz,180.0,-16.539415,-68.079979
+CAS00145,casa,disponible,alquiler,2000.0,dolar,4,6,Irpavi,La Paz,430.0,-16.515881,-68.086075
+CAS00146,casa,disponible,alquiler,2500.0,dolar,4,6,Auquisamaña,La Paz,400.0,-16.5483,-68.076866
+CAS00147,casa,disponible,alquiler,3000.0,dolar,4,5,Calacoto,La Paz,550.0,-16.543673,-68.086098
+DEP00261,departamento,disponible,venta,230000.0,dolar,3,3,San Miguel,La Paz,130.0,-16.541586,-68.080765
+DEP00262,departamento,disponible,alquiler,380.0,dolar,2,3,Achumani,La Paz,90.0,-16.522343,-68.066055
+CAS00148,casa,disponible,venta,280000.0,dolar,3,4,Achumani,La Paz,420.0,-16.518063,-68.062706
+TER00035,terreno,disponible,venta,2472000.0,dolar,0,0,Auquisamaña,La Paz,4774.0,-16.547169,-68.060516
+DEP00263,departamento,disponible,alquiler,280.0,dolar,1,1,Sopocachi,La Paz,52.0,-16.509447,-68.128944
+DEP00264,departamento,disponible,alquiler,450.0,dolar,2,3,Calacoto,La Paz,112.0,-16.540607,-68.085838
+CAS00149,casa,disponible,venta,450000.0,dolar,4,4,Achumani,La Paz,407.0,-16.534159,-68.072372
+CAS00150,casa,disponible,alquiler,1500.0,dolar,7,4,Obrajes,La Paz,670.0,-16.52833,-68.10376
+DEP00265,departamento,disponible,venta,82000.0,dolar,3,3,Achumani,La Paz,91.0,-16.517775,-68.057472
+CAS00151,casa,vendido,venta,980000.0,dolar,4,7,Auquisamaña,La Paz,864.0,-16.548166,-68.069199
+CAS00152,casa,disponible,alquiler,2000.0,dolar,4,5,Achumani,La Paz,589.0,-16.514072,-68.059914
+OFI00068,oficina,disponible,alquiler,10290.0,dolar,1,6,Calacoto,La Paz,735.0,-16.53927,-68.085175
+CAS00153,casa,disponible,venta,268000.0,dolar,4,4,Río Abajo,La Paz,320.0,-16.610308,-68.062851
+DEP00266,departamento,disponible,alquiler,575.0,dolar,3,3,Irpavi,La Paz,110.0,-16.513741,-68.087601
+PAR00002,parqueo,disponible,venta,20926.0,dolar,0,0,San Jorge,La Paz,10.0,-16.510984,-68.123558
+DEP00267,departamento,disponible,alquiler,1600.0,dolar,3,5,Calacoto,La Paz,280.0,-16.538757,-68.079292
+CAS00154,casa,disponible,alquiler,1293.0,dolar,3,3,Miraflores,La Paz,241.0,-16.498022,-68.121391
+DEP00268,departamento,disponible,alquiler,800.0,dolar,3,4,Calacoto,La Paz,240.0,-16.539209,-68.080109
+TER00036,terreno,disponible,venta,168000.0,dolar,0,0,Aranjuez,La Paz,510.0,-16.557556,-68.111526
+EDI00012,edificio,disponible,venta,4800000.0,dolar,20,16,Sopocachi,La Paz,6140.0,-16.515141,-68.129608
+DEP00269,departamento,disponible,venta,155000.0,dolar,3,4,Achumani,La Paz,103.0,-16.519802,-68.064034
+DEP00270,departamento,disponible,alquiler,580.0,dolar,3,4,Calacoto,La Paz,157.0,-16.538006,-68.07988
+DEP00271,departamento,disponible,alquiler,550.0,dolar,3,5,Calacoto,La Paz,186.0,-16.538715,-68.078995
+CAS00155,casa,disponible,venta,398000.0,dolar,4,4,Achumani,La Paz,300.0,-16.534109,-68.066994
+DEP00272,departamento,alquilado,alquiler,450.0,dolar,1,1,Calacoto,La Paz,70.0,-16.537533,-68.07737
+DEP00273,departamento,disponible,alquiler,1200.0,dolar,3,4,Irpavi,La Paz,310.0,-16.526434,-68.087601
+DEP00274,departamento,disponible,venta,115000.0,dolar,2,1,Obrajes,La Paz,80.0,-16.528883,-68.101929
+DEP00275,departamento,disponible,alquiler,470.0,dolar,4,3,Sopocachi,La Paz,183.0,-16.51475,-68.133797
+CAS00156,casa,alquilado,alquiler,3500.0,dolar,3,4,La Florida,La Paz,580.0,-16.550081,-68.085228
+DEP00276,departamento,disponible,alquiler,2500.0,dolar,3,3,Calacoto,La Paz,175.0,-16.541842,-68.089935
+DEP00277,departamento,disponible,venta,42600.0,dolar,1,1,Obrajes,La Paz,47.0,-16.527855,-68.10302
+CAS00157,casa,disponible,alquiler,4000.0,dolar,28,5,Obrajes,La Paz,764.0,-16.524605,-68.111519
+CAS00158,casa,disponible,venta,1300000.0,dolar,28,5,Obrajes,La Paz,764.0,-16.527155,-68.106743
+OFI00069,oficina,disponible,alquiler,350.0,dolar,1,1,San Miguel,La Paz,60.0,-16.543375,-68.080055
+CAS00159,casa,disponible,alquiler,1400.0,dolar,4,5,Achumani,La Paz,300.0,-16.532108,-68.07515
+CAS00160,casa,disponible,alquiler,1500.0,dolar,6,2,Achumani,La Paz,420.0,-16.528534,-68.070923
+DEP00278,departamento,disponible,alquiler,1200.0,dolar,4,3,Calacoto,La Paz,190.0,-16.543694,-68.089333
+CAS00161,casa,disponible,venta,630000.0,dolar,4,4,La Florida,La Paz,500.0,-16.547213,-68.089127
+DEP00279,departamento,disponible,alquiler,2000.0,dolar,2,2,San Miguel,La Paz,180.0,-16.540031,-68.077873
+DEP00280,departamento,disponible,venta,66120.0,dolar,1,1,Sopocachi,La Paz,52.0,-16.517508,-68.130859
+DEP00281,departamento,disponible,alquiler,550.0,dolar,2,2,Sopocachi,La Paz,70.0,-16.510265,-68.125298
+DEP00282,departamento,disponible,alquiler,900.0,dolar,4,3,Calacoto,La Paz,207.0,-16.541348,-68.082687
+CAS00162,casa,disponible,venta,980000.0,dolar,4,6,San Alberto,La Paz,591.0,-16.532791,-68.091064
+OFI00070,oficina,disponible,alquiler,4576.0,dolar,1,5,Calacoto,La Paz,352.0,-16.540031,-68.084999
+DEP00283,departamento,disponible,alquiler,450.0,dolar,1,1,Calacoto,La Paz,50.0,-16.538015,-68.080605
+CAS00163,casa,disponible,anticretico,105000.0,dolar,3,5,Calacoto,La Paz,380.0,-16.53985,-68.081757
+DEP00284,departamento,disponible,alquiler,220.0,dolar,1,1,Obrajes,La Paz,70.0,-16.529953,-68.115601
+OFI00071,oficina,disponible,venta,135000.0,dolar,5,1,Sopocachi,La Paz,120.0,-16.51189,-68.124557
+CAS00164,casa,disponible,alquiler,900.0,dolar,3,5,Achumani,La Paz,400.0,-16.530243,-68.070107
+DEP00285,departamento,disponible,alquiler,1500.0,dolar,3,4,Calacoto,La Paz,214.0,-16.539949,-68.087234
+TER00037,terreno,disponible,venta,2850000.0,dolar,0,0,Achumani,La Paz,8216.0,-16.51436,-68.058884
+OFI00072,oficina,disponible,alquiler,650.0,dolar,2,1,Calacoto,La Paz,80.0,-16.540607,-68.088135
+DEP00286,departamento,disponible,alquiler,400.0,dolar,2,2,Achumani,La Paz,88.0,-16.53166,-68.072212
+CAS00165,casa,disponible,venta,185000.0,dolar,12,5,Tembladerani,La Paz,435.0,-16.506313,-68.148964
+DEP00287,departamento,disponible,alquiler,650.0,dolar,2,3,Calacoto,La Paz,160.0,-16.539333,-68.080238
+DEP00288,departamento,disponible,alquiler,500.0,dolar,2,3,Irpavi,La Paz,120.0,-16.529821,-68.086082
+DEP00289,departamento,disponible,alquiler,1100.0,dolar,3,3,Calacoto,La Paz,187.0,-16.539785,-68.087059
+TER00038,terreno,disponible,venta,398000.0,dolar,0,0,Cota Cota,La Paz,543.0,-16.540401,-68.056198
+DEP00290,departamento,disponible,alquiler,900.0,dolar,2,3,La Florida,La Paz,135.0,-16.546101,-68.089897
+OFI00073,oficina,disponible,alquiler,1600.0,dolar,10,4,Calacoto,La Paz,350.0,-16.54213,-68.085213
+DEP00291,departamento,disponible,alquiler,450.0,dolar,2,1,Achumani,La Paz,52.0,-16.536377,-68.079185
+CAS00166,casa,vendido,venta,320000.0,dolar,4,5,Achumani,La Paz,380.0,-16.535652,-68.072876
+CAS00167,casa,disponible,alquiler,1200.0,dolar,3,6,Achumani,La Paz,400.0,-16.526014,-68.074562
+DEP00292,departamento,disponible,alquiler,500.0,dolar,2,3,Calacoto,La Paz,108.0,-16.541471,-68.083755
+DEP00293,departamento,disponible,alquiler,300.0,dolar,1,1,Irpavi,La Paz,40.0,-16.520859,-68.085884
+CAS00168,casa,disponible,venta,550000.0,dolar,4,4,Achumani,La Paz,320.0,-16.532915,-68.074249
+DEP00294,departamento,disponible,alquiler,270.0,dolar,1,1,Auquisamaña,La Paz,40.0,-16.547724,-68.068626
+DEP00295,departamento,disponible,alquiler,1000.0,dolar,1,2,Calacoto,La Paz,80.0,-16.540319,-68.084953
+DEP00296,departamento,disponible,alquiler,350.0,dolar,2,3,Irpavi,La Paz,108.0,-16.50292,-68.081116
+TER00039,terreno,disponible,venta,300000.0,dolar,0,0,Río Abajo,La Paz,2000.0,-16.629614,-68.051079
+CAS00169,casa,disponible,alquiler,1600.0,dolar,9,3,Obrajes,La Paz,250.0,-16.529089,-68.102806
+DEP00297,departamento,disponible,alquiler,350.0,dolar,2,2,Calacoto,La Paz,90.0,-16.539291,-68.078735
+OFI00074,oficina,disponible,venta,214500.0,dolar,5,3,Calacoto,La Paz,143.0,-16.538591,-68.07663
+DEP00298,departamento,disponible,alquiler,450.0,dolar,2,3,Achumani,La Paz,120.0,-16.524544,-68.068283
+TER00040,terreno,disponible,venta,430000.0,dolar,0,0,Irpavi,La Paz,1272.0,-16.511211,-68.085045
+CAS00170,casa,disponible,alquiler,1600.0,dolar,3,2,Calacoto,La Paz,250.0,-16.539703,-68.080276
+OFI00075,oficina,disponible,alquiler,2000.0,dolar,3,3,Calacoto,La Paz,250.0,-16.540155,-68.086929
+DEP00299,departamento,disponible,alquiler,800.0,dolar,3,4,Calacoto,La Paz,320.0,-16.539537,-68.081635
+DEP00300,departamento,disponible,alquiler,900.0,dolar,3,3,Calacoto,La Paz,175.0,-16.541143,-68.084656
+LOC00026,local comercial,disponible,alquiler,500.0,dolar,1,1,Irpavi,La Paz,34.0,-16.519964,-68.08567
+CAS00171,casa,disponible,alquiler,3000.0,dolar,5,6,Aranjuez,La Paz,619.0,-16.550522,-68.091805
+DEP00301,departamento,disponible,alquiler,1350.0,dolar,3,3,San Miguel,La Paz,180.0,-16.540813,-68.080063
+CAS00172,casa,disponible,venta,120000.0,dolar,3,3,Achumani,La Paz,132.0,-16.506294,-68.046745
+DEP00302,departamento,disponible,alquiler,1200.0,dolar,3,4,Calacoto,La Paz,190.0,-16.543528,-68.091698
+CAS00173,casa,disponible,venta,750000.0,dolar,6,8,Río Abajo,La Paz,750.0,-16.642443,-68.045029
+DEP00303,departamento,disponible,venta,199100.0,dolar,4,6,Los Pinos,La Paz,257.0,-16.540379,-68.074127
+CAS00174,casa,disponible,venta,430000.0,dolar,5,5,Entre 5to y 6to anillo Norte,Santa Cruz de la Sierra,571.0,-17.731726,-63.173225
+OFI00076,oficina,disponible,alquiler,9000.0,dolar,10,6,Sirari,Santa Cruz de la Sierra,545.0,-17.760134,-63.200851
+TER00041,terreno,disponible,venta,77330.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,703.0,-17.705027,-63.220688
+DEP00304,departamento,disponible,alquiler,420.0,dolar,1,1,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,466.0,-17.762671,-63.174702
+TER00042,terreno,disponible,venta,1262940.0,dolar,0,0,Las Palmas,Santa Cruz de la Sierra,1052.0,-17.804317,-63.211163
+CAS00175,casa,disponible,venta,86000.0,dolar,3,2,Distrito 12,Santa Cruz de la Sierra,85.0,-17.851448,-63.152946
+DEP00305,departamento,disponible,venta,152000.0,dolar,3,4,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,158.0,-17.746948,-63.169838
+DEP00306,departamento,disponible,venta,20000.0,dolar,1,1,Entre 1er y 2do anillo Norte,Santa Cruz de la Sierra,55.0,-17.773169,-63.182587
+CAS00176,casa,disponible,alquiler,1900.0,dolar,4,6,Entre 5to y 6to anillo Norte,Santa Cruz de la Sierra,280.0,-17.738699,-63.163666
+TER00043,terreno,disponible,venta,730000.0,dolar,0,0,Entre 1er y 2do anillo Este,Santa Cruz de la Sierra,22640.0,-17.781113,-63.168037
+DEP00307,departamento,disponible,alquiler,470.0,dolar,3,2,Entre 7mo y 8vo anillo Norte,Santa Cruz de la Sierra,84.0,-17.715485,-63.175678
+CAS00177,casa,disponible,venta,150000.0,dolar,7,3,Entre 5to y 6to anillo Este,Santa Cruz de la Sierra,283.0,-17.773026,-63.126495
+CAS00178,casa,disponible,alquiler,730.0,dolar,3,4,Urubó,Santa Cruz de la Sierra,280.0,-17.7624,-63.236736
+QUI00001,quinta propiedad agricola,disponible,venta,750000.0,dolar,9,12,Doble vía La Guardia,Santa Cruz de la Sierra,741.0,-17.958361,-63.248222
+TER00044,terreno,disponible,alquiler,1400.0,dolar,0,0,Pampa de la isla,Santa Cruz de la Sierra,7812.0,-17.743946,-63.064587
+CAS00179,casa,disponible,venta,3300000.0,dolar,7,15,Urubó,Santa Cruz de la Sierra,2100.0,-17.749241,-63.226395
+CAS00180,casa,disponible,venta,245000.0,dolar,4,4,Carretera Norte,Santa Cruz de la Sierra,220.0,-17.703096,-63.188641
+TER00045,terreno,disponible,venta,235000.0,dolar,0,0,Carretera Norte,Santa Cruz de la Sierra,2950.0,-17.659477,-63.158669
+DEP00308,departamento,disponible,alquiler,245.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,40.0,-17.760124,-63.192829
+CAS00181,casa,disponible,venta,1100000.0,dolar,4,7,Entre 5to y 6to anillo Oeste,Santa Cruz de la Sierra,522.0,-17.811621,-63.229332
+CAS00182,casa,disponible,venta,393000.0,dolar,3,3,Barrio Urbari,Santa Cruz de la Sierra,258.0,-17.793818,-63.199139
+CAS00183,casa,disponible,alquiler,1630.0,dolar,3,4,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,260.0,-17.738976,-63.178055
+PAR00003,parqueo,disponible,venta,11490.0,dolar,0,0,Centro,Santa Cruz de la Sierra,10.0,-17.78685,-63.181389
+CAS00184,casa,disponible,venta,290000.0,dolar,3,5,El Remanso,Santa Cruz de la Sierra,372.0,-17.715965,-63.167782
+TER00046,terreno,disponible,venta,335000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,859.0,-17.748831,-63.226093
+CAS00185,casa,disponible,venta,45300.0,dolar,3,2,Pampa de la isla,Santa Cruz de la Sierra,164.0,-17.74964,-63.093498
+DEP00309,departamento,disponible,alquiler,1100.0,dolar,3,4,Entre 5to y 6to anillo Norte,Santa Cruz de la Sierra,215.0,-17.732662,-63.169952
+DEP00310,departamento,disponible,alquiler,390.0,dolar,2,2,Sirari,Santa Cruz de la Sierra,65.0,-17.763468,-63.19944
+DEP00311,departamento,disponible,alquiler,950.0,dolar,2,3,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,173.0,-17.764996,-63.173496
+TER00047,terreno,disponible,venta,750000.0,dolar,0,0,Entre 8vo y 9no anillo Norte,Santa Cruz de la Sierra,6991.0,-17.717129,-63.145489
+CAS00186,casa,disponible,venta,1300000.0,dolar,4,7,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,583.0,-17.765802,-63.179924
+CAS00187,casa,disponible,alquiler,2100.0,dolar,4,5,Entre 3er y 4to anillo Oeste,Santa Cruz de la Sierra,470.0,-17.802969,-63.213242
+TER00048,terreno,disponible,venta,99000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,625.0,-17.765997,-63.24498
+CAS00188,casa,disponible,alquiler,670.0,dolar,3,2,Hamacas,Santa Cruz de la Sierra,250.0,-17.751995,-63.170788
+CAS00189,casa,disponible,venta,230000.0,dolar,4,5,Entre 6to y 7mo anillo Sur,Santa Cruz de la Sierra,226.0,-17.847635,-63.189606
+CAS00190,casa,disponible,venta,169000.0,dolar,5,3,Carretera Norte,Santa Cruz de la Sierra,193.0,-17.698927,-63.18013
+CAS00191,casa,disponible,venta,169000.0,dolar,5,4,Carretera Norte,Santa Cruz de la Sierra,193.0,-17.673044,-63.188774
+EDI00013,edificio,disponible,venta,600000.0,dolar,8,5,Plan 3000,Santa Cruz de la Sierra,1134.0,-17.853062,-63.110119
+CAS00192,casa,disponible,venta,213000.0,dolar,4,5,Entre 6to y 7mo anillo Este,Santa Cruz de la Sierra,386.0,-17.769693,-63.109882
+LOC00027,local comercial,disponible,venta,25000.0,dolar,1,2,Equipetrol,Santa Cruz de la Sierra,105.0,-17.768248,-63.196606
+CAS00193,casa,disponible,venta,600000.0,dolar,4,6,Urubó,Santa Cruz de la Sierra,431.0,-17.740482,-63.226879
+CAS00194,casa,disponible,venta,135000.0,dolar,3,3,El Remanso,Santa Cruz de la Sierra,114.0,-17.71106,-63.170097
+TER00049,terreno,disponible,alquiler,6000.0,dolar,0,0,Equipetrol,Santa Cruz de la Sierra,1500.0,-17.760201,-63.192001
+TER00050,terreno,disponible,alquiler,10177.0,dolar,0,0,Doble vía La Guardia,Santa Cruz de la Sierra,18279.0,-17.84129,-63.236111
+TER00051,terreno,disponible,venta,540000.0,dolar,0,0,Sirari,Santa Cruz de la Sierra,450.0,-17.764959,-63.201012
+OFI00077,oficina,disponible,alquiler,400.0,dolar,4,2,Entre 1er y 2do anillo Sur,Santa Cruz de la Sierra,126.0,-17.796644,-63.178062
+CAS00195,casa,disponible,venta,580000.0,dolar,5,6,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,633.0,-17.742903,-63.166191
+DEP00312,departamento,disponible,alquiler,800.0,dolar,3,4,Urubó,Santa Cruz de la Sierra,245.0,-17.765671,-63.222576
+TER00052,terreno,disponible,venta,95000.0,dolar,0,0,Carretera Norte,Santa Cruz de la Sierra,489.0,-17.698156,-63.170429
+CAS00196,casa,disponible,alquiler,2800.0,dolar,4,6,Entre 3er y 4to anillo Oeste,Santa Cruz de la Sierra,420.0,-17.793009,-63.208355
+DEP00313,departamento,disponible,alquiler,600.0,dolar,1,1,Sirari,Santa Cruz de la Sierra,43.0,-17.764875,-63.203201
+CAS00197,casa,disponible,venta,340000.0,dolar,6,6,Entre 3er y 4to anillo Norte,Santa Cruz de la Sierra,480.0,-17.757484,-63.173874
+DEP00314,departamento,disponible,venta,90263.0,dolar,1,1,Entre 4to y 5to anillo Oeste,Santa Cruz de la Sierra,48.0,-17.784603,-63.217049
+DEP00315,departamento,disponible,venta,36400.0,dolar,1,1,Entre 5to y 6to anillo Norte,Santa Cruz de la Sierra,34.0,-17.736008,-63.15963
+DEP00316,departamento,disponible,venta,214000.0,dolar,1,2,Equipetrol,Santa Cruz de la Sierra,91.0,-17.765121,-63.194168
+CAS00198,casa,disponible,venta,120000.0,dolar,4,3,Carretera Norte,Santa Cruz de la Sierra,170.0,-17.69788,-63.182487
+TER00053,terreno,disponible,venta,72000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,384.0,-17.808838,-63.270039
+TER00054,terreno,disponible,venta,14900.0,dolar,0,0,Carretera Norte,Santa Cruz de la Sierra,300.0,-17.591972,-63.183842
+DEP00317,departamento,disponible,alquiler,1100.0,dolar,3,4,Entre 5to y 6to anillo Norte,Santa Cruz de la Sierra,215.0,-17.732321,-63.168621
+DEP00318,departamento,disponible,venta,145000.0,dolar,1,1,Sirari,Santa Cruz de la Sierra,67.0,-17.765348,-63.202972
+DEP00319,departamento,disponible,alquiler,600.0,dolar,2,2,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,75.0,-17.768602,-63.188721
+CAS00199,casa,disponible,venta,380000.0,dolar,4,4,Urubó,Santa Cruz de la Sierra,320.0,-17.758577,-63.236172
+OFI00078,oficina,disponible,alquiler,2240.0,dolar,8,1,Equipetrol,Santa Cruz de la Sierra,188.0,-17.755421,-63.198158
+TER00055,terreno,disponible,venta,1600.0,dolar,0,0,Entre 3er y 4to anillo Norte,Santa Cruz de la Sierra,2118.0,-17.757841,-63.175766
+CAS00200,casa,disponible,venta,160000.0,dolar,3,3,Entre 5to y 6to anillo Oeste,Santa Cruz de la Sierra,160.0,-17.809067,-63.22929
+TER00056,terreno,disponible,alquiler,1500.0,dolar,0,0,Entre 5to y 6to anillo Norte,Santa Cruz de la Sierra,2389.0,-17.733391,-63.166065
+CAS00201,casa,disponible,venta,249000.0,dolar,3,4,Pampa de la isla,Santa Cruz de la Sierra,389.0,-17.762074,-63.108639
+DEP00320,departamento,disponible,venta,69000.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,50.0,-17.761597,-63.199608
+CAS00202,casa,disponible,alquiler,830.0,dolar,7,4,Las Palmas,Santa Cruz de la Sierra,320.0,-17.797636,-63.213371
+TER00057,terreno,disponible,venta,342000.0,dolar,0,0,Entre 6to y 7mo anillo Norte,Santa Cruz de la Sierra,1800.0,-17.743067,-63.13847
+TER00058,terreno,disponible,venta,760000.0,dolar,0,0,Equipetrol,Santa Cruz de la Sierra,721.0,-17.756039,-63.195576
+CAS00203,casa,disponible,venta,170000.0,dolar,3,4,Carretera Norte,Santa Cruz de la Sierra,267.0,-17.701544,-63.165379
+DEP00321,departamento,disponible,alquiler,750.0,dolar,3,2,Entre 5to y 6to anillo Norte,Santa Cruz de la Sierra,241.0,-17.732487,-63.170147
+DEP00322,departamento,disponible,alquiler,420.0,dolar,3,3,Entre 1er y 2do anillo Sur,Santa Cruz de la Sierra,115.0,-17.79505,-63.179092
+CAS00204,casa,disponible,venta,210000.0,dolar,3,4,Urubó,Santa Cruz de la Sierra,185.0,-17.752754,-63.226868
+DEP00323,departamento,disponible,venta,220000.0,dolar,3,4,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,201.0,-17.769011,-63.175503
+CAS00205,casa,disponible,anticretico,150000.0,dolar,4,4,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,310.0,-17.766562,-63.164867
+TER00059,terreno,disponible,venta,99000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,729.0,-17.695993,-63.210426
+CAS00206,casa,disponible,venta,42000.0,dolar,2,1,Carretera Norte,Santa Cruz de la Sierra,70.0,-17.634632,-63.170258
+CAS00207,casa,disponible,venta,278000.0,dolar,3,4,Entre 6to y 7mo anillo Sur,Santa Cruz de la Sierra,457.0,-17.844065,-63.191402
+QUI00003,quinta propiedad agricola,disponible,venta,7350000.0,dolar,10,5,Carretera Cotoca,Santa Cruz de la Sierra,800.0,-17.607403,-62.197193
+CAS00208,casa,disponible,venta,285000.0,dolar,4,4,Urubó,Santa Cruz de la Sierra,311.0,-17.78647,-63.269226
+TER00060,terreno,disponible,venta,205000.0,dolar,0,0,Entre 6to y 7mo anillo Norte,Santa Cruz de la Sierra,605.0,-17.730988,-63.169155
+TER00061,terreno,disponible,venta,3875000.0,dolar,0,0,Parque Industrial,Santa Cruz de la Sierra,13426.0,-17.75025,-63.143368
+LOC00028,local comercial,disponible,alquiler,11000.0,dolar,4,3,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,1449.0,-17.773884,-63.165638
+DEP00324,departamento,disponible,venta,58500.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,32.0,-17.765724,-63.193687
+CAS00209,casa,disponible,venta,385000.0,dolar,5,7,Carretera Norte,Santa Cruz de la Sierra,340.0,-17.702545,-63.178432
+TER00062,terreno,disponible,alquiler,1750.0,dolar,0,0,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,3388.0,-17.73859,-63.180183
+TER00063,terreno,disponible,venta,50900.0,dolar,0,0,Entre 8vo y 9no anillo Norte,Santa Cruz de la Sierra,486.0,-17.727177,-63.130859
+DEP00325,departamento,disponible,alquiler,450.0,dolar,2,1,Entre 2do y 3er anillo Oeste,Santa Cruz de la Sierra,86.0,-17.797028,-63.196686
+DEP00326,departamento,disponible,venta,150000.0,dolar,3,2,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,109.0,-17.765312,-63.188942
+TER00064,terreno,disponible,venta,230000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,843.0,-17.746624,-63.220516
+CAS00210,casa,disponible,venta,385000.0,dolar,6,7,Carretera Norte,Santa Cruz de la Sierra,325.0,-17.702364,-63.177967
+CAS00211,casa,disponible,venta,1270000.0,dolar,7,10,Carretera Norte,Santa Cruz de la Sierra,1400.0,-17.689964,-63.161674
+TER00065,terreno,disponible,venta,29900.0,dolar,0,0,Carretera Norte,Santa Cruz de la Sierra,383.0,-17.653023,-63.17857
+TER00066,terreno,disponible,venta,335000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,859.0,-17.765615,-63.225391
+DEP00327,departamento,disponible,alquiler,600.0,dolar,2,2,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,98.0,-17.751179,-63.191242
+DEP00328,departamento,disponible,venta,105000.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,36.0,-17.772423,-63.191975
+CAS00212,casa,disponible,venta,210000.0,dolar,3,4,Entre 8vo y 9no anillo Norte,Santa Cruz de la Sierra,185.0,-17.713348,-63.169682
+TER00067,terreno,disponible,venta,260000.0,dolar,0,0,Carretera Cotoca,Santa Cruz de la Sierra,16999.0,-17.762365,-63.023655
+CAS00213,casa,disponible,alquiler,440.0,dolar,3,3,Carretera Norte,Santa Cruz de la Sierra,140.0,-17.695917,-63.13559
+TER00068,terreno,disponible,venta,89000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,697.0,-17.765285,-63.255135
+CAS00214,casa,disponible,alquiler,1000.0,dolar,4,5,Urubó,Santa Cruz de la Sierra,241.0,-17.759825,-63.223049
+DEP00329,departamento,disponible,alquiler,450.0,dolar,2,2,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,99.0,-17.748667,-63.169411
+TER00069,terreno,disponible,venta,350000.0,dolar,0,0,Carretera Norte,Santa Cruz de la Sierra,1657.0,-17.504997,-63.163303
+CAS00215,casa,disponible,alquiler,350.0,dolar,4,3,Carretera Norte,Santa Cruz de la Sierra,135.0,-17.703213,-63.144341
+OFI00079,oficina,disponible,venta,140000.0,dolar,6,1,Equipetrol,Santa Cruz de la Sierra,84.0,-17.756365,-63.197807
+OFI00080,oficina,disponible,venta,7900000.0,dolar,47,23,Entre 6to y 7mo anillo Norte,Santa Cruz de la Sierra,6946.0,-17.735476,-63.158298
+TER00070,terreno,disponible,venta,7000000.0,dolar,0,0,Entre 4to y 5to anillo Este,Santa Cruz de la Sierra,3924.0,-17.793072,-63.147697
+CAS00216,casa,disponible,venta,376000.0,dolar,4,6,Entre 8vo y 9no anillo Sur,Santa Cruz de la Sierra,700.0,-17.865042,-63.224689
+CAS00217,casa,disponible,venta,178000.0,dolar,5,3,Carretera Norte,Santa Cruz de la Sierra,192.0,-17.696878,-63.184444
+DEP00330,departamento,disponible,venta,102000.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,36.0,-17.771463,-63.191074
+CAS00218,casa,disponible,venta,285000.0,dolar,4,4,Entre 2do y 3er anillo Este,Santa Cruz de la Sierra,300.0,-17.774776,-63.158028
+DEP00331,departamento,disponible,alquiler,700.0,dolar,1,2,Equipetrol,Santa Cruz de la Sierra,65.0,-17.756273,-63.197926
+TER00071,terreno,disponible,venta,90000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,526.0,-17.810598,-63.271908
+CAS00219,casa,disponible,venta,120000.0,dolar,3,3,Carretera Norte,Santa Cruz de la Sierra,170.0,-17.703716,-63.180042
+DEP00332,departamento,disponible,alquiler,1100.0,dolar,3,4,Entre 5to y 6to anillo Norte,Santa Cruz de la Sierra,220.0,-17.733072,-63.169323
+DEP00333,departamento,disponible,alquiler,315.0,dolar,1,1,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,46.0,-17.762596,-63.174774
+CAS00220,casa,disponible,venta,265000.0,dolar,3,3,Entre 5to y 6to anillo Norte,Santa Cruz de la Sierra,288.0,-17.735008,-63.165146
+CAS00221,casa,disponible,alquiler,3500.0,dolar,4,5,Urubó,Santa Cruz de la Sierra,435.0,-17.742863,-63.220345
+TER00072,terreno,disponible,venta,270000.0,dolar,0,0,Carretera Norte,Santa Cruz de la Sierra,8564.0,-17.44466,-63.217548
+TER00073,terreno,disponible,alquiler,950.0,dolar,0,0,Entre 1er y 2do anillo Sur,Santa Cruz de la Sierra,1100.0,-17.795048,-63.182484
+CAS00222,casa,disponible,anticretico,65000.0,dolar,3,2,Urubó,Santa Cruz de la Sierra,250.0,-17.760439,-63.221718
+CAS00223,casa,disponible,venta,2800000.0,dolar,5,6,Urubó,Santa Cruz de la Sierra,2000.0,-17.746502,-63.2206
+DEP00334,departamento,disponible,alquiler,980.0,dolar,1,3,Equipetrol,Santa Cruz de la Sierra,135.0,-17.770164,-63.191612
+DEP00335,departamento,disponible,venta,62000.0,dolar,1,1,Sirari,Santa Cruz de la Sierra,43.0,-17.766163,-63.201767
+DEP00336,departamento,disponible,venta,69000.0,dolar,1,1,Entre 3er y 4to anillo Norte,Santa Cruz de la Sierra,41.0,-17.757717,-63.170197
+LOC00029,local comercial,disponible,venta,300000.0,dolar,7,4,Urubó,Santa Cruz de la Sierra,224.0,-17.749363,-63.215065
+CAS00224,casa,disponible,venta,215000.0,dolar,3,4,Urubó,Santa Cruz de la Sierra,320.0,-17.749399,-63.234222
+DEP00337,departamento,disponible,venta,108300.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,75.0,-17.764784,-63.194801
+DEP00338,departamento,disponible,alquiler,375.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,67.0,-17.764261,-63.192204
+CAS00225,casa,disponible,alquiler,850.0,dolar,3,3,Entre 6to y 7mo anillo Norte,Santa Cruz de la Sierra,300.0,-17.732338,-63.158691
+CAS00226,casa,disponible,venta,160000.0,dolar,5,4,Entre 6to y 7mo anillo Oeste,Santa Cruz de la Sierra,170.0,-17.817701,-63.23061
+TER00074,terreno,disponible,venta,332000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,1106.0,-17.779156,-63.237339
+TER00075,terreno,disponible,venta,1600000.0,dolar,0,0,Entre 1er y 2do anillo Oeste,Santa Cruz de la Sierra,1007.0,-17.795336,-63.193787
+TER00076,terreno,disponible,venta,104000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,849.0,-17.766916,-63.236912
+CAS00227,casa,disponible,venta,149500.0,dolar,3,3,Urubó,Santa Cruz de la Sierra,220.0,-17.749388,-63.2342
+CAS00228,casa,disponible,venta,189000.0,dolar,4,3,Carretera Norte,Santa Cruz de la Sierra,236.0,-17.70248,-63.165207
+OFI00081,oficina,disponible,alquiler,4000.0,dolar,7,2,Sirari,Santa Cruz de la Sierra,350.0,-17.759798,-63.199951
+CAS00229,casa,disponible,venta,240000.0,dolar,4,3,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,253.0,-17.738539,-63.183002
+TER00077,terreno,disponible,venta,80000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,763.0,-17.765642,-63.254745
+CAS00230,casa,disponible,venta,880000.0,dolar,4,7,Las Palmas,Santa Cruz de la Sierra,645.0,-17.80364,-63.210869
+DEP00339,departamento,disponible,venta,82900.0,dolar,1,1,Entre 3er y 4to anillo Norte,Santa Cruz de la Sierra,34.0,-17.755369,-63.172844
+EDI00014,edificio,disponible,venta,750000.0,dolar,20,20,Entre 3er y 4to anillo Norte,Santa Cruz de la Sierra,406.0,-17.751202,-63.182724
+DEP00340,departamento,disponible,alquiler,980.0,dolar,1,2,Equipetrol,Santa Cruz de la Sierra,135.0,-17.770302,-63.191734
+DEP00341,departamento,disponible,venta,48400.0,dolar,1,1,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,28.0,-17.748013,-63.169151
+DEP00342,departamento,disponible,alquiler,450.0,dolar,3,2,Barrio Urbari,Santa Cruz de la Sierra,86.0,-17.795179,-63.197517
+DEP00343,departamento,disponible,alquiler,390.0,dolar,3,3,Entre 1er y 2do anillo Norte,Santa Cruz de la Sierra,142.0,-17.770645,-63.176365
+OFI00082,oficina,disponible,alquiler,790.0,dolar,4,2,Urubó,Santa Cruz de la Sierra,75.0,-17.750793,-63.216568
+CAS00231,casa,disponible,venta,450800.0,dolar,5,4,Entre 3er y 4to anillo Norte,Santa Cruz de la Sierra,360.0,-17.755962,-63.165638
+DEP00344,departamento,disponible,alquiler,300.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,37.0,-17.764202,-63.192226
+DEP00345,departamento,disponible,alquiler,250.0,dolar,2,3,Entre 3er y 4to anillo Oeste,Santa Cruz de la Sierra,110.0,-17.803869,-63.203732
+CAS00232,casa,disponible,venta,91000.0,dolar,4,3,Entre 8vo y 9no anillo Norte,Santa Cruz de la Sierra,160.0,-17.722065,-63.143147
+CAS00233,casa,disponible,venta,135000.0,dolar,3,2,Carretera Norte,Santa Cruz de la Sierra,110.0,-17.695908,-63.130333
+DEP00346,departamento,disponible,alquiler,380.0,dolar,2,2,Centro,Santa Cruz de la Sierra,60.0,-17.79001,-63.176167
+DEP00347,departamento,disponible,venta,59000.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,38.0,-17.76539,-63.194401
+CAS00234,casa,disponible,venta,1050000.0,dolar,5,6,Urubó,Santa Cruz de la Sierra,1080.0,-17.760071,-63.222233
+CAS00235,casa,disponible,alquiler,850.0,dolar,3,3,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,180.0,-17.765999,-63.169235
+TER00078,terreno,disponible,venta,3600000.0,dolar,0,0,Carretera Cotoca,Santa Cruz de la Sierra,50000.0,-17.765306,-63.073269
+CAS00236,casa,disponible,alquiler,650.0,dolar,2,2,Carretera Norte,Santa Cruz de la Sierra,180.0,-17.687233,-63.150787
+CAS00237,casa,disponible,venta,270000.0,dolar,4,4,Entre 3er y 4to anillo Oeste,Santa Cruz de la Sierra,420.0,-17.797323,-63.212589
+TER00079,terreno,disponible,venta,115000.0,dolar,0,0,Entre 3er y 4to anillo Norte,Santa Cruz de la Sierra,248.0,-17.755692,-63.158081
+CAS00238,casa,disponible,alquiler,4500.0,dolar,5,6,Urubó,Santa Cruz de la Sierra,500.0,-17.751499,-63.217743
+TER00080,terreno,disponible,venta,79000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,763.0,-17.765814,-63.255192
+TER00081,terreno,disponible,venta,8470000.0,dolar,0,0,Carretera Cotoca,Santa Cruz de la Sierra,242000.0,-17.763264,-63.064598
+TER00082,terreno,disponible,venta,178000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,774.0,-17.771229,-63.229527
+OFI00083,oficina,disponible,alquiler,300.0,dolar,1,1,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,37.0,-17.764277,-63.192581
+TER00083,terreno,disponible,venta,814400.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,2036.0,-17.748779,-63.215515
+TER00084,terreno,disponible,venta,2042000.0,dolar,0,0,Entre 7mo y 8vo anillo Norte,Santa Cruz de la Sierra,5105.0,-17.72086,-63.162548
+OFI00084,oficina,disponible,alquiler,2500.0,dolar,3,1,Equipetrol,Santa Cruz de la Sierra,188.0,-17.75515,-63.198364
+CAS00239,casa,disponible,venta,1141506.0,dolar,4,4,Sirari,Santa Cruz de la Sierra,580.0,-17.762388,-63.202374
+TER00085,terreno,disponible,venta,65000.0,dolar,0,0,Entre 8vo y 9no anillo Norte,Santa Cruz de la Sierra,633.0,-17.726183,-63.128529
+TER00086,terreno,disponible,venta,19000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,1500.0,-17.779728,-63.26506
+CAS00240,casa,disponible,venta,290000.0,dolar,3,4,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,370.0,-17.744169,-63.174473
+GAL00003,galpon,disponible,venta,175000.0,dolar,3,3,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,190.0,-17.750862,-63.157879
+TER00087,terreno,disponible,venta,930000.0,dolar,0,0,Entre 3er y 4to anillo Norte,Santa Cruz de la Sierra,1100.0,-17.757931,-63.170841
+CAS00241,casa,disponible,venta,1100000.0,dolar,4,7,Urubó,Santa Cruz de la Sierra,980.0,-17.731291,-63.218761
+TER00088,terreno,disponible,venta,290000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,270000.0,-17.47191,-63.270985
+CAS00242,casa,disponible,alquiler,630.0,dolar,4,3,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,190.0,-17.746193,-63.169582
+CAS00243,casa,disponible,alquiler,2200.0,dolar,5,5,Urubó,Santa Cruz de la Sierra,450.0,-17.752054,-63.218857
+OFI00085,oficina,disponible,alquiler,4500.0,dolar,7,2,Sirari,Santa Cruz de la Sierra,350.0,-17.75939,-63.199867
+CAS00244,casa,disponible,alquiler,1500.0,dolar,3,4,Entre 2do y 3er anillo Sur,Santa Cruz de la Sierra,350.0,-17.809551,-63.180843
+TER00089,terreno,disponible,venta,500000.0,dolar,0,0,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,582.0,-17.763206,-63.179195
+TER00090,terreno,disponible,venta,10584000.0,dolar,0,0,Entre 3er y 4to anillo Norte,Santa Cruz de la Sierra,6828.0,-17.753929,-63.175613
+DEP00348,departamento,disponible,alquiler,630.0,dolar,4,3,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,190.0,-17.745724,-63.164261
+GAL00004,galpon,disponible,alquiler,2500.0,dolar,4,4,Carretera Norte,Santa Cruz de la Sierra,1700.0,-17.518011,-63.164932
+DEP00349,departamento,disponible,venta,135000.0,dolar,3,2,Entre 7mo y 8vo anillo Norte,Santa Cruz de la Sierra,86.0,-17.721699,-63.168385
+TER00091,terreno,disponible,venta,846000.0,dolar,0,0,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,736.0,-17.749359,-63.178089
+DEP00350,departamento,disponible,venta,78000.0,dolar,1,1,Sirari,Santa Cruz de la Sierra,37.0,-17.759636,-63.201324
+DEP00351,departamento,disponible,alquiler,230.0,dolar,1,1,Barrio Urbari,Santa Cruz de la Sierra,30.0,-17.795933,-63.197739
+CAS00245,casa,disponible,venta,325000.0,dolar,4,4,Entre 6to y 7mo anillo Norte,Santa Cruz de la Sierra,296.0,-17.736273,-63.153835
+CAS00246,casa,disponible,venta,180000.0,dolar,3,2,Carretera Norte,Santa Cruz de la Sierra,233.0,-17.700815,-63.177635
+TER00092,terreno,disponible,venta,283000.0,dolar,0,0,Entre 5to y 6to anillo Oeste,Santa Cruz de la Sierra,951.0,-17.80825,-63.227058
+TER00093,terreno,disponible,venta,97700.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,648.0,-17.762482,-63.223091
+CAS00247,casa,disponible,venta,225000.0,dolar,4,3,Entre 7mo y 8vo anillo Norte,Santa Cruz de la Sierra,213.0,-17.726307,-63.146217
+TER00094,terreno,disponible,venta,7000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,600.0,-17.511532,-63.354069
+TER00095,terreno,disponible,venta,125000.0,dolar,0,0,Entre 8vo y 9no anillo Sur,Santa Cruz de la Sierra,193.0,-17.845442,-63.228573
+CAS00248,casa,disponible,venta,325000.0,dolar,4,4,Entre 6to y 7mo anillo Norte,Santa Cruz de la Sierra,309.0,-17.733112,-63.155167
+TER00096,terreno,disponible,venta,750000.0,dolar,0,0,Entre 1er y 2do anillo Sur,Santa Cruz de la Sierra,1017.0,-17.799093,-63.189651
+TER00097,terreno,disponible,venta,122000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,871.0,-17.694595,-63.208584
+TER00098,terreno,disponible,venta,99000.0,dolar,0,0,Carretera Norte,Santa Cruz de la Sierra,587.0,-17.698402,-63.128799
+LOC00030,local comercial,disponible,alquiler,750.0,dolar,1,1,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,200.0,-17.767294,-63.170269
+CAS00249,casa,disponible,venta,780000.0,dolar,5,6,Urubó,Santa Cruz de la Sierra,750.0,-17.740494,-63.220001
+DEP00352,departamento,disponible,venta,70900.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,40.0,-17.768112,-63.194595
+GAL00005,galpon,disponible,alquiler,3000.0,dolar,4,5,Carretera Norte,Santa Cruz de la Sierra,802.0,-17.665215,-63.164413
+CAS00250,casa,disponible,venta,240000.0,dolar,4,5,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,270.0,-17.769049,-63.162693
+CAS00251,casa,disponible,venta,145000.0,dolar,3,3,Distrito 12,Santa Cruz de la Sierra,222.0,-17.846174,-63.1502
+CAS00252,casa,disponible,venta,680000.0,dolar,5,5,Urubó,Santa Cruz de la Sierra,678.0,-17.753244,-63.221794
+CAS00253,casa,disponible,venta,46500.0,dolar,2,2,Entre 7mo y 8vo anillo Este,Santa Cruz de la Sierra,70.0,-17.760357,-63.105293
+CAS00254,casa,disponible,alquiler,2000.0,dolar,4,4,Sirari,Santa Cruz de la Sierra,200.0,-17.765837,-63.200684
+LOC00031,local comercial,disponible,venta,600.0,dolar,1,2,Entre 5to y 6to anillo Norte,Santa Cruz de la Sierra,86.0,-17.737661,-63.163727
+CAS00255,casa,disponible,venta,185000.0,dolar,4,4,Carretera Norte,Santa Cruz de la Sierra,186.0,-17.698357,-63.170525
+DEP00353,departamento,disponible,alquiler,600.0,dolar,3,4,Urubó,Santa Cruz de la Sierra,200.0,-17.765261,-63.222748
+TER00099,terreno,disponible,venta,90000.0,dolar,0,0,Carretera Norte,Santa Cruz de la Sierra,1750.0,-17.53142,-63.124458
+GAL00006,galpon,disponible,venta,715000.0,dolar,3,4,Entre 5to y 6to anillo Sur,Santa Cruz de la Sierra,1884.0,-17.843428,-63.178726
+CAS00256,casa,disponible,venta,96000.0,dolar,3,2,Entre 6to y 7mo anillo Sur,Santa Cruz de la Sierra,114.0,-17.850739,-63.194412
+DEP00354,departamento,disponible,alquiler,250.0,dolar,1,1,Entre 2do y 3er anillo Este,Santa Cruz de la Sierra,50.0,-17.783892,-63.157639
+DEP00355,departamento,disponible,alquiler,100000.0,dolar,2,2,Equipetrol,Santa Cruz de la Sierra,135.0,-17.794586,-63.178375
+CAS00257,casa,disponible,venta,593000.0,dolar,4,3,Sirari,Santa Cruz de la Sierra,409.0,-17.762636,-63.200348
+TER00100,terreno,disponible,venta,2078000.0,dolar,0,0,Entre 5to y 6to anillo Norte,Santa Cruz de la Sierra,61112.0,-17.529127,-63.129353
+CAS00258,casa,disponible,venta,690000.0,dolar,4,6,Colinas del Urubó,Santa Cruz de la Sierra,503.0,-17.734791,-63.21928
+TER00101,terreno,disponible,venta,2280000.0,dolar,0,0,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,2534.0,-17.76153,-63.168091
+CAS00259,casa,disponible,venta,155000.0,dolar,5,4,Entre 6to y 7mo anillo Sur,Santa Cruz de la Sierra,169.0,-17.853291,-63.189865
+CAS00260,casa,disponible,venta,75000.0,dolar,3,2,Distrito 12,Santa Cruz de la Sierra,120.0,-17.864836,-63.150616
+TER00102,terreno,disponible,venta,2280000.0,dolar,0,0,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,2534.0,-17.761763,-63.167999
+CAS00261,casa,disponible,venta,140000.0,dolar,4,3,Carretera Norte,Santa Cruz de la Sierra,184.0,-17.703732,-63.168705
+CAS00262,casa,disponible,alquiler,1600.0,dolar,3,5,Entre 5to y 6to anillo Norte,Santa Cruz de la Sierra,397.0,-17.740686,-63.163128
+TER00103,terreno,disponible,venta,23000.0,dolar,0,0,Pampa de la isla,Santa Cruz de la Sierra,540.0,-17.725229,-63.073776
+TER00104,terreno,disponible,venta,50000.0,dolar,0,0,Carretera Norte,Santa Cruz de la Sierra,875.0,-17.558441,-63.157124
+CAS00263,casa,disponible,alquiler,2000.0,dolar,5,4,Entre 4to y 5to anillo Este,Santa Cruz de la Sierra,220.0,-17.808626,-63.156361
+CAS00264,casa,disponible,venta,350000.0,dolar,3,7,Entre 3er y 4to anillo Norte,Santa Cruz de la Sierra,471.0,-17.753674,-63.174477
+CAS00265,casa,disponible,venta,150000.0,dolar,4,3,Carretera Norte,Santa Cruz de la Sierra,150.0,-17.693066,-63.169033
+LOC00032,local comercial,disponible,alquiler,350.0,dolar,1,1,Entre 8vo y 9no anillo Sur,Santa Cruz de la Sierra,34.0,-17.849955,-63.227993
+CAS00266,casa,disponible,venta,325000.0,dolar,4,4,Entre 6to y 7mo anillo Norte,Santa Cruz de la Sierra,309.0,-17.733112,-63.154652
+OFI00086,oficina,disponible,alquiler,900.0,dolar,3,1,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,86.0,-17.748695,-63.16927
+TER00105,terreno,disponible,venta,60000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,4999.0,-17.745726,-63.231934
+LOC00033,local comercial,disponible,anticretico,160000.0,dolar,1,4,Equipetrol,Santa Cruz de la Sierra,308.0,-17.770935,-63.192612
+CAS00267,casa,disponible,venta,1350000.0,dolar,5,7,Urubó,Santa Cruz de la Sierra,835.0,-17.779238,-63.245235
+CAS00268,casa,disponible,venta,135000.0,dolar,3,4,Urubó,Santa Cruz de la Sierra,290.0,-17.761763,-63.232803
+CAS00269,casa,disponible,venta,358000.0,dolar,4,6,Entre 5to y 6to anillo Norte,Santa Cruz de la Sierra,360.0,-17.732765,-63.193123
+CAS00270,casa,disponible,alquiler,1200.0,dolar,3,4,Equipetrol,Santa Cruz de la Sierra,174.0,-17.755211,-63.193707
+DEP00356,departamento,disponible,alquiler,1300.0,dolar,2,3,Equipetrol,Santa Cruz de la Sierra,100.0,-17.757448,-63.197269
+CAS00271,casa,disponible,venta,255000.0,dolar,3,5,Carretera Norte,Santa Cruz de la Sierra,357.0,-17.659399,-63.172077
+TER00106,terreno,disponible,venta,195000.0,dolar,0,0,Entre 4to y 5to anillo Sur,Santa Cruz de la Sierra,812.0,-17.818258,-63.207806
+TER00107,terreno,disponible,venta,800000.0,dolar,0,0,Entre 1er y 2do anillo Sur,Santa Cruz de la Sierra,950.0,-17.798113,-63.175167
+DEP00357,departamento,disponible,venta,72800.0,dolar,1,1,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,34.0,-17.748013,-63.169323
+CAS00272,casa,disponible,alquiler,279.8,dolar,3,2,Urubó,Santa Cruz de la Sierra,130.0,-17.753572,-63.228153
+DEP00358,departamento,disponible,alquiler,10500.0,dolar,2,2,Sirari,Santa Cruz de la Sierra,130.0,-17.759472,-63.201496
+CAS00273,casa,disponible,venta,800000.0,dolar,3,5,Entre 5to y 6to anillo Oeste,Santa Cruz de la Sierra,401.0,-17.811867,-63.22942
+TER00108,terreno,disponible,alquiler,2780.0,dolar,0,0,Doble vía La Guardia,Santa Cruz de la Sierra,5000.0,-17.841269,-63.236111
+DEP00359,departamento,disponible,alquiler,100000.0,dolar,2,2,Entre 1er y 2do anillo Sur,Santa Cruz de la Sierra,71.0,-17.794588,-63.178226
+DEP00360,departamento,disponible,alquiler,363.0,dolar,2,1,Equipetrol,Santa Cruz de la Sierra,70.0,-17.764784,-63.196606
+CAS00274,casa,disponible,venta,780000.0,dolar,5,6,Urubó,Santa Cruz de la Sierra,750.0,-17.74033,-63.220001
+DEP00361,departamento,disponible,alquiler,575.0,dolar,2,1,Sirari,Santa Cruz de la Sierra,88.0,-17.763474,-63.200306
+DEP00362,departamento,disponible,alquiler,310.0,dolar,1,1,Entre 1er y 2do anillo Oeste,Santa Cruz de la Sierra,28.0,-17.811548,-63.15377
+TER00109,terreno,disponible,venta,220000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,4693.0,-17.710863,-63.206097
+OFI00087,oficina,disponible,alquiler,5200.0,dolar,8,2,Equipetrol,Santa Cruz de la Sierra,370.0,-17.755302,-63.198151
+CAS00275,casa,disponible,venta,252000.0,dolar,5,4,Entre 2do y 3er anillo Oeste,Santa Cruz de la Sierra,208.0,-17.7864,-63.201557
+TER00110,terreno,disponible,venta,17655.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,330.0,-17.811682,-63.307804
+TER00111,terreno,disponible,venta,158200.0,dolar,0,0,Entre 2do y 3er anillo Sur,Santa Cruz de la Sierra,600.0,-17.807047,-63.183754
+CAS00276,casa,disponible,alquiler,3080.0,dolar,3,5,Las Palmas,Santa Cruz de la Sierra,320.0,-17.803009,-63.210304
+CAS00277,casa,disponible,venta,330000.0,dolar,5,3,Equipetrol,Santa Cruz de la Sierra,290.0,-17.755875,-63.195576
+OFI00088,oficina,disponible,alquiler,9000.0,dolar,17,4,Sirari,Santa Cruz de la Sierra,700.0,-17.760042,-63.200726
+CAS00278,casa,disponible,venta,198000.0,dolar,3,3,Urubó,Santa Cruz de la Sierra,155.0,-17.768673,-63.223465
+LOC00034,local comercial,disponible,venta,890000.0,dolar,8,8,Entre 3er y 4to anillo Norte,Santa Cruz de la Sierra,997.0,-17.754778,-63.165318
+DEP00363,departamento,disponible,alquiler,547.5,dolar,2,2,Sirari,Santa Cruz de la Sierra,88.0,-17.763474,-63.200306
+CAS00279,casa,disponible,venta,250000.0,dolar,4,4,Carretera Norte,Santa Cruz de la Sierra,222.0,-17.69479,-63.170044
+TER00112,terreno,disponible,venta,143000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,853.0,-17.746643,-63.220345
+DEP00364,departamento,disponible,venta,130000.0,dolar,4,3,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,135.0,-17.748686,-63.169109
+CAS00280,casa,disponible,venta,355000.0,dolar,4,5,Carretera Norte,Santa Cruz de la Sierra,410.0,-17.703669,-63.152931
+DEP00365,departamento,disponible,alquiler,350.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,37.0,-17.765383,-63.195393
+CAS00281,casa,disponible,venta,185000.0,dolar,4,3,Urubó,Santa Cruz de la Sierra,205.0,-17.74259,-63.235142
+TER00113,terreno,disponible,venta,265000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,900.0,-17.776459,-63.249336
+CAS00282,casa,disponible,venta,350000.0,dolar,5,5,Entre 3er y 4to anillo Norte,Santa Cruz de la Sierra,380.0,-17.752855,-63.172932
+CAS00283,casa,disponible,venta,299000.0,dolar,4,4,Urubó,Santa Cruz de la Sierra,415.0,-17.755156,-63.245052
+DEP00366,departamento,disponible,venta,618880.0,dolar,3,5,Las Palmas,Santa Cruz de la Sierra,309.0,-17.79966,-63.212536
+TER00114,terreno,disponible,venta,28800.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,300.0,-17.840935,-63.297337
+GAL00007,galpon,disponible,alquiler,2800.0,dolar,4,5,Entre 8vo y 9no anillo Norte,Santa Cruz de la Sierra,1115.0,-17.71438,-63.16581
+CAS00284,casa,disponible,venta,335000.0,dolar,4,6,Carretera Norte,Santa Cruz de la Sierra,410.0,-17.702757,-63.153378
+DEP00367,departamento,disponible,alquiler,335.0,dolar,1,1,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,41.0,-17.747276,-63.178249
+CAS00285,casa,disponible,venta,185000.0,dolar,10,2,Entre 2do y 3er anillo Este,Santa Cruz de la Sierra,100.0,-17.78426,-63.155186
+DEP00368,departamento,disponible,alquiler,900.0,dolar,3,2,Entre 3er y 4to anillo Oeste,Santa Cruz de la Sierra,123.0,-17.809366,-63.208981
+CAS00286,casa,disponible,venta,325000.0,dolar,3,3,Entre 7mo y 8vo anillo Norte,Santa Cruz de la Sierra,222.0,-17.722771,-63.167503
+TER00115,terreno,disponible,venta,2500000.0,dolar,0,0,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,3340.0,-17.750055,-63.160656
+CAS00287,casa,disponible,venta,350000.0,dolar,4,3,Carretera Norte,Santa Cruz de la Sierra,240.0,-17.703506,-63.1689
+CAS00288,casa,disponible,venta,319000.0,dolar,6,4,Entre 3er y 4to anillo Este,Santa Cruz de la Sierra,234.0,-17.781296,-63.147945
+CAS00289,casa,disponible,venta,155000.0,dolar,3,5,Urubó,Santa Cruz de la Sierra,270.0,-17.762154,-63.232754
+CAS00290,casa,disponible,venta,1100000.0,dolar,4,8,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,550.0,-17.769163,-63.177738
+DEP00369,departamento,disponible,alquiler,680.0,dolar,2,3,Entre 1er y 2do anillo Norte,Santa Cruz de la Sierra,101.0,-17.772289,-63.173962
+GAL00008,galpon,disponible,venta,290000.0,dolar,3,4,Entre 2do y 3er anillo Sur,Santa Cruz de la Sierra,405.0,-17.804371,-63.180958
+DEP00370,departamento,disponible,venta,100000.0,dolar,2,2,Equipetrol,Santa Cruz de la Sierra,110.0,-17.79332,-63.178463
+CAS00291,casa,disponible,venta,240000.0,dolar,5,6,Urubó,Santa Cruz de la Sierra,205.0,-17.707201,-63.220634
+OFI00089,oficina,disponible,alquiler,804.0,dolar,1,1,Entre 3er y 4to anillo Norte,Santa Cruz de la Sierra,140.0,-17.754328,-63.165035
+CAS00292,casa,disponible,alquiler,1300.0,dolar,4,2,Sirari,Santa Cruz de la Sierra,280.0,-17.766439,-63.203838
+CAS00293,casa,disponible,venta,290000.0,dolar,4,6,Urubó,Santa Cruz de la Sierra,340.0,-17.75823,-63.235882
+DEP00371,departamento,disponible,venta,109000.0,dolar,1,1,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,42.0,-17.764557,-63.19421
+DEP00372,departamento,disponible,alquiler,700.0,dolar,2,2,Entre 1er y 2do anillo Norte,Santa Cruz de la Sierra,108.0,-17.773577,-63.183834
+CAS00294,casa,disponible,venta,593000.0,dolar,4,5,Sirari,Santa Cruz de la Sierra,409.0,-17.762482,-63.19981
+CAS00295,casa,disponible,venta,160000.0,dolar,5,4,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,234.0,-17.744333,-63.1716
+DEP00373,departamento,disponible,venta,136234.0,dolar,2,2,Entre 4to y 5to anillo Oeste,Santa Cruz de la Sierra,74.0,-17.785147,-63.21698
+OFI00090,oficina,disponible,alquiler,2632.0,dolar,4,1,Equipetrol,Santa Cruz de la Sierra,188.0,-17.755629,-63.19849
+CAS00296,casa,disponible,venta,269000.0,dolar,4,3,Entre 3er y 4to anillo Este,Santa Cruz de la Sierra,277.0,-17.794214,-63.156376
+TER00116,terreno,disponible,venta,49000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,1057.0,-17.703865,-63.208157
+DEP00374,departamento,disponible,venta,255000.0,dolar,3,4,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,215.0,-17.765005,-63.173359
+CAS00297,casa,disponible,venta,520000.0,dolar,4,5,Urubó,Santa Cruz de la Sierra,450.0,-17.769184,-63.225838
+TER00117,terreno,disponible,venta,160000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,872.0,-17.743437,-63.221333
+CAS00298,casa,disponible,venta,720000.0,dolar,3,6,Urubó,Santa Cruz de la Sierra,503.0,-17.746317,-63.226093
+DEP00375,departamento,disponible,venta,43000.0,dolar,1,1,Entre 2do y 3er anillo Oeste,Santa Cruz de la Sierra,30.0,-17.770672,-63.197426
+CAS00299,casa,disponible,venta,593000.0,dolar,4,2,Sirari,Santa Cruz de la Sierra,409.0,-17.76581,-63.2043
+TER00118,terreno,disponible,venta,63000.0,dolar,0,0,Doble vía La Guardia,Santa Cruz de la Sierra,1022.0,-17.907763,-63.291149
+EDI00015,edificio,disponible,alquiler,4000.0,dolar,1,1,Entre 1er y 2do anillo Este,Santa Cruz de la Sierra,660.0,-17.776243,-63.165676
+TER00119,terreno,disponible,venta,167000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,701.0,-17.704641,-63.224548
+TER00120,terreno,disponible,venta,810000.0,dolar,0,0,Carretera Norte,Santa Cruz de la Sierra,5601.0,-17.70229,-63.164394
+CAS00300,casa,disponible,venta,265000.0,dolar,4,4,Entre 5to y 6to anillo Norte,Santa Cruz de la Sierra,288.0,-17.735065,-63.165272
+TER00121,terreno,disponible,venta,4635600.0,dolar,0,0,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,13728.0,-17.760033,-63.146431
+CAS00301,casa,disponible,venta,85000.0,dolar,3,1,Carretera Norte,Santa Cruz de la Sierra,99.0,-17.679207,-63.144356
+TER00122,terreno,disponible,venta,1262940.0,dolar,0,0,Las Palmas,Santa Cruz de la Sierra,1053.0,-17.802519,-63.212021
+CAS00302,casa,disponible,venta,210000.0,dolar,5,6,Carretera Norte,Santa Cruz de la Sierra,1062.0,-17.660118,-63.172928
+CAS00303,casa,disponible,alquiler,2000.0,dolar,2,5,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,280.0,-17.748198,-63.175335
+TER00123,terreno,disponible,venta,40000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,300.0,-17.645147,-63.237942
+TER00124,terreno,disponible,venta,95850.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,1066.0,-17.692253,-63.212963
+TER00125,terreno,disponible,venta,303408.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,778.0,-17.74979,-63.22633
+CAS00304,casa,disponible,venta,530000.0,dolar,4,4,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,366.0,-17.765659,-63.174862
+DEP00376,departamento,disponible,venta,155000.0,dolar,4,3,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,115.0,-17.762941,-63.178642
+CAS00305,casa,disponible,venta,55000.0,dolar,3,2,Entre 7mo y 8vo anillo Norte,Santa Cruz de la Sierra,96.0,-17.661358,-63.166992
+TER00126,terreno,disponible,venta,250000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,1096.0,-17.736814,-63.219357
+TER00127,terreno,disponible,venta,5320820.0,dolar,0,0,Entre 5to y 6to anillo Norte,Santa Cruz de la Sierra,11567.0,-17.739876,-63.162968
+CAS00306,casa,disponible,alquiler,28000.0,dolar,3,5,Las Palmas,Santa Cruz de la Sierra,450.0,-17.802847,-63.209961
+TER00128,terreno,disponible,venta,8850.0,dolar,0,0,Carretera Norte,Santa Cruz de la Sierra,300.0,-17.59446,-63.06395
+DEP00377,departamento,disponible,venta,128000.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,53.0,-17.756895,-63.197475
+TER00129,terreno,disponible,alquiler,1200.0,dolar,0,0,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,3338.0,-17.749729,-63.160313
+TER00130,terreno,disponible,venta,580000.0,dolar,0,0,Entre 3er y 4to anillo Norte,Santa Cruz de la Sierra,1105.0,-17.759068,-63.188599
+TER00131,terreno,disponible,venta,145000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,667.0,-17.705395,-63.227905
+CAS00307,casa,disponible,alquiler,700.0,dolar,3,5,Entre 5to y 6to anillo Norte,Santa Cruz de la Sierra,280.0,-17.734886,-63.165173
+GAL00009,galpon,disponible,alquiler,3500.0,dolar,8,5,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,1100.0,-17.759691,-63.181255
+CAS00308,casa,disponible,venta,295000.0,dolar,4,6,Urubó,Santa Cruz de la Sierra,511.0,-17.754707,-63.221268
+CAS00309,casa,disponible,alquiler,1280.0,dolar,3,4,Entre 5to y 6to anillo Norte,Santa Cruz de la Sierra,397.0,-17.740656,-63.163147
+CAS00310,casa,disponible,venta,250000.0,dolar,5,5,Carretera Norte,Santa Cruz de la Sierra,296.0,-17.702387,-63.174095
+LOC00035,local comercial,disponible,alquiler,800.0,dolar,1,2,Sirari,Santa Cruz de la Sierra,108.0,-17.764626,-63.201595
+CAS00311,casa,disponible,alquiler,750.0,dolar,3,4,Entre 8vo y 9no anillo Norte,Santa Cruz de la Sierra,320.0,-17.71232,-63.161709
+DEP00378,departamento,disponible,venta,217250.0,dolar,2,2,Equipetrol,Santa Cruz de la Sierra,79.0,-17.764565,-63.194221
+CAS00312,casa,disponible,alquiler,1600.0,dolar,4,5,Urubó,Santa Cruz de la Sierra,380.0,-17.758837,-63.236156
+CAS00313,casa,disponible,alquiler,850.0,dolar,3,3,Sirari,Santa Cruz de la Sierra,50.0,-17.764784,-63.201496
+CAS00314,casa,disponible,venta,310000.0,dolar,4,5,Entre 6to y 7mo anillo Norte,Santa Cruz de la Sierra,392.0,-17.730997,-63.171715
+DEP00379,departamento,disponible,venta,55500.0,dolar,1,1,Entre 3er y 4to anillo Norte,Santa Cruz de la Sierra,29.0,-17.757803,-63.183811
+CAS00315,casa,disponible,venta,260000.0,dolar,4,6,Carretera Norte,Santa Cruz de la Sierra,295.0,-17.689722,-63.161331
+CAS00316,casa,disponible,alquiler,1600.0,dolar,3,5,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,190.0,-17.745899,-63.195507
+DEP00380,departamento,disponible,alquiler,390.0,dolar,1,1,Entre 2do y 3er anillo Oeste,Santa Cruz de la Sierra,38.0,-17.770016,-63.197121
+DEP00381,departamento,disponible,alquiler,750.0,dolar,2,3,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,132.0,-17.748585,-63.169991
+CAS00317,casa,disponible,venta,580000.0,dolar,6,7,Entre 3er y 4to anillo Norte,Santa Cruz de la Sierra,700.0,-17.758823,-63.187523
+DEP00382,departamento,disponible,venta,254000.0,dolar,3,4,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,275.0,-17.764353,-63.174732
+DEP00383,departamento,disponible,venta,320000.0,dolar,2,4,Equipetrol,Santa Cruz de la Sierra,220.0,-17.769279,-63.195145
+CAS00318,casa,disponible,alquiler,2000.0,dolar,4,6,Urubó,Santa Cruz de la Sierra,450.0,-17.758549,-63.235645
+TER00132,terreno,disponible,venta,265000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,750.0,-17.777031,-63.248238
+CAS00319,casa,disponible,alquiler,440.0,dolar,3,2,Carretera Norte,Santa Cruz de la Sierra,140.0,-17.696384,-63.130081
+CAS00320,casa,disponible,alquiler,1050.0,dolar,3,5,Urubó,Santa Cruz de la Sierra,340.0,-17.758698,-63.236275
+TER00133,terreno,disponible,venta,490000.0,dolar,0,0,Entre 2do y 3er anillo Oeste,Santa Cruz de la Sierra,548.0,-17.792801,-63.194572
+GAL00010,galpon,disponible,venta,800000.0,dolar,4,5,Distrito 12,Santa Cruz de la Sierra,1008.0,-17.867134,-63.167301
+LOC00036,local comercial,disponible,alquiler,250.0,dolar,1,1,Entre 8vo y 9no anillo Sur,Santa Cruz de la Sierra,36.0,-17.849955,-63.227993
+CAS00321,casa,disponible,alquiler,650.0,dolar,3,3,Entre 6to y 7mo anillo Oeste,Santa Cruz de la Sierra,156.0,-17.816874,-63.235878
+EDI00016,edificio,disponible,venta,405000.0,dolar,8,8,Entre 2do y 3er anillo Este,Santa Cruz de la Sierra,649.0,-17.77927,-63.163235
+GAL00011,galpon,disponible,venta,500000.0,dolar,4,6,Entre 2do y 3er anillo Sur,Santa Cruz de la Sierra,410.0,-17.805405,-63.195808
+CAS00322,casa,disponible,venta,205000.0,dolar,4,4,Carretera Norte,Santa Cruz de la Sierra,247.0,-17.70236,-63.175762
+DEP00384,departamento,disponible,venta,75850.0,dolar,1,2,Equipetrol,Santa Cruz de la Sierra,42.0,-17.769148,-63.191658
+DEP00385,departamento,disponible,venta,94000.0,dolar,2,2,Entre 4to y 5to anillo Oeste,Santa Cruz de la Sierra,92.0,-17.787533,-63.220943
+DEP00386,departamento,disponible,alquiler,600.0,dolar,1,1,Sirari,Santa Cruz de la Sierra,43.0,-17.764856,-63.20322
+OFI00091,oficina,disponible,venta,199000.0,dolar,5,2,Equipetrol,Santa Cruz de la Sierra,119.0,-17.765741,-63.19614
+CAS00323,casa,disponible,alquiler,2600.0,dolar,4,5,Urubó,Santa Cruz de la Sierra,480.0,-17.760662,-63.233295
+CAS00324,casa,disponible,venta,155000.0,dolar,3,5,Urubó,Santa Cruz de la Sierra,280.0,-17.762171,-63.232483
+TER00134,terreno,disponible,venta,310000.0,dolar,0,0,Colinas del Urubó,Santa Cruz de la Sierra,1107.0,-17.755552,-63.217648
+GAL00012,galpon,disponible,alquiler,390.0,dolar,3,3,Urubó,Santa Cruz de la Sierra,245.0,-17.750793,-63.229183
+LOC00037,local comercial,disponible,alquiler,2500.0,dolar,2,4,Entre 1er y 2do anillo Este,Santa Cruz de la Sierra,319.0,-17.782501,-63.171085
+LOC00038,local comercial,disponible,venta,289000.0,dolar,3,4,Centro,Santa Cruz de la Sierra,423.0,-17.785618,-63.172512
+DEP00387,departamento,disponible,alquiler,350.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,36.0,-17.766256,-63.195576
+DEP00388,departamento,disponible,alquiler,300.0,dolar,2,3,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,81.0,-17.743025,-63.172672
+DEP00389,departamento,disponible,alquiler,300.0,dolar,1,1,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,37.0,-17.764261,-63.192196
+CAS00325,casa,disponible,venta,285000.0,dolar,4,4,Carretera Norte,Santa Cruz de la Sierra,337.0,-17.702665,-63.153355
+CAS00326,casa,disponible,venta,180000.0,dolar,4,6,Urubó,Santa Cruz de la Sierra,340.0,-17.760641,-63.232998
+DEP00390,departamento,disponible,alquiler,420.0,dolar,1,1,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,46.0,-17.76302,-63.178604
+DEP00391,departamento,disponible,alquiler,350.0,dolar,1,1,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,42.0,-17.763634,-63.178143
+CAS00327,casa,disponible,alquiler,5000.0,dolar,4,5,Entre 3er y 4to anillo Oeste,Santa Cruz de la Sierra,562.0,-17.804264,-63.207832
+DEP00392,departamento,disponible,alquiler,375.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,67.0,-17.764265,-63.192204
+CAS00328,casa,disponible,venta,186000.0,dolar,6,4,Entre 2do y 3er anillo Este,Santa Cruz de la Sierra,319.0,-17.779297,-63.161175
+DEP00393,departamento,disponible,anticretico,21000.0,dolar,2,2,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,69.0,-17.762409,-63.175594
+LOC00039,local comercial,disponible,alquiler,700.0,dolar,1,2,Entre 1er y 2do anillo Sur,Santa Cruz de la Sierra,90.0,-17.798195,-63.179771
+CAS00329,casa,disponible,alquiler,1500.0,dolar,3,4,Entre 2do y 3er anillo Sur,Santa Cruz de la Sierra,350.0,-17.810564,-63.180302
+CAS00330,casa,disponible,venta,399000.0,dolar,4,7,Urubó,Santa Cruz de la Sierra,450.0,-17.759956,-63.23407
+DEP00394,departamento,disponible,venta,235000.0,dolar,4,4,Entre 4to y 5to anillo Oeste,Santa Cruz de la Sierra,247.0,-17.798817,-63.21748
+DEP00395,departamento,disponible,venta,251120.0,dolar,2,3,Equipetrol,Santa Cruz de la Sierra,125.0,-17.765511,-63.195091
+CAS00331,casa,disponible,venta,509381.0,dolar,7,10,Entre 7mo y 8vo anillo Norte,Santa Cruz de la Sierra,889.0,-17.726206,-63.163162
+CAS00332,casa,disponible,venta,260000.0,dolar,3,4,Entre 4to y 5to anillo Oeste,Santa Cruz de la Sierra,257.0,-17.791634,-63.223904
+DEP00396,departamento,disponible,venta,99536.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,62.0,-17.769035,-63.19437
+DEP00397,departamento,disponible,venta,72000.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,30.0,-17.755711,-63.193214
+DEP00398,departamento,disponible,venta,90000.0,dolar,2,2,Centro,Santa Cruz de la Sierra,100.0,-17.789696,-63.177376
+CAS00333,casa,disponible,venta,320000.0,dolar,4,3,Entre 1er y 2do anillo Sur,Santa Cruz de la Sierra,230.0,-17.793169,-63.176991
+CAS00334,casa,disponible,venta,189000.0,dolar,5,5,Entre 5to y 6to anillo Sur,Santa Cruz de la Sierra,210.0,-17.839506,-63.181644
+CAS00335,casa,disponible,venta,68000.0,dolar,3,2,Entre 6to y 7mo anillo Sur,Santa Cruz de la Sierra,100.0,-17.830685,-63.227119
+CAS00336,casa,disponible,venta,450000.0,dolar,9,4,Entre 1er y 2do anillo Este,Santa Cruz de la Sierra,663.0,-17.7827,-63.168118
+TER00135,terreno,disponible,venta,86000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,325.0,-17.745644,-63.222919
+DEP00399,departamento,disponible,venta,260000.0,dolar,3,3,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,152.0,-17.751114,-63.19125
+TER00136,terreno,disponible,venta,84000.0,dolar,0,0,Carretera Norte,Santa Cruz de la Sierra,371.0,-17.689653,-63.161259
+DEP00400,departamento,disponible,alquiler,250.0,dolar,1,1,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,33.0,-17.76198,-63.188293
+DEP00401,departamento,disponible,alquiler,320.0,dolar,2,1,Equipetrol,Santa Cruz de la Sierra,55.0,-17.76041,-63.1964
+OFI00092,oficina,disponible,venta,102477.0,dolar,1,2,Centro,Santa Cruz de la Sierra,117.0,-17.790289,-63.176983
+DEP00402,departamento,disponible,alquiler,350.0,dolar,3,2,Entre 6to y 7mo anillo Norte,Santa Cruz de la Sierra,95.0,-17.725752,-63.167744
+CAS00337,casa,disponible,alquiler,696.0,dolar,3,4,Equipetrol,Santa Cruz de la Sierra,163.0,-17.770561,-63.19096
+TER00137,terreno,disponible,venta,1850000.0,dolar,0,0,Entre 1er y 2do anillo Sur,Santa Cruz de la Sierra,2313.0,-17.79295,-63.176945
+TER00138,terreno,disponible,venta,1260000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,40000.0,-17.718782,-63.217571
+CAS00338,casa,disponible,alquiler,2500.0,dolar,3,4,Urubó,Santa Cruz de la Sierra,330.0,-17.763462,-63.224033
+LOC00040,local comercial,disponible,venta,78000.0,dolar,1,1,Entre 3er y 4to anillo Este,Santa Cruz de la Sierra,623.0,-17.788168,-63.149071
+TER00139,terreno,disponible,venta,550000.0,dolar,0,0,Carretera Norte,Santa Cruz de la Sierra,22200.0,-17.415705,-63.196522
+DEP00403,departamento,disponible,alquiler,700.0,dolar,2,2,Entre 2do y 3er anillo Oeste,Santa Cruz de la Sierra,85.0,-17.771851,-63.203659
+DEP00404,departamento,disponible,alquiler,250.0,dolar,1,2,Centro,Santa Cruz de la Sierra,65.0,-17.785103,-63.17952
+CAS00339,casa,disponible,alquiler,313.2,dolar,2,2,Carretera Norte,Santa Cruz de la Sierra,80.0,-17.699326,-63.168941
+DEP00405,departamento,disponible,alquiler,320.0,dolar,2,1,Entre 6to y 7mo anillo Norte,Santa Cruz de la Sierra,70.0,-17.722076,-63.177677
+CAS00340,casa,disponible,venta,360000.0,dolar,4,5,Urubó,Santa Cruz de la Sierra,359.0,-17.758877,-63.235775
+DEP00406,departamento,disponible,venta,105000.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,36.0,-17.771547,-63.191025
+DEP00407,departamento,disponible,alquiler,243.6,dolar,1,1,Entre 1er y 2do anillo Sur,Santa Cruz de la Sierra,62.0,-17.79277,-63.176186
+CAS00341,casa,disponible,venta,470000.0,dolar,4,5,Urubó,Santa Cruz de la Sierra,390.0,-17.761419,-63.231419
+GAL00013,galpon,disponible,venta,850000.0,dolar,4,5,Carretera Norte,Santa Cruz de la Sierra,20404.0,-17.564753,-63.161636
+TER00140,terreno,disponible,venta,145000.0,dolar,0,0,Carretera Cotoca,Santa Cruz de la Sierra,9183.0,-17.915234,-63.056614
+CAS00342,casa,disponible,alquiler,690.0,dolar,3,4,Entre 5to y 6to anillo Norte,Santa Cruz de la Sierra,210.0,-17.735073,-63.165131
+DEP00408,departamento,disponible,alquiler,320.0,dolar,1,1,Entre 2do y 3er anillo Oeste,Santa Cruz de la Sierra,45.0,-17.79505,-63.197918
+DEP00409,departamento,disponible,venta,75000.0,dolar,1,1,Sirari,Santa Cruz de la Sierra,40.0,-17.763611,-63.203026
+DEP00410,departamento,disponible,alquiler,350.0,dolar,2,2,Entre 7mo y 8vo anillo Norte,Santa Cruz de la Sierra,88.0,-17.720409,-63.17849
+DEP00411,departamento,disponible,venta,103000.0,dolar,3,4,Entre 6to y 7mo anillo Norte,Santa Cruz de la Sierra,78.0,-17.731478,-63.168556
+DEP00412,departamento,alquilado,alquiler,280.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,45.0,-17.765682,-63.193428
+DEP00413,departamento,disponible,alquiler,250.0,dolar,1,1,Entre 1er y 2do anillo Oeste,Santa Cruz de la Sierra,60.0,-17.779325,-63.19207
+DEP00414,departamento,disponible,alquiler,635.0,dolar,3,2,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,123.0,-17.750126,-63.170677
+DEP00415,departamento,disponible,alquiler,320.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,45.0,-17.763786,-63.191593
+DEP00416,departamento,disponible,venta,63000.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,36.0,-17.766256,-63.196346
+TER00141,terreno,disponible,venta,600000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,1500.0,-17.743031,-63.215237
+OFI00093,oficina,disponible,venta,124000.0,dolar,1,1,Entre 6to y 7mo anillo Norte,Santa Cruz de la Sierra,34.0,-17.763653,-63.192844
+DEP00417,departamento,disponible,alquiler,350.0,dolar,2,1,Centro,Santa Cruz de la Sierra,70.0,-17.787331,-63.179886
+DEP00418,departamento,disponible,venta,135000.0,dolar,1,2,Equipetrol,Santa Cruz de la Sierra,50.0,-17.767809,-63.193771
+CAS00343,casa,disponible,venta,480000.0,dolar,5,7,Urubó,Santa Cruz de la Sierra,478.0,-17.761909,-63.236912
+CAS00344,casa,disponible,venta,185000.0,dolar,4,4,Entre 5to y 6to anillo Sur,Santa Cruz de la Sierra,210.0,-17.838036,-63.180958
+CAS00345,casa,disponible,venta,171428.0,dolar,5,3,Entre 1er y 2do anillo Este,Santa Cruz de la Sierra,227.0,-17.787447,-63.165977
+CAS00346,casa,disponible,venta,193000.0,dolar,3,3,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,152.0,-17.765659,-63.16898
+DEP00419,departamento,disponible,alquiler,450.0,dolar,3,2,Entre 1er y 2do anillo Norte,Santa Cruz de la Sierra,110.0,-17.773226,-63.184193
+CAS00347,casa,disponible,alquiler,400.0,dolar,4,1,Centro,Santa Cruz de la Sierra,101.0,-17.781065,-63.182842
+CAS00348,casa,disponible,venta,390000.0,dolar,7,6,Carretera Norte,Santa Cruz de la Sierra,300.0,-17.655453,-63.168297
+CAS00349,casa,disponible,venta,620000.0,dolar,4,6,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,600.0,-17.748175,-63.174988
+TER00142,terreno,disponible,venta,20000.0,dolar,0,0,Doble vía La Guardia,Santa Cruz de la Sierra,300.0,-17.905893,-63.232708
+DEP00420,departamento,disponible,venta,44582.0,dolar,1,1,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,34.0,-17.746704,-63.169926
+DEP00421,departamento,disponible,venta,45500.0,dolar,1,1,Carretera Norte,Santa Cruz de la Sierra,35.0,-17.710701,-63.155682
+TER00143,terreno,disponible,venta,385000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,1095.0,-17.748423,-63.226181
+CAS00350,casa,disponible,venta,320000.0,dolar,4,4,Entre 6to y 7mo anillo Oeste,Santa Cruz de la Sierra,310.0,-17.816471,-63.235802
+DEP00422,departamento,vendido,venta,125000.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,48.0,-17.756529,-63.197636
+CAS00351,casa,disponible,venta,60200.0,dolar,3,1,Entre 7mo y 8vo anillo Sur,Santa Cruz de la Sierra,85.0,-17.855305,-63.204273
+CAS00352,casa,disponible,venta,145000.0,dolar,3,3,Entre 3er y 4to anillo Norte,Santa Cruz de la Sierra,180.0,-17.752787,-63.172276
+DEP00423,departamento,disponible,venta,43000.0,dolar,1,1,Entre 8vo y 9no anillo Norte,Santa Cruz de la Sierra,28.0,-17.713358,-63.18821
+TER00144,terreno,disponible,venta,39000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,931.0,-17.788717,-63.291157
+TER00145,terreno,disponible,venta,570000.0,dolar,0,0,Equipetrol,Santa Cruz de la Sierra,580.0,-17.766174,-63.194717
+CAS00353,casa,disponible,venta,720000.0,dolar,4,5,Urubó,Santa Cruz de la Sierra,580.0,-17.749893,-63.226311
+TER00146,terreno,disponible,venta,36000.0,dolar,0,0,Carretera Norte,Santa Cruz de la Sierra,200.0,-17.696358,-63.165852
+TER00147,terreno,disponible,venta,360000.0,dolar,0,0,Entre 2do y 3er anillo Sur,Santa Cruz de la Sierra,273.0,-17.799252,-63.19276
+DEP00424,departamento,disponible,venta,59000.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,38.0,-17.765448,-63.193535
+DEP00425,departamento,disponible,venta,198260.0,dolar,2,3,Equipetrol,Santa Cruz de la Sierra,127.0,-17.758112,-63.198986
+CAS00354,casa,alquilado,alquiler,1630.0,dolar,3,4,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,260.0,-17.742085,-63.168381
+EDI00017,edificio,disponible,venta,2450000.0,dolar,10,6,Equipetrol,Santa Cruz de la Sierra,2187.0,-17.760963,-63.197247
+EDI00018,edificio,disponible,venta,840000.0,dolar,13,10,Centro,Santa Cruz de la Sierra,1120.0,-17.788862,-63.179737
+CAS00355,casa,disponible,alquiler,1714.0,dolar,4,4,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,450.0,-17.76951,-63.167973
+TER00148,terreno,disponible,venta,85000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,413.0,-17.75349,-63.245537
+EDI00019,edificio,disponible,venta,3100000.0,dolar,35,37,Entre 6to y 7mo anillo Norte,Santa Cruz de la Sierra,4500.0,-17.729679,-63.162632
+DEP00426,departamento,disponible,alquiler,750.0,dolar,2,2,Equipetrol,Santa Cruz de la Sierra,76.0,-17.768381,-63.194073
+CAS00356,casa,disponible,alquiler,850.0,dolar,5,3,Sirari,Santa Cruz de la Sierra,270.0,-17.762424,-63.200714
+OFI00094,oficina,disponible,alquiler,2400.0,dolar,5,1,Equipetrol,Santa Cruz de la Sierra,188.0,-17.755098,-63.198353
+CAS00357,casa,disponible,venta,80000.0,dolar,3,2,Carretera Norte,Santa Cruz de la Sierra,100.0,-17.611053,-63.162788
+TER00149,terreno,disponible,venta,15000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,300.0,-17.791904,-63.295101
+CAS00358,casa,disponible,venta,270000.0,dolar,4,4,Urubó,Santa Cruz de la Sierra,220.0,-17.762178,-63.236423
+DEP00427,departamento,disponible,venta,149000.0,dolar,3,5,Centro,Santa Cruz de la Sierra,175.0,-17.777216,-63.183384
+DEP00428,departamento,disponible,venta,63000.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,444.0,-17.765602,-63.199696
+CAS00359,casa,disponible,alquiler,1200.0,dolar,6,3,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,400.0,-17.759672,-63.182056
+DEP00429,departamento,disponible,alquiler,490.0,dolar,2,2,Equipetrol,Santa Cruz de la Sierra,105.0,-17.767599,-63.1964
+TER00150,terreno,disponible,venta,600000.0,dolar,0,0,Doble vía La Guardia,Santa Cruz de la Sierra,15000.0,-17.862194,-63.257942
+CAS00360,casa,disponible,venta,1141506.0,dolar,4,3,Sirari,Santa Cruz de la Sierra,350.0,-17.765102,-63.201759
+DEP00430,departamento,alquilado,alquiler,280.0,dolar,1,1,Barrio Urbari,Santa Cruz de la Sierra,45.0,-17.796371,-63.199932
+CAS00361,casa,disponible,alquiler,850.0,dolar,4,4,Entre 5to y 6to anillo Oeste,Santa Cruz de la Sierra,320.0,-17.815704,-63.222492
+CAS00362,casa,disponible,venta,169000.0,dolar,3,2,Carretera Norte,Santa Cruz de la Sierra,230.0,-17.700327,-63.163448
+DEP00431,departamento,disponible,alquiler,350.0,dolar,2,2,Entre 1er y 2do anillo Norte,Santa Cruz de la Sierra,73.0,-17.771128,-63.181473
+DEP00432,departamento,disponible,alquiler,500.0,dolar,2,2,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,60.0,-17.74507,-63.169411
+TER00151,terreno,disponible,venta,1150000.0,dolar,0,0,Carretera Norte,Santa Cruz de la Sierra,6050.0,-17.675976,-63.149914
+DEP00433,departamento,disponible,venta,170000.0,dolar,3,3,Entre 2do y 3er anillo Oeste,Santa Cruz de la Sierra,215.0,-17.79936,-63.195889
+CAS00363,casa,disponible,venta,58000.0,dolar,3,2,Distrito 12,Santa Cruz de la Sierra,210.0,-17.861685,-63.186001
+OFI00095,oficina,disponible,alquiler,4000.0,dolar,10,8,Sirari,Santa Cruz de la Sierra,376.0,-17.759636,-63.200638
+CAS00364,casa,disponible,venta,200000.0,dolar,3,3,Entre 1er y 2do anillo Sur,Santa Cruz de la Sierra,177.0,-17.797623,-63.182869
+TER00152,terreno,disponible,venta,480000.0,dolar,0,0,Colinas del Urubó,Santa Cruz de la Sierra,1541.0,-17.736916,-63.217735
+CAS00365,casa,disponible,alquiler,300.0,dolar,3,3,Pampa de la isla,Santa Cruz de la Sierra,180.0,-17.76454,-63.122231
+TER00153,terreno,disponible,venta,115000.0,dolar,0,0,Entre 3er y 4to anillo Norte,Santa Cruz de la Sierra,249.0,-17.755625,-63.158009
+CAS00366,casa,disponible,venta,198000.0,dolar,4,5,Entre 2do y 3er anillo Oeste,Santa Cruz de la Sierra,350.0,-17.786072,-63.203026
+CAS00367,casa,alquilado,alquiler,480.0,dolar,3,3,Carretera Norte,Santa Cruz de la Sierra,220.0,-17.682539,-63.18399
+LOC00041,local comercial,disponible,alquiler,1150.0,dolar,2,3,Entre 2do y 3er anillo Oeste,Santa Cruz de la Sierra,120.0,-17.771868,-63.195793
+OFI00096,oficina,disponible,alquiler,4000.0,dolar,1,4,Centro,Santa Cruz de la Sierra,378.0,-17.790989,-63.178322
+TER00154,terreno,disponible,venta,352000.0,dolar,0,0,Entre 3er y 4to anillo Oeste,Santa Cruz de la Sierra,335.0,-17.770735,-63.20858
+DEP00434,departamento,disponible,venta,100000.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,41.0,-17.75997,-63.197735
+CAS00368,casa,disponible,venta,290000.0,dolar,3,3,Urubó,Santa Cruz de la Sierra,280.0,-17.762074,-63.224979
+CAS00369,casa,disponible,venta,750000.0,dolar,3,5,Urubó,Santa Cruz de la Sierra,450.0,-17.773516,-63.228413
+OFI00097,oficina,disponible,alquiler,1900.0,dolar,4,4,Equipetrol,Santa Cruz de la Sierra,188.0,-17.75518,-63.198303
+TER00155,terreno,disponible,venta,92000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,5000.0,-17.859562,-63.310207
+CAS00370,casa,disponible,venta,62900.0,dolar,3,2,Carretera Norte,Santa Cruz de la Sierra,105.0,-17.661264,-63.163822
+DEP00435,departamento,disponible,venta,191240.0,dolar,2,2,Sirari,Santa Cruz de la Sierra,137.0,-17.765602,-63.200294
+DEP00436,departamento,disponible,venta,170000.0,dolar,1,1,Entre 2do y 3er anillo Oeste,Santa Cruz de la Sierra,234.0,-17.793837,-63.196621
+DEP00437,departamento,disponible,alquiler,600.0,dolar,2,1,Entre 3er y 4to anillo Sur,Santa Cruz de la Sierra,70.0,-17.814287,-63.179562
+CAS00371,casa,disponible,venta,290000.0,dolar,3,3,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,263.0,-17.74,-63.177822
+CAS00372,casa,disponible,venta,168500.0,dolar,3,2,Pampa de la isla,Santa Cruz de la Sierra,340.0,-17.767548,-63.117729
+DEP00438,departamento,disponible,venta,189000.0,dolar,3,2,Entre 4to y 5to anillo Oeste,Santa Cruz de la Sierra,148.0,-17.793116,-63.22134
+DEP00439,departamento,disponible,venta,150000.0,dolar,2,3,Equipetrol,Santa Cruz de la Sierra,94.0,-17.767645,-63.194801
+DEP00440,departamento,disponible,alquiler,320.0,dolar,1,1,Entre 1er y 2do anillo Oeste,Santa Cruz de la Sierra,70.0,-17.792177,-63.194111
+DEP00441,departamento,disponible,alquiler,350.0,dolar,2,1,Centro,Santa Cruz de la Sierra,70.0,-17.789577,-63.179329
+TER00156,terreno,disponible,venta,275000.0,dolar,0,0,Carretera Cotoca,Santa Cruz de la Sierra,1746.0,-17.755335,-62.996449
+DEP00442,departamento,disponible,venta,69160.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,49.0,-17.75688,-63.197498
+TER00157,terreno,disponible,venta,185000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,664.0,-17.753387,-63.221748
+EDI00020,edificio,disponible,alquiler,2150.0,dolar,6,6,Centro,Santa Cruz de la Sierra,550.0,-17.783321,-63.175995
+CAS00373,casa,disponible,venta,270000.0,dolar,4,4,Urubó,Santa Cruz de la Sierra,220.0,-17.76236,-63.236706
+TER00158,terreno,disponible,venta,6200000.0,dolar,0,0,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,7686.0,-17.759447,-63.177101
+DEP00443,departamento,disponible,venta,125000.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,48.0,-17.756039,-63.196777
+DEP00444,departamento,disponible,alquiler,267.0,dolar,1,1,Entre 7mo y 8vo anillo Norte,Santa Cruz de la Sierra,31.0,-17.724079,-63.162895
+CAS00374,casa,disponible,alquiler,9000.0,dolar,4,4,Entre 6to y 7mo anillo Oeste,Santa Cruz de la Sierra,320.0,-17.811804,-63.233883
+DEP00445,departamento,disponible,alquiler,310.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,45.0,-17.758204,-63.199097
+OFI00098,oficina,disponible,venta,55857.0,dolar,1,1,Centro,Santa Cruz de la Sierra,64.0,-17.791233,-63.178234
+CAS00375,casa,disponible,venta,315000.0,dolar,3,2,Entre 4to y 5to anillo Norte,Santa Cruz de la Sierra,245.0,-17.744398,-63.170444
+DEP00446,departamento,disponible,venta,65000.0,dolar,1,1,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,36.0,-17.768192,-63.179455
+DEP00447,departamento,disponible,venta,58500.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,31.0,-17.765797,-63.194126
+TER00159,terreno,disponible,venta,16000.0,dolar,0,0,Doble vía La Guardia,Santa Cruz de la Sierra,3550.0,-17.919289,-63.323772
+OFI00099,oficina,disponible,alquiler,1000.0,dolar,1,2,Centro,Santa Cruz de la Sierra,117.0,-17.791151,-63.178661
+DEP00448,departamento,disponible,venta,90000.0,dolar,2,2,Entre 5to y 6to anillo Sur,Santa Cruz de la Sierra,93.0,-17.836891,-63.191341
+DEP00449,departamento,disponible,alquiler,800.0,dolar,3,4,Urubó,Santa Cruz de la Sierra,230.0,-17.765179,-63.222576
+DEP00450,departamento,disponible,alquiler,350.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,39.0,-17.76507,-63.195145
+OFI00100,oficina,disponible,alquiler,500.0,dolar,1,1,Centro,Santa Cruz de la Sierra,42.0,-17.790907,-63.177292
+CAS00376,casa,disponible,venta,225000.0,dolar,3,4,Equipetrol,Santa Cruz de la Sierra,167.0,-17.771894,-63.192226
+CAS00377,casa,alquilado,alquiler,290.0,dolar,3,2,Entre 6to y 7mo anillo Este,Santa Cruz de la Sierra,200.0,-17.771229,-63.114483
+CAS00378,casa,disponible,venta,1050.0,dolar,5,3,Hamacas,Santa Cruz de la Sierra,630.0,-17.750975,-63.173405
+CAS00379,casa,disponible,venta,100000.0,dolar,3,1,Carretera Norte,Santa Cruz de la Sierra,190.0,-17.703485,-63.150658
+CAS00380,casa,disponible,venta,720000.0,dolar,4,6,Urubó,Santa Cruz de la Sierra,580.0,-17.751856,-63.226608
+DEP00451,departamento,disponible,alquiler,840.0,dolar,2,2,Equipetrol,Santa Cruz de la Sierra,108.0,-17.767773,-63.195663
+DEP00452,departamento,disponible,alquiler,340.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,47.0,-17.767878,-63.199261
+OFI00101,oficina,disponible,venta,65600.0,dolar,1,1,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,29.0,-17.760508,-63.173901
+TER00160,terreno,disponible,venta,125000.0,dolar,0,0,Plan 3000,Santa Cruz de la Sierra,802.0,-17.826391,-63.092934
+DEP00453,departamento,disponible,alquiler,350.0,dolar,3,2,Entre 1er y 2do anillo Sur,Santa Cruz de la Sierra,90.0,-17.792427,-63.179794
+DEP00454,departamento,disponible,venta,75000.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,32.0,-17.75522,-63.193516
+DEP00455,departamento,disponible,alquiler,400.0,dolar,3,3,Entre 3er y 4to anillo Norte,Santa Cruz de la Sierra,158.0,-17.754328,-63.17165
+DEP00456,departamento,disponible,venta,50000.0,dolar,1,1,Entre 5to y 6to anillo Norte,Santa Cruz de la Sierra,35.8,-17.738802,-63.168659
+CAS00381,casa,disponible,alquiler,2800.0,dolar,3,4,Entre 7mo y 8vo anillo Norte,Santa Cruz de la Sierra,321.0,-17.723087,-63.167095
+CAS00382,casa,disponible,alquiler,700.0,dolar,3,2,Urubó,Santa Cruz de la Sierra,200.0,-17.795748,-63.27459
+TER00161,terreno,disponible,venta,850000.0,dolar,0,0,Carretera Norte,Santa Cruz de la Sierra,4441.0,-17.675547,-63.14912
+DEP00457,departamento,disponible,alquiler,350.0,dolar,1,1,Sirari,Santa Cruz de la Sierra,38.0,-17.764458,-63.201195
+GAL00014,galpon,disponible,venta,890000.0,dolar,8,8,Entre 6to y 7mo anillo Norte,Santa Cruz de la Sierra,1846.0,-17.73201,-63.168213
+DEP00458,departamento,disponible,venta,120000.0,dolar,2,2,Equipetrol,Santa Cruz de la Sierra,111.0,-17.770077,-63.196049
+CAS00383,casa,disponible,venta,600000.0,dolar,4,6,Urubó,Santa Cruz de la Sierra,431.0,-17.745234,-63.22163
+DEP00459,departamento,disponible,alquiler,700.0,dolar,1,2,Equipetrol,Santa Cruz de la Sierra,65.0,-17.756754,-63.197483
+CAS00384,casa,disponible,venta,780000.0,dolar,5,7,Urubó,Santa Cruz de la Sierra,750.0,-17.733871,-63.219486
+CAS00385,casa,disponible,venta,240000.0,dolar,5,4,Las Palmas,Santa Cruz de la Sierra,250.0,-17.798025,-63.21056
+DEP00460,departamento,disponible,alquiler,14300.0,dolar,2,1,Equipetrol,Santa Cruz de la Sierra,44.0,-17.770262,-63.193172
+DEP00461,departamento,disponible,alquiler,857.0,dolar,2,2,Equipetrol,Santa Cruz de la Sierra,71.0,-17.764847,-63.19392
+DEP00462,departamento,disponible,alquiler,3500.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,41.0,-17.757751,-63.198345
+DEP00463,departamento,disponible,alquiler,600.0,dolar,2,2,Equipetrol,Santa Cruz de la Sierra,110.0,-17.768797,-63.191505
+DEP00464,departamento,disponible,alquiler,240.0,dolar,1,1,Entre 1er y 2do anillo Sur,Santa Cruz de la Sierra,59.0,-17.797701,-63.176514
+DEP00465,departamento,disponible,venta,138000.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,51.0,-17.766022,-63.196701
+CAS00386,casa,disponible,venta,240000.0,dolar,4,5,Entre 5to y 6to anillo Sur,Santa Cruz de la Sierra,226.0,-17.844734,-63.180958
+CAS00387,casa,disponible,venta,78000.0,dolar,3,2,Carretera Norte,Santa Cruz de la Sierra,160.0,-17.660294,-63.162872
+DEP00466,departamento,disponible,alquiler,390.0,dolar,1,1,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,50.0,-17.762798,-63.179367
+TER00162,terreno,disponible,venta,1150680.0,dolar,0,0,Carretera Norte,Santa Cruz de la Sierra,47945.0,-17.524448,-63.158756
+DEP00467,departamento,disponible,venta,55000.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,50.0,-17.771444,-63.192989
+DEP00468,departamento,disponible,alquiler,300.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,54.0,-17.763426,-63.19339
+DEP00469,departamento,disponible,alquiler,350.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,55.0,-17.767937,-63.198895
+CAS00388,casa,disponible,alquiler,350.0,dolar,3,2,Entre 3er y 4to anillo Norte,Santa Cruz de la Sierra,180.0,-17.753107,-63.181553
+TER00163,terreno,disponible,venta,4160000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,80000.0,-17.775497,-63.239193
+DEP00470,departamento,disponible,alquiler,370.0,dolar,2,1,Entre 4to y 5to anillo Oeste,Santa Cruz de la Sierra,75.0,-17.786392,-63.221855
+DEP00471,departamento,disponible,alquiler,280.0,dolar,2,1,Equipetrol,Santa Cruz de la Sierra,55.0,-17.760206,-63.196232
+DEP00472,departamento,disponible,venta,63000.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,36.0,-17.766256,-63.193943
+DEP00473,departamento,disponible,alquiler,1500.0,dolar,3,4,Sirari,Santa Cruz de la Sierra,200.0,-17.761791,-63.20266
+TER00164,terreno,disponible,venta,95000.0,dolar,0,0,Cambodromo,Santa Cruz de la Sierra,336.0,-17.738955,-63.143433
+EDI00021,edificio,disponible,alquiler,900.0,dolar,4,5,Entre 4to y 5to anillo Sur,Santa Cruz de la Sierra,280.0,-17.827135,-63.184666
+DEP00474,departamento,disponible,alquiler,435.0,dolar,3,2,Entre 1er y 2do anillo Norte,Santa Cruz de la Sierra,102.0,-17.771942,-63.16967
+CAS00389,casa,disponible,venta,184348.0,dolar,3,3,Carretera Norte,Santa Cruz de la Sierra,195.0,-17.705896,-63.128601
+DEP00475,departamento,disponible,venta,239500.0,dolar,3,3,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,109.0,-17.765305,-63.189014
+DEP00476,departamento,disponible,alquiler,370.0,dolar,1,2,Equipetrol,Santa Cruz de la Sierra,40.0,-17.765085,-63.194939
+DEP00477,departamento,disponible,alquiler,522.0,dolar,3,3,Entre 4to y 5to anillo Oeste,Santa Cruz de la Sierra,147.0,-17.7931,-63.221359
+DEP00478,departamento,disponible,alquiler,280.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,30.0,-17.767061,-63.195534
+OFI00102,oficina,disponible,alquiler,650.0,dolar,1,1,Centro,Santa Cruz de la Sierra,58.0,-17.790335,-63.178146
+TER00165,terreno,disponible,venta,190000.0,dolar,0,0,Zona Nueva Santa Cruz,Santa Cruz de la Sierra,12430.0,-17.670828,-63.056309
+DEP00479,departamento,disponible,venta,86000.0,dolar,2,2,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,83.0,-17.76705,-63.185287
+TER00166,terreno,disponible,venta,33553.0,dolar,0,0,Carretera Cotoca,Santa Cruz de la Sierra,479.0,-17.753128,-63.003487
+CAS00390,casa,disponible,venta,119900.0,dolar,3,3,Carretera Norte,Santa Cruz de la Sierra,120.0,-17.705877,-63.144951
+OFI00103,oficina,disponible,alquiler,7000.0,dolar,12,6,Entre 2do y 3er anillo Este,Santa Cruz de la Sierra,824.0,-17.772366,-63.159245
+GAL00015,galpon,disponible,venta,338571.0,dolar,3,3,Entre 1er y 2do anillo Este,Santa Cruz de la Sierra,452.0,-17.785934,-63.169132
+TER00167,terreno,disponible,venta,450000.0,dolar,0,0,Entre 3er y 4to anillo Norte,Santa Cruz de la Sierra,783.0,-17.757792,-63.177647
+CAS00391,casa,disponible,alquiler,857.0,dolar,3,3,Entre 6to y 7mo anillo Oeste,Santa Cruz de la Sierra,197.0,-17.818106,-63.233002
+CAS00392,casa,disponible,venta,196500.0,dolar,7,6,Entre 2do y 3er anillo Oeste,Santa Cruz de la Sierra,218.0,-17.780008,-63.198479
+DEP00480,departamento,disponible,venta,137900.0,dolar,2,2,Entre 3er y 4to anillo Norte,Santa Cruz de la Sierra,92.0,-17.752611,-63.180656
+DEP00481,departamento,disponible,venta,55000.0,dolar,1,2,Equipetrol,Santa Cruz de la Sierra,50.0,-17.768309,-63.196175
+DEP00482,departamento,disponible,venta,155000.0,dolar,4,3,Centro,Santa Cruz de la Sierra,172.0,-17.784637,-63.173317
+CAS00393,casa,disponible,venta,140000.0,dolar,2,1,Entre 6to y 7mo anillo Norte,Santa Cruz de la Sierra,119.0,-17.730759,-63.165836
+TER00168,terreno,disponible,venta,155000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,931.0,-17.734976,-63.219616
+CAS00394,casa,disponible,alquiler,750.0,dolar,3,3,Entre 4to y 5to anillo Oeste,Santa Cruz de la Sierra,160.0,-17.800327,-63.218704
+CAS00395,casa,disponible,venta,310000.0,dolar,3,2,Equipetrol,Santa Cruz de la Sierra,170.0,-17.770378,-63.195541
+DEP00483,departamento,disponible,venta,120000.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,88.0,-17.766844,-63.194393
+DEP00484,departamento,disponible,venta,165000.0,dolar,2,2,Entre 2do y 3er anillo Norte,Santa Cruz de la Sierra,112.0,-17.763302,-63.175858
+OFI00104,oficina,disponible,venta,47583.0,dolar,1,1,Centro,Santa Cruz de la Sierra,54.0,-17.791233,-63.177204
+DEP00485,departamento,disponible,venta,112000.0,dolar,2,3,Equipetrol,Santa Cruz de la Sierra,90.0,-17.772329,-63.191868
+CAS00396,casa,disponible,venta,250000.0,dolar,5,4,Entre 4to y 5to anillo Oeste,Santa Cruz de la Sierra,192.0,-17.791067,-63.218433
+DEP00486,departamento,disponible,alquiler,350.0,dolar,1,1,Equipetrol,Santa Cruz de la Sierra,55.0,-17.756952,-63.199104
+TER00169,terreno,disponible,venta,1500000.0,dolar,0,0,Urubó,Santa Cruz de la Sierra,10000.0,-17.761992,-63.222576
+DEP00487,departamento,disponible,venta,190000.0,dolar,3,4,Entre 1er y 2do anillo Norte,Santa Cruz de la Sierra,200.0,-17.773577,-63.183918
+TER00170,terreno,disponible,venta,710000.0,dolar,0,0,Entre 8vo y 9no anillo Norte,Santa Cruz de la Sierra,7100.0,-17.723967,-63.131466
+EDI00022,edificio,disponible,venta,2000000.0,dolar,72,20,Entre 2do y 3er anillo Este,Santa Cruz de la Sierra,2287.0,-17.789919,-63.162598
+DEP00488,departamento,disponible,venta,255000.0,dolar,3,2,Sirari,Santa Cruz de la Sierra,220.0,-17.759064,-63.201324
+DEP00489,departamento,disponible,alquiler,350.0,dolar,2,2,Entre 2do y 3er anillo Oeste,Santa Cruz de la Sierra,105.0,-17.794081,-63.194862
+DEP00490,departamento,disponible,alquiler,550.0,dolar,3,3,Las Palmas,Santa Cruz de la Sierra,148.0,-17.798677,-63.208931
+DEP00491,departamento,disponible,venta,135000.0,dolar,3,4,Alalay,Cochabamba,165.0,-17.426811,-66.135574
+GAL00016,galpon,disponible,alquiler,3000.0,dolar,4,5,La Chimba,Cochabamba,960.0,-17.392492,-66.21801
+CAS00397,casa,disponible,venta,380000.0,dolar,6,4,Cala Cala,Cochabamba,330.0,-17.379032,-66.17305
+CAS00398,casa,disponible,venta,175000.0,dolar,3,3,Tiquipaya,Cochabamba,170.0,-17.361904,-66.217827
+CAS00399,casa,disponible,venta,165000.0,dolar,3,3,Tiquipaya,Cochabamba,175.0,-17.344427,-66.224823
+CAS00400,casa,disponible,venta,160000.0,dolar,6,5,Pacata,Cochabamba,297.0,-17.384478,-66.117729
+CAS00401,casa,disponible,venta,205000.0,dolar,3,3,Sacaba,Cochabamba,244.0,-17.380852,-66.098183
+CAS00402,casa,disponible,venta,400000.0,dolar,3,2,Villa Tunari (Chapare),Cochabamba,360.0,-17.032192,-65.463188
+DEP00492,departamento,disponible,venta,190000.0,dolar,4,4,Las Cuadras,Cochabamba,219.0,-17.391134,-66.148277
+DEP00493,departamento,disponible,anticretico,12500.0,dolar,1,1,Sarco,Cochabamba,51.0,-17.38242,-66.190117
+DEP00494,departamento,disponible,venta,120000.0,dolar,3,3,Villa Taquiña,Cochabamba,135.0,-17.34745,-66.197639
+CAS00403,casa,disponible,venta,92400.0,dolar,3,3,Pacata,Cochabamba,160.0,-17.367395,-66.128571
+CAS00404,casa,disponible,venta,381000.0,dolar,5,6,Noroeste,Cochabamba,546.0,-17.385492,-66.164177
+DEP00495,departamento,disponible,venta,50000.0,dolar,2,2,Noroeste,Cochabamba,65.0,-17.38759,-66.172806
+DEP00496,departamento,disponible,anticretico,20000.0,dolar,1,1,Muyurina,Cochabamba,52.0,-17.379812,-66.148422
+DEP00497,departamento,disponible,alquiler,140.0,dolar,1,1,Las Cuadras,Cochabamba,31.0,-17.395742,-66.142418
+CAS00405,casa,disponible,venta,2500000.0,dolar,28,7,Sudoeste,Cochabamba,800.0,-17.39431,-66.155098
+TER00171,terreno,disponible,venta,550000.0,dolar,0,0,16 de Julio,El Alto,488.0,-16.494692,-68.172951
+CAS00406,casa,disponible,venta,160000.0,dolar,2,1,Tejada Rectangular,El Alto,140.0,-16.515451,-68.153603
+LOC00042,local comercial,disponible,alquiler,24000.0,dolar,4,2,Ciudad Satélite,El Alto,400.0,-16.524839,-68.148575
+LOC00043,local comercial,disponible,venta,5500000.0,dolar,5,11,Villa Bolívar,El Alto,5454.0,-16.515665,-68.162292
+GAL00017,galpon,disponible,venta,2900000.0,dolar,12,13,Pedro D. Murillo,El Alto,2790.0,-16.498135,-68.188499
+TER00172,terreno,disponible,venta,18000.0,dolar,0,0,Villa Mercedes,El Alto,294.0,-16.594328,-68.213722
+CAS00407,casa,disponible,venta,280000.0,dolar,14,7,Mercedario,El Alto,703.0,-16.524059,-68.232826
+GAL00018,galpon,disponible,venta,847500.0,dolar,4,5,Villa Bolívar,El Alto,1500.0,-16.527334,-68.176468
+TER00173,terreno,disponible,venta,6458.0,dolar,0,0,Trinidad,Trinidad,312.0,-14.798318,-64.870636
+TER00174,terreno,disponible,venta,300000.0,dolar,0,0,Miraflores,Tarija,9966.0,-21.552942,-64.739265
+DEP00498,departamento,disponible,venta,170000.0,dolar,3,3,Miraflores,Tarija,174.0,-21.552231,-64.726768
+DEP00499,departamento,disponible,venta,165000.0,dolar,3,3,Miraflores,Tarija,178.0,-21.552231,-64.726768
+DEP00500,departamento,disponible,venta,195000.0,dolar,3,3,Miraflores,Tarija,225.0,-21.552231,-64.726768
+QUI00013,quinta propiedad agricola,disponible,venta,3300000.0,dolar,1,12,Porongo,Porongo,9.0,-17.874277,-63.33897
+TER00175,terreno,disponible,venta,265000.0,dolar,0,0,Porongo,Porongo,752.0,-17.778595,-63.245415
+CAS00408,casa,disponible,venta,128000.0,dolar,2,2,Porongo,Porongo,170.0,-17.848135,-63.301205
+TER00176,terreno,disponible,venta,590000.0,dolar,0,0,Warnes,Warnes,4513.0,-17.527769,-63.162201
+TER00177,terreno,disponible,venta,629155.0,dolar,0,0,Parque Industrial Latinoamericano,Warnes,17.0,-17.537954,-63.126045
+TER00178,terreno,disponible,venta,322000.0,dolar,0,0,Warnes,Warnes,144113.0,-17.42486,-63.160915
+TER00179,terreno,disponible,venta,280000.0,dolar,0,0,Warnes,Warnes,100839.0,-17.428053,-63.158489
+TER00180,terreno,disponible,venta,4350.0,dolar,0,0,Warnes,Warnes,150.0,-17.453356,-63.178425
+CAS00409,casa,disponible,venta,40000.0,dolar,2,1,Parque Industrial Latinoamericano,Warnes,77.0,-17.518639,-63.144756
+CAS00410,casa,disponible,venta,100000.0,dolar,5,1,Cotoca,Cotoca,470.0,-17.75359,-62.996605
+CAS00411,casa,disponible,venta,82000.0,dolar,2,2,Cotoca,Cotoca,140.0,-17.715412,-63.026646
+EDI00023,edificio,disponible,venta,780000.0,dolar,37,40,Villamontes,Villamontes,2401.0,-21.259079,-63.470444
